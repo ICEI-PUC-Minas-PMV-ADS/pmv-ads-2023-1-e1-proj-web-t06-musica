@@ -1,6 +1,22 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+\9Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do proje
+
+Ideia geral do projeto
+
+Lista de bandas e conjuntos musicais de BH e região.
+
+Foco nessa região foi dado devido à fama culturalmente que existe e sempre foi desenvolvida no âmbito musical.
+
+Organização 
+
+* Segmentação dos grupos por estilo.
+
+* Ajudaria produtores locais e qualquer pessoa que gostaria de contratar alguma banda.
+
+* Ajudaria bandas autorais e de covers de vários estilos musicais.
+
+* Menos burocracia e muita praticidade para as bandas e produtores, ou, pessoas que gostariam de realizar um evento ou uma simples confraternização.
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
