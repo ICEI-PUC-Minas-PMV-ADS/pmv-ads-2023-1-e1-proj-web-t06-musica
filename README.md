@@ -6,7 +6,7 @@
 
 `SEMESTRE` 1º 2022.
 
-O projeto consiste na criação de uma lista cadastral de artistas (bandas autorais ou de covers) do cenário musical da cidade de Belo Horizonte e em sua região metropolitana.
+O projeto consiste na criação de uma lista cadastral de artistas (bandas autorais ou de covers) do cenário musical da cidade de Belo Horizonte e na sua região metropolitana.
 
 ## Integrantes
 
