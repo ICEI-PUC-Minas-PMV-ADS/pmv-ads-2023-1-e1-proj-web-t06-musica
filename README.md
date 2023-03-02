@@ -1,12 +1,12 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`CURSO` Análise e Desenvolvimento de Sistemas.
 
-`DISCIPLINA` Projeto Desenvolvimento de Aplicação Web Front-End
+`DISCIPLINA` Projeto Desenvolvimento de Aplicação Web Front-End.
 
-`SEMESTRE` 1º 2022
+`SEMESTRE` 1º 2022.
 
-O projeto consiste na criação de uma lista cadastral de artistas (bandas autorais ou de covers) do cenário musical da cidade de Belo Horizonte e região metropolitana.
+O projeto consiste na criação de uma lista cadastral de artistas (bandas autorais ou de covers) do cenário musical da cidade de Belo Horizonte e em sua região metropolitana.
 
 ## Integrantes
 
