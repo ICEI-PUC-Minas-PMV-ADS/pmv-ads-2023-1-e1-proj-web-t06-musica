@@ -2,22 +2,23 @@
 
 `CURSO`
 
-`DISCIPLINA`
+`DISCIPLINA` Projeto Desenvolvimento de Aplicação Web Front-End
 
-`SEMESTRE`
+`SEMESTRE` 1º 2022
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto consiste na criação de uma lista cadastral de artistas (bandas autorais ou de covers) do cenário musical da cidade de Belo Horizonte e região metropolitana.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Diogo Amancio
+* Gabriel Souza
+* Henrique Gabriel
+* João Leonardo
+* Luiz Felipe
 
 ## Orientador
 
-* Nome completo do professor 1
+* Marcos Andre Silveira Kutova
 
 ## Instruções de utilização
 
