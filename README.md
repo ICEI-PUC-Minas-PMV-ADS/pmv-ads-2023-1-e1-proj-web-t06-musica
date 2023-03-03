@@ -15,7 +15,7 @@ O projeto consiste na criação de uma lista cadastral de artistas (bandas autor
 * Henrique Gabriel
 * João Leonardo
 * Luiz Felipe
-* Dutra
+* Daniel Dutra
 
 ## Orientador
 
