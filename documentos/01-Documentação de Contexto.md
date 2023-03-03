@@ -39,6 +39,15 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
+## Justificativa
+
+Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+
+O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+
+> **Links Úteis**:
+> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+
  Referências para ajudar na defesa do nosso projeto.
 
 1º Duas matérias do ECAD ( O Ecad é a entidade brasileira responsável pela arrecadação e distribuição dos direitos autorais das músicas aos autores e demais titulares) que salienta o impacto negativo da pandemia no mercado de shows do Brasil.
@@ -66,17 +75,6 @@ Medeiros, M. A. (2012). Cultura, turismo e desenvolvimento local: Uma reflexão 
 Vi que esse artigo analisa as políticas públicas de Belo Horizonte relacionadas à cultura principalmente e destaca a importância desse setor para o desenvolvimento local. No artigo tem dados sobre a economia criativa em Belo Horizonte, e o autor argumenta que é preciso investir em políticas públicas que valorizem a cultura local até mesmo para expandir esses números de Bh 
 A questão é que com plataformas como desse nosso projeto estaremos incentivando o aumento desses números (economia criativa),
 fomento à economia local. 
-
-
-
-## Justificativa
-
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
