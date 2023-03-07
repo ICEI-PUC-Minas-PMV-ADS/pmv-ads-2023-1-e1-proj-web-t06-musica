@@ -2,13 +2,13 @@
 
 Com a evolução da internet e o desenvolvimento dos serviços digitais como sites e aplicativos, vários nichos de mercado vivenciaram uma grande transformação na realização prática dos seus serviços, considerando essa notável evolução digital em toda sociedade.
 
-Um desses nichos foi sem dúvida o do segmento artístico, tendo em vista o surgimento das plataformas de streaming como o Spotify, Deezer, iTunes e o SoundCloud.
+Um desses nichos foi sem dúvida o do segmento artístico, tendo em vista o surgimento das plataformas de streaming como o Spotify, Deezer, iTunes, SoundCloud e o YouTube.
 
 Dessa forma, é muito importante a valorização dos artistas em todas as plataformas digitais, afinal esse cenário faz parte do progresso tecnológico, mas também é de grande importância para a classe artística a comercialização dos seus shows de forma física com apresentações ao vivo em casas de eventos, em celebrações festivas ou em simples confraternizações familiares.
 
 A interação pessoal entre o artista e o público faz parte fundamental da qualidade do espetáculo, além disso, proporciona em um "efeito dominó" de prosperidade econômica e cultural entre o comércio e todos aqueles atores que regem um cenário regional do entretenimento. Uma nova possibilidade de divulgação artística autoral é muito adequado no que se refere a democratização musical no âmbito cultural. 
 
-Contextualizando todo esse cenário, é de extrema relevância um simples canal de informação para os artistas autônomos de uma determinada localidade geográfica. Um mecanismo onde permita que o usuário cadastre o seu conjunto musical de modo a promover o seu trabalho para o público dessa mesma localização de maneira simples e objetiva.
+Contextualizando todo esse cenário, é de extrema relevância um simples canal de informação para os artistas autônomos de uma determinada localidade geográfica. Um mecanismo onde permita que o usuário cadastre o seu conjunto musical de modo a promover o seu trabalho para o público dessa mesma localização de maneira simples e acessível.
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
