@@ -25,12 +25,12 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo central deste projeto é construir uma plataforma na qual seja disponibilizado uma espécie de listagem de bandas e artistas de Belo Horizonte para o usuário conseguir entrar em contato e contratá-lo(s) para um evento, uma confraternização, etc. A ideia é construir um filtro a fim de segmentar melhor cada estilo musical e facilitar a pesquisa de quem deseja contratar algum músico.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Objetivos Específicos:
+> Facilitar o encontro entre bandas e artistas locais com contratantes;
+> Fomentar a economia criativa de Belo Horizonte e em sua região Metropolitana.
+
 
 ## Justificativa
 
