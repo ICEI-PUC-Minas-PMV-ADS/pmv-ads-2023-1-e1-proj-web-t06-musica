@@ -6,6 +6,8 @@ Um desses nichos foi sem dúvida o do segmento artístico, tendo em vista o surg
 
 Dessa forma, é muito importante a valorização dos artistas em todas as plataformas digitais, afinal esse cenário faz parte do progresso tecnológico, mas também é de grande importância para a classe artística a comercialização dos seus shows de forma física com apresentações ao vivo.
 
+A interação pessoal entre artista e público faz parte fundamental da qualidade do espetáculo, além disso, proporciona em um "efeito dominó" de prosperidade econômica e cultural entre o comércio e todos aqueles atores que regem o cenário do entretenimento e do turismo. 
+
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
