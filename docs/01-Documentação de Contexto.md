@@ -11,11 +11,7 @@ A interação pessoal entre o artista e o público faz parte fundamental da qual
 Contextualizando todo esse cenário, é de extrema relevância um simples canal de informação para os artistas autônomos de uma determinada localidade geográfica. Um mecanismo onde permita que o usuário cadastre o seu conjunto musical de modo a promover o seu trabalho para o público dessa mesma localização de maneira simples e acessível.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Ressaltando todo o contexto publicado, o projeto visa facilitar a divulgação de conjuntos musicais. Ser uma opção confiável, ágil e simples, ajudando todos aqueles conjuntos musicais independentes que buscam uma maior visibilidade e inserção no cenário musical.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
