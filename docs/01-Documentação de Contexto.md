@@ -4,9 +4,11 @@ Com a evolução da internet e o desenvolvimento dos serviços digitais como sit
 
 Um desses nichos foi sem dúvida o do segmento artístico, tendo em vista o surgimento das plataformas de streaming como o Spotify, Deezer, iTunes e o SoundCloud.
 
-Dessa forma, é muito importante a valorização dos artistas em todas as plataformas digitais, afinal esse cenário faz parte do progresso tecnológico, mas também é de grande importância para a classe artística a comercialização dos seus shows de forma física com apresentações ao vivo, seja em casas de show profissionais, em celebrações festivas ou em simples confraternizações familiares.
+Dessa forma, é muito importante a valorização dos artistas em todas as plataformas digitais, afinal esse cenário faz parte do progresso tecnológico, mas também é de grande importância para a classe artística a comercialização dos seus shows de forma física com apresentações ao vivo em casas de eventos, em celebrações festivas ou em simples confraternizações familiares.
 
-A interação pessoal entre o artista e o público faz parte fundamental da qualidade do espetáculo, além disso, proporciona em um "efeito dominó" de prosperidade econômica e cultural entre o comércio e todos aqueles atores que regem o cenário do entretenimento e do turismo. 
+A interação pessoal entre o artista e o público faz parte fundamental da qualidade do espetáculo, além disso, proporciona em um "efeito dominó" de prosperidade econômica e cultural entre o comércio e todos aqueles atores que regem o cenário do entretenimento.
+
+Contextualizando todo esse cenário, é de extrema relevância um simples canal de informação para os artistas autônomos de uma determinada localidade geográfica. Um mecanismo onde permita que o usuário cadastre o seu conjunto musical de modo a promover o seu trabalho para o público dessa mesma localização. 
 
 
 ## Problema
