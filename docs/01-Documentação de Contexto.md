@@ -8,8 +8,7 @@ Dessa forma, é muito importante a valorização dos artistas em todas as plataf
 
 A interação pessoal entre o artista e o público faz parte fundamental da qualidade do espetáculo, além disso, proporciona em um "efeito dominó" de prosperidade econômica e cultural entre o comércio e todos aqueles atores que regem um cenário regional do entretenimento. Uma nova possibilidade de divulgação artística autoral é muito adequado no que se refere a democratização musical no âmbito cultural. 
 
-Contextualizando todo esse cenário, é de extrema relevância um simples canal de informação para os artistas autônomos de uma determinada localidade geográfica. Um mecanismo onde permita que o usuário cadastre o seu conjunto musical de modo a promover o seu trabalho para o público dessa mesma localização. 
-
+Contextualizando todo esse cenário, é de extrema relevância um simples canal de informação para os artistas autônomos de uma determinada localidade geográfica. Um mecanismo onde permita que o usuário cadastre o seu conjunto musical de modo a promover o seu trabalho para o público dessa mesma localização de maneira simples e objetiva.
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
