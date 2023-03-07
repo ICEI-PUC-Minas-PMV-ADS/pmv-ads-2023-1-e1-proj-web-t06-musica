@@ -61,7 +61,7 @@ fomento à economia local.
 
 ## Público-Alvo
 
-Tendo em vista a dificuldade que se tem de se encontrar um profissional de musica freelancer e também a dificuldade de iniciantes no ramo encontrarem oportunidades na área, o publico que este programa pretende alcançar, fica direcionado ao público-alvo de homens e mulheres entre 20 a 65 anos  que queiram promover covers artísticos em seus estabelecimentos de comercio e a qualquer pessoa que queria contratar esse profissional autônomo para se apresentar em eventos particulares do solicitante. 
+Apesar da existência de várias bandas em Belo Horizonte e na sua região metropolitana, o objetivo desse trabalho é contribuir ao desenvolvimento e atuação de novos artistas com um mecanismo bastante objetivo por meio de listas cadastrais. 
 
-Mas também para aqueles músicos e bandas que queriam uma oportunidade, poderem divulgar seus talentos para assim serem contratados.
+Considerando a dificuldade para se encontrar profissionais autorais e freelancers no ramo da música, o público que este projeto pretende alcançar fica direcionado ao público-alvo de homens e mulheres entre 20 e 65 que gostariam de organizar algum evento em seus estabelecimentos comerciais, ou, qualquer pessoa interessada na contratação dos artistas cadastrados em celebrações de menor porte. Tudo conforme o objetivo do solicitante.
 
