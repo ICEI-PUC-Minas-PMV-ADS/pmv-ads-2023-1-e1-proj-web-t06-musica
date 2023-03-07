@@ -20,11 +20,11 @@ Ressaltando todo o contexto publicado, o projeto visa facilitar a divulgação d
 
 ## Objetivos
 
-O objetivo central deste projeto é construir uma plataforma na qual seja disponibilizado uma espécie de listagem de bandas e artistas de Belo Horizonte para o usuário conseguir entrar em contato e contratá-lo(s) para um evento, uma confraternização, etc. A ideia é construir um filtro a fim de segmentar melhor cada estilo musical e facilitar a pesquisa de quem deseja contratar algum músico.
+O objetivo central deste projeto é construir uma plataforma na qual seja disponibilizado uma espécie de listagem de bandas e artistas de Belo Horizonte e região para o usuário conseguir entrar em contato e contratá-lo(s) para um evento ou uma simples confraternização. A ideia é construir um filtro a fim de segmentar melhor cada estilo musical e facilitar a pesquisa de quem deseja contratar algum músico.
 
 Objetivos Específicos:
 > Facilitar o encontro entre bandas e artistas locais com contratantes;
-> Fomentar a economia criativa de Belo Horizonte e em sua região Metropolitana.
+> Fomentar a economia criativa de Belo Horizonte e em sua região metropolitana.
 
 
 ## Justificativa
