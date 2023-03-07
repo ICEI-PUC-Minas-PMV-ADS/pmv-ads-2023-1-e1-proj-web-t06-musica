@@ -13,11 +13,6 @@ Contextualizando todo esse cenário, é de extrema relevância um simples canal 
 ## Problema
 Ressaltando todo o contexto publicado, o projeto visa facilitar a divulgação de conjuntos musicais. Ser uma opção confiável, ágil e simples, ajudando todos aqueles conjuntos musicais independentes que buscam uma maior visibilidade e inserção no cenário musical.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
 ## Objetivos
 
 O objetivo central deste projeto é construir uma plataforma na qual seja disponibilizado uma espécie de listagem de bandas e artistas de Belo Horizonte e região para o usuário conseguir entrar em contato e contratá-lo(s) para um evento ou uma simples confraternização. A ideia é construir um filtro a fim de segmentar melhor cada estilo musical e facilitar a pesquisa de quem deseja contratar algum músico.
