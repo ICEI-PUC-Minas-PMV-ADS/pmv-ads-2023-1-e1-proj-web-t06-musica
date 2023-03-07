@@ -1,5 +1,9 @@
 # Introdução
 
+Com a evolução da internet e o desenvolvimento dos serviços digitais como sites e aplicativos, vários nichos de mercado vivenciaram uma grande transformação de serviços considerando essa evolução digital.
+
+Um desses nichos foi sem dúvida o do segmento artístico, tendo em vista o surgimento das plataformas de streaming como o Spotify, Deezer, iTunes e o SoundCloud.
+
 OBS: Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 Ideia geral do projeto
