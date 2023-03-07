@@ -1,6 +1,6 @@
 # Introdução
 
-Com a evolução da internet e o desenvolvimento dos serviços digitais como sites e aplicativos, vários nichos de mercado vivenciaram uma grande transformação de serviços, considerando essa evolução digital em nossa sociedade.
+Com a evolução da internet e o desenvolvimento dos serviços digitais como sites e aplicativos, vários nichos de mercado vivenciaram uma grande transformação na realização prática dos seus serviços, considerando essa notável evolução digital em toda a esfera social.
 
 Um desses nichos foi sem dúvida o do segmento artístico, tendo em vista o surgimento das plataformas de streaming como o Spotify, Deezer, iTunes e o SoundCloud.
 
