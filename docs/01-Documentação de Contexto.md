@@ -22,7 +22,7 @@ Objetivos Específicos:
 > Fomentar a economia criativa de Belo Horizonte e em sua região metropolitana.
 
 
-## Justificativa
+## Justificativa (Em construção)
 
 Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
 
