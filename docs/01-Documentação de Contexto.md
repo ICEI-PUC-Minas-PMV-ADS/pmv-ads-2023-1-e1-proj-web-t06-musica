@@ -59,6 +59,8 @@ Vi que esse artigo analisa as políticas públicas de Belo Horizonte relacionada
 A questão é que com plataformas como desse nosso projeto estaremos incentivando o aumento desses números (economia criativa),
 fomento à economia local. 
 
+6º Ordem dos Músicos do Brasil, pode ter alguma referência interessante: https://www.ombcf.org.br/
+
 ## Público-Alvo
 
 Apesar da existência de várias bandas em Belo Horizonte e na sua região metropolitana, o objetivo desse trabalho é contribuir ao desenvolvimento e atuação de novos artistas com um mecanismo bastante objetivo por meio de listas cadastrais. 
