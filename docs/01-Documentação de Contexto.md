@@ -65,5 +65,5 @@ fomento à economia local.
 
 Apesar da existência de várias bandas em Belo Horizonte e na sua região metropolitana, o objetivo desse trabalho é contribuir ao desenvolvimento e atuação de novos artistas com um mecanismo bastante objetivo por meio de listas cadastrais. 
 
-Considerando a dificuldade para se encontrar profissionais autorais e freelancers no ramo da música, o público que este projeto pretende alcançar fica direcionado ao público-alvo de homens e mulheres entre 20 e 65 que gostariam de organizar algum evento em seus estabelecimentos comerciais, ou, qualquer pessoa interessada na contratação dos artistas cadastrados em celebrações de menor porte. Tudo conforme o objetivo do solicitante.
+Sendo assim o público-alvo que este projeto pretende alcançar, fica direcionado aqueles profissionais autorais e freelancers no ramo da música que estão a procura de shows para se apresentar, aos empresários e produtores que gostariam  de organizar algum evento em seus estabelecimentos comerciais, ou, qualquer pessoa interessada na contratação dos artistas cadastrados em celebrações de menor porte. Tudo conforme o objetivo do solicitante.
 
