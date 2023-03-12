@@ -25,42 +25,21 @@ Objetivos Específicos:
 
 ## Justificativa (Em construção)
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+ Artistas independentes buscam ganhar visibilidade e conquistar seu espaço dentro da indústria fonográfica. Eles representam o segmento com crescimento mais rápido no mercado global da música, saltando de uma participação de 1,7% no mercado em 2015 para 5,3% em 2021 (MIDiA Research, 2022).
+   
+ Já a pesquisa realizada pela agência Flow, com um grupo de jovens de onze estados brasileiros, aponta que 67% dos entrevistados, preferem assistir shows em formatos mais intimistas, com artistas mais próximos do público e para poucos convidados (Flow Creative Core, 2020).
+   
+ Para fomentar a inserção destes conjuntos musicais e artistas independentes em um mercado em reconstrução, pós pandemia de COVID-19, identificamos a necessidade de desenvolver uma plataforma a fim de promover a visibilidade e o trabalho destes profissionais e facilitar a procura de pessoas e empresas interessadas na contratação destes serviços.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
- Referências para ajudar na defesa do nosso projeto.
+Referencias:
 
-1º Duas matérias do ECAD ( O Ecad é a entidade brasileira responsável pela arrecadação e distribuição dos direitos autorais das músicas aos autores e demais titulares) que salienta o impacto negativo da pandemia no mercado de shows do Brasil.
+Sonar Cultural, 2020. Disponível em: < https://sonarcultural.com.br/pesquisas-revelam-tendencias-do-mercado-musical-independente-durante-a-pandemia-e-o-que-voce-deve-fazer-nesse-mercado-em-transformacao/>. Acesso em: 10/03/2023.
 
-a) https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2021-09/ecad-mostra-impacto-da-pandemia-no-mercado-de-shows
+Radio Rock, 2022. Disponível em: < https://www.radiorock.com.br/2022/12/08/artistas-independentes-fazem-barulho-de-3-bilhoes-de-dolares-no-mercado-da-musica/>. Acesso em: 10/03/2023.
 
-b) https://www.ubc.org.br/publicacoes/noticia/18923/ecad-divulga-relatorio-sobre-o-impacto-da-pandemia-no-mercado-de-shows-e-eventos
 
-2º Matéria do G1:
-
- a) https://g1.globo.com/pop-arte/noticia/2021/02/17/a-crise-do-entretenimento-na-pandemia-350-mil-eventos-adiados-ou-cancelados-e-r-90-milhoes-perdidos.ghtml
- 
-3º Relatório da UFMG sobre o impacto da Pandemia nas culturas em Belo Horizonte:
-
- a) https://pesquisas.face.ufmg.br/ecult/wp-content/uploads/sites/32/2022/06/IMPACTOS-DA-PANDEMIA-NAS-CULTURAS-EM-BELO-HORIZONTE-Machado-et-al.pdf
- 
- 4º Uma matéria do jornal O Tempo que conta um pouco da história da vida boemia de BH, dos bares e outras atividades do ramo. 
-
-https://www.otempo.com.br/diversao/magazine/a-historia-da-boemia-em-bh-1.230927
-
-5º Luiz Felipe:
-
-Medeiros, M. A. (2012). Cultura, turismo e desenvolvimento local: Uma reflexão sobre as políticas públicas de Belo Horizonte. Revista Estudos em Comunicação, 12(25), 43-56.
-
-Vi que esse artigo analisa as políticas públicas de Belo Horizonte relacionadas à cultura principalmente e destaca a importância desse setor para o desenvolvimento local. No artigo tem dados sobre a economia criativa em Belo Horizonte, e o autor argumenta que é preciso investir em políticas públicas que valorizem a cultura local até mesmo para expandir esses números de Bh 
-A questão é que com plataformas como desse nosso projeto estaremos incentivando o aumento desses números (economia criativa),
-fomento à economia local. 
-
-6º Ordem dos Músicos do Brasil, pode ter alguma referência interessante: https://www.ombcf.org.br/
 
 ## Público-Alvo
 
