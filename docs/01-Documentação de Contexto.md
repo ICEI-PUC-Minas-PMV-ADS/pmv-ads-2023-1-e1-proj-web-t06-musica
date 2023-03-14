@@ -25,17 +25,15 @@ Objetivos Específicos:
 
 ## Justificativa
 
- Artistas independentes buscam ganhar visibilidade e conquistar seu espaço dentro da indústria fonográfica. Eles representam o segmento com crescimento mais rápido no mercado global da música, saltando de uma participação de 1,7% no mercado em 2015 para 5,3% em 2021 (MIDIA RESEARCH,2022).
+ Artistas independentes buscam ganhar visibilidade e conquistar seu espaço dentro da indústria fonográfica. Eles representam o segmento com crescimento mais rápido no mercado global da música, saltando de uma participação de 1,7% no mercado em 2015 para 5,3% em 2021 (MIDIA RESEARCH,2022)[^1].
    
-Já a pesquisa realizada pela agência Flow, com um grupo de jovens de onze estados brasileiros, conseguiu que 67% dos desejados, preferem assistir shows em formatos mais intimistas, com artistas mais próximos do público e para poucos convidados (FLOW CREATIVE CORE, 2020).
+Já a pesquisa realizada pela agência Flow, com um grupo de jovens de onze estados brasileiros, conseguiu que 67% dos desejados, preferem assistir shows em formatos mais intimistas, com artistas mais próximos do público e para poucos convidados (FLOW CREATIVE CORE, 2020)[^note].
    
  Para fomentar a inserção destes conjuntos musicais e artistas independentes em um mercado em reconstrução, pós-pandemia de COVID-19, identificamos a necessidade de desenvolver uma plataforma a fim de promover a visibilidade e o trabalho destes profissionais e facilitar a procura de pessoas e empresas interessadas na contratação destes serviços.
 
+[^1]: Sonar Cultural, 2020. Disponível em: < https://sonarcultural.com.br/pesquisas-revelam-tendencias-do-mercado-musical-independente-durante-a-pandemia-e-o-que-voce-deve-fazer-nesse-mercado-em-transformacao/>. Acesso em: 10/03/2023.
 
-Referências:
-Sonar Cultural, 2020. Disponível em: < https://sonarcultural.com.br/pesquisas-revelam-tendencias-do-mercado-musical-independente-durante-a-pandemia-e-o-que-voce-deve-fazer-nesse-mercado-em-transformacao/>. Acesso em: 10/03/2023.
-
-Radio Rock, 2022. Disponível em: < https://www.radiorock.com.br/2022/12/08/artistas-independentes-fazem-barulho-de-3-bilhoes-de-dolares-no-mercado-da-musica/>. Acesso em: 10/03/2023.
+[^note]: Radio Rock, 2022. Disponível em: < https://www.radiorock.com.br/2022/12/08/artistas-independentes-fazem-barulho-de-3-bilhoes-de-dolares-no-mercado-da-musica/>. Acesso em: 10/03/2023.
 
 ## Público-Alvo
 
