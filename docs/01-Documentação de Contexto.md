@@ -37,7 +37,5 @@ Já a pesquisa realizada pela agência Flow, com um grupo de jovens de onze esta
 
 ## Público-Alvo
 
-Apesar da existência de várias bandas em Belo Horizonte e na sua região metropolitana, o objetivo desse trabalho é contribuir ao desenvolvimento e atuação de novos artistas com um mecanismo bastante objetivo por meio de listas cadastrais. 
-
-Sendo assim o público-alvo que este projeto pretende alcançar, fica direcionado aqueles profissionais autorais e freelancers no ramo da música que estão a procura de shows para se apresentar, aos empresários e produtores que gostariam  de organizar algum evento em seus estabelecimentos comerciais, ou, qualquer pessoa interessada na contratação dos artistas cadastrados em celebrações de menor porte. Tudo conforme o objetivo do solicitante.
+O público-alvo que este projeto pretende alcançar fica direcionado para os próprios músicos e as bandas que precisam se promover e ao público contratante, sendo empresários ou qualquer interessado na contratação de artistas. Os dois públicos em questão independem obrigatoriamente de alguma faixa etária ou algum gênero específico.
 
