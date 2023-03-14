@@ -11,7 +11,7 @@ A interação pessoal entre o artista e o público faz parte fundamental da qual
 Contextualizando todo esse cenário, é de extrema relevância um simples canal de informação para os artistas autônomos de uma determinada localidade geográfica. Um mecanismo onde permita que o usuário cadastre o seu conjunto musical de modo a promover o seu trabalho para o público dessa mesma localização de maneira simples e acessível.
 
 ## Problema
-Ressaltando todo o contexto publicado, o projeto visa facilitar a divulgação de conjuntos musicais. Ser uma opção confiável, ágil e simples, ajudando todos aqueles conjuntos musicais independentes que buscam uma maior visibilidade e inserção no cenário musical.
+Muitos artistas não conseguem se promover adequadamente para a realização de shows. Essa situação prejudica diretamente o músico em sua geração de renda.
 
 ## Objetivos
 
