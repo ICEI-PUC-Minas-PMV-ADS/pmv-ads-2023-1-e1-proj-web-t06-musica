@@ -2,9 +2,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+A plataforma de contratação de músicos locais é um projeto que consiste em uma plataforma online que conecta músicos e bandas locais a potenciais contratantes para eventos diversos. Para a especificação do projeto, foram utilizadas técnicas como a definição do diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais, além das restrições do projeto, que foram montados através de imersão da equipe e entrevistas com potenciais usuários. O projeto será desenvolvido com a ajuda de frameworks e linguagens de programação, além de testes de qualidade e segurança para garantir que a plataforma seja funcional, segura e atenda aos requisitos estabelecidos.
 
 ## Personas
 
