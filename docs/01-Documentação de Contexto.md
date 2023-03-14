@@ -37,5 +37,5 @@ Já a pesquisa realizada pela agência Flow, com um grupo de jovens de onze esta
 
 ## Público-Alvo
 
-O público-alvo que este projeto pretende alcançar fica direcionado para os próprios músicos e as bandas que precisam se promover e ao público contratante, sendo empresários ou qualquer interessado na contratação de artistas. Os dois públicos em questão independem obrigatoriamente de alguma faixa etária ou algum gênero específico.
+Os próprios músicos e as bandas que precisam se promover e ao público contratante, sendo empresários ou qualquer interessado na contratação de artistas. Os dois públicos em questão independem obrigatoriamente de alguma faixa etária ou algum gênero específico.
 
