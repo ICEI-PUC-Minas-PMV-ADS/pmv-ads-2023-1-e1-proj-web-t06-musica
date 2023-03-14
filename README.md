@@ -10,12 +10,12 @@ O projeto consiste na criação de uma lista cadastral de artistas (bandas autor
 
 ## Integrantes
 
+* Daniel Dutra
 * Diogo Amancio
 * Gabriel Souza
 * Henrique Gabriel
 * João Leonardo
 * Luiz Felipe
-* Daniel Dutra
 
 ## Orientador
 
