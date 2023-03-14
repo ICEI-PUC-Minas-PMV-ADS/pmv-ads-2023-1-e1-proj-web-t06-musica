@@ -19,8 +19,8 @@ Objetivo Principal:
 O objetivo central deste projeto é criar um mecanismo que facilite a divulgação de músicos e bandas locais para contratação.
 
 Objetivos Específicos:
-> Oferecer uma listagem das bandas e artistas locais;
-> Criar um filtro a fim de segmentar cada estilo musical e facilitar a pesquisa de quem deseja contratar.
+- Oferecer uma listagem das bandas e artistas locais.
+- Criar um filtro a fim de segmentar cada estilo musical e facilitar a pesquisa de quem deseja contratar.
 
 
 ## Justificativa
