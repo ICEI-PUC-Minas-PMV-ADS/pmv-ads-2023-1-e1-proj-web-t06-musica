@@ -1,14 +1,14 @@
 # Introdução
 
-Com a evolução da internet e o desenvolvimento dos serviços digitais como sites e aplicativos, vários nichos de mercado vivenciaram uma grande transformação na realização prática dos seus serviços, considerando essa notável evolução digital em toda sociedade.
+Com a evolução da internet e o desenvolvimento dos serviços digitais como sites e aplicativos, vários nichos de mercado vivenciaram uma grande transformação na realização prática dos seus serviços considerando essa notável evolução digital em toda sociedade.
 
-Um desses nichos foi sem dúvida o do segmento artístico, tendo em vista o surgimento das plataformas de streaming como o Spotify, Deezer, iTunes, SoundCloud e o YouTube.
+Um desses nichos foi sem dúvida o do segmento artístico tendo em vista o surgimento dos vários serviços de streaming como o Spotify, Deezer, iTunes, SoundCloud e o YouTube.
 
-Dessa forma, é muito importante a valorização dos artistas em todas as plataformas digitais, afinal esse cenário faz parte do progresso tecnológico, mas também é de grande importância para a classe artística a comercialização dos seus shows de forma física com apresentações ao vivo em casas de eventos, em celebrações festivas ou em simples confraternizações familiares.
+Dessa forma é muito importante a valorização dos artistas em todas as plataformas de streaming, pois esse cenário faz parte do progresso tecnológico e do segmento artístico.
 
-A interação pessoal entre o artista e o público faz parte fundamental da qualidade do espetáculo, além disso, proporciona em um "efeito dominó" de prosperidade econômica e cultural entre o comércio e todos aqueles atores que regem um cenário regional do entretenimento. Uma nova possibilidade de divulgação artística autoral é muito adequado no que se refere a democratização musical no âmbito cultural. 
+Nesse contexto, as plataformas digitais também podem ser recursos para estimular a contratação de músicos e ser um meio tecnológico que ajude a expansão de geração de renda aos artistas.
 
-Contextualizando todo esse cenário, é de extrema relevância um simples canal de informação para os artistas autônomos de uma determinada localidade geográfica. Um mecanismo onde permita que o usuário cadastre o seu conjunto musical de modo a promover o seu trabalho para o público dessa mesma localização de maneira simples e acessível.
+ A facilidade de acesso vai impactar diretamente a vida profissional do artista, afinal, o músico possui a necessidade de sempre promover o seu trabalho visando ser cada vez mais conhecido para ser contratado.
 
 ## Problema
 Muitos artistas não conseguem se promover adequadamente para a realização de shows. Essa situação prejudica diretamente o músico em sua geração de renda.
