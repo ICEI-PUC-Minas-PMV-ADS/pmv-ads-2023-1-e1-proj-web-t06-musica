@@ -8,7 +8,7 @@ Dessa forma é muito importante a valorização dos artistas em todas as platafo
 
 Nesse contexto, as plataformas digitais também podem ser recursos para estimular a contratação de músicos e ser um meio tecnológico que ajude a expansão de geração de renda aos artistas.
 
- A facilidade de acesso vai impactar diretamente a vida profissional do artista, afinal, o músico possui a necessidade de sempre promover o seu trabalho visando ser cada vez mais conhecido para ser contratado.
+A facilidade de acesso vai impactar diretamente a vida profissional do artista, afinal, o músico possui a necessidade de sempre promover o seu trabalho visando ser cada vez mais conhecido para ser contratado.
 
 ## Problema
 Muitos artistas não conseguem se promover adequadamente para a realização de shows. Essa situação prejudica diretamente o músico em sua geração de renda.
@@ -25,9 +25,9 @@ Objetivos Específicos:
 
 ## Justificativa
 
- Artistas independentes buscam ganhar visibilidade e conquistar seu espaço dentro da indústria fonográfica. Eles representam o segmento com crescimento mais rápido no mercado global da música, saltando de uma participação de 1,7% no mercado em 2015 para 5,3% em 2021 (MIDiA Research, 2022).
+ Artistas independentes buscam ganhar visibilidade e conquistar seu espaço dentro da indústria fonográfica. Eles representam o segmento com crescimento mais rápido no mercado global da música, saltando de uma participação de 1,7% no mercado em 2015 para 5,3% em 2021 (MIDIA RESEARCH,2022).
    
-Já a pesquisa realizada pela agência Flow, com um grupo de jovens de onze estados brasileiros, conseguiu que 67% dos desejados, preferem assistir shows em formatos mais intimistas, com artistas mais próximos do público e para poucos convidados (Flow Creative Core, 2020).
+Já a pesquisa realizada pela agência Flow, com um grupo de jovens de onze estados brasileiros, conseguiu que 67% dos desejados, preferem assistir shows em formatos mais intimistas, com artistas mais próximos do público e para poucos convidados (FLOW CREATIVE CORE, 2020).
    
  Para fomentar a inserção destes conjuntos musicais e artistas independentes em um mercado em reconstrução, pós-pandemia de COVID-19, identificamos a necessidade de desenvolver uma plataforma a fim de promover a visibilidade e o trabalho destes profissionais e facilitar a procura de pessoas e empresas interessadas na contratação destes serviços.
 
