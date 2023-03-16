@@ -33,7 +33,7 @@ Já a pesquisa realizada pela agência Flow, com um grupo de jovens de onze esta
  
 [^1]: 89 FM RADIO ROCK. **https://www.radiorock.com.br/.** Artistas independentes fazem barulho de 3 bilhões de dólares no mercado da música. São Paulo: 89 FM Radio Rock, 2022. 8 de Dezembro. Disponível em: https://www.radiorock.com.br/2022/12/08/artistas-independentes-fazem-barulho-de-3-bilhoes-de-dolares-no-mercado-da-musica/#:~:text=Segundo%20a%20MIDiA%20Research%2C%20artistas,5%2C3%25%20em%202021/%3E>. Acesso em: 10 mar. 2023.
 
-[^note]: Sonar Cultural, 2020. Disponível em: < https://sonarcultural.com.br/pesquisas-revelam-tendencias-do-mercado-musical-independente-durante-a-pandemia-e-o-que-voce-deve-fazer-nesse-mercado-em-transformacao/ >.Acesso em: 10/03/2023. (EM ANDAMENTO PARA CORREÇÃO)
+[^note]: Sonar Cultural. **https://sonarcultural.com.br/.**  Pesquisas revelam tendências do mercado musical independente durante a pandemia – e o que você deve fazer nesse mercado em transformação. Campinas - SP: Sonar Cultural, 2020. 9 de outubro. Disponível em: < https://sonarcultural.com.br/pesquisas-revelam-tendencias-do-mercado-musical-independente-durante-a-pandemia-e-o-que-voce-deve-fazer-nesse-mercado-em-transformacao/ >.Acesso em: 10 mar. 2023.
 
 ## Público-Alvo
 
