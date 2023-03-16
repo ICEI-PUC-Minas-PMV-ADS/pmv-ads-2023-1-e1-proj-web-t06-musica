@@ -31,9 +31,9 @@ Já a pesquisa realizada pela agência Flow, com um grupo de jovens de onze esta
    
  Para fomentar a inserção destes conjuntos musicais e artistas independentes em um mercado em reconstrução, pós-pandemia de COVID-19, identificamos a necessidade de desenvolver uma plataforma a fim de promover a visibilidade e o trabalho destes profissionais e facilitar a procura de pessoas e empresas interessadas na contratação destes serviços.
 
-[^1]: Sonar Cultural, 2020. Disponível em: < https://sonarcultural.com.br/pesquisas-revelam-tendencias-do-mercado-musical-independente-durante-a-pandemia-e-o-que-voce-deve-fazer-nesse-mercado-em-transformacao/>. Acesso em: 10/03/2023.
+[^1]: RÁDIO ROCK, 2020. Disponível em: < https://www.radiorock.com.br/2022/12/08/artistas-independentes-fazem-barulho-de-3-bilhoes-de-dolares-no-mercado-da-musica/#:~:text=Segundo%20a%20MIDiA%20Research%2C%20artistas,5%2C3%25%20em%202021/>. Acesso em: 10/03/2023.
 
-[^note]: Radio Rock, 2022. Disponível em: < https://www.radiorock.com.br/2022/12/08/artistas-independentes-fazem-barulho-de-3-bilhoes-de-dolares-no-mercado-da-musica/>. Acesso em: 10/03/2023.
+[^note]: Sonar Cultural, 2020. Disponível em: < https://sonarcultural.com.br/pesquisas-revelam-tendencias-do-mercado-musical-independente-durante-a-pandemia-e-o-que-voce-deve-fazer-nesse-mercado-em-transformacao/>. Acesso em: 10/03/2023.
 
 ## Público-Alvo
 
