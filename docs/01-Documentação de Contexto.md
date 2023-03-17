@@ -22,6 +22,43 @@ Objetivos Específicos:
 - Oferecer uma listagem das bandas e artistas locais.
 - Criar um filtro a fim de segmentar cada estilo musical e facilitar a pesquisa de quem deseja contratar.
 
+## Trabalhos relacionados (soluções que já existem) EM ATUALIZAÇÃO
+
+ATUALIZAÇÃO REFERÊNCIAS
+
+
+Sites:
+
+GBC PRODUÇÕES 
+https://www.gbcproducoes.com.br/contato
+Focado nos artistas grandes 
+Nosso diferencial é que vamos focar  nas bandas iniciantes 
+
+
+CONTRATASHOW
+ https://contratashow.com.br/contratar 
+faz basicamente oque a gente quer fazer, porem aparentemente o serviço é pago , o nosso diferencial é que queremos fazer algo acessível para todos 
+https://perfil.eshows.com.br/silvia-viana-ritimos-variados-e-mpb 
+eshow 
+tambem bastante semelhante ao que a gente quer fazer 
+
+
+CONTRATABANDA
+https://contratabanda.com.br/
+
+APPS:
+
+MUSICO FREELANCER 
+Pouco conhecido 
+apresenta músicos de diversos lugares do país por meio de anúncios
+Os anúncios são gratuitos, mas é possível pagar para ter mais destaque, tambem da pra encontrar musico para sua banda 
+
+JAMBRO
+Funciona como um tinder musical, vc encontra o musico de acordo com os seus gostos 
+Porem é um app estrangeiro e tem poucos brasileiros
+
+TOCAKI
+https://www.tocaki.com.br/
 
 ## Justificativa
 
