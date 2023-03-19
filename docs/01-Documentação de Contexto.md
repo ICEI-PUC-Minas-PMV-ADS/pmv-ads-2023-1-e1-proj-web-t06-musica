@@ -39,34 +39,33 @@ No entanto, não existe uma categoria dentro do site para artistas que estão em
 CONTRATASHOW
 https://contratashow.com.br/contratar 
 
-ContrataShow é uma plataforma semelhante a proposta deste projeto, na qual o visitante consegue receber orçamentos dos artistas, ver avaliações, se cadastrar como musico e etc.
+ContrataShow é uma plataforma na qual o visitante consegue receber orçamentos dos artistas, ver avaliações, se cadastrar como musico e etc.
 Porem, se o visitante do site for musico, precisa inserir dinheiro real ao site para adquirir "créditos" para ai sim poder receber orçamentos de contratantes interessados.
 
 
 ESHOW https://eshows.com.br
 
-Eshow é um site semelhante à ideia principal deste projeto, com uma alta gama de artistas, na qual o visitante possa ver avaliações, filtrar buscas de acordo com o evento desejado, filtrar por categoria, se cadastrar como musico entre outras funções.
+Eshow é um site com uma alta gama de artistas, na qual o visitante possa ver avaliações, filtrar buscas de acordo com o evento desejado, filtrar por categoria, se cadastrar como musico entre outras funções.
 Contudo, existe um excesso de informação e requisitos para se contratar ou para se cadastrar como artista. Este projeto pretende tornar essa relação entre contratante e artista mais simplificada.
 
- 
+CONTRATABANDA https://contratabanda.com.br/
 
-
-CONTRATABANDA
-https://contratabanda.com.br/
+Contratabanda é um portal artístico com diversos estilos e bandas, o visitante tem a opção de selecionar o estado e cidade para o seu evento, alem de poder escolher o gênero musical que mais lhe agrada. 
 
 APPS:
 
 MUSICO FREELANCER 
-Pouco conhecido 
-apresenta músicos de diversos lugares do país por meio de anúncios
-Os anúncios são gratuitos, mas é possível pagar para ter mais destaque, tambem da pra encontrar musico para sua banda 
+
+O aplicativo em questão apresenta músicos de diversos lugares do país por meio de anúncios, nos quais são gratuitos, mas é possível pagar para ter mais destaque.
+Por meio dele, se o usuário for musico, é possível também encontra um artista para sua própria banda musical.
 
 JAMBRO
-Funciona como um tinder musical, vc encontra o musico de acordo com os seus gostos 
-Porem é um app estrangeiro e tem poucos brasileiros
+Este aplicativo funciona como um "tinder musical", no qual o usuário encontra o artista de acordo com  suas preferências e pode dar "match" com o musico que lhe mais agradar.
+Porem é um aplicativo estrangeiro e tem poucos brasileiros em seu servidor.
 
-TOCAKI
-https://www.tocaki.com.br/
+TOCAKI https://www.tocaki.com.br
+
+Tocaki é um aplicativo que facilita a contratação de música ao vivo por meio de um aplicativo que conecta bares e restaurantes a músicos separados por estilos musicais.
 
 ## Justificativa
 
