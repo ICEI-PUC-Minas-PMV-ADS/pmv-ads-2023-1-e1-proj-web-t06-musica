@@ -60,6 +60,7 @@ O aplicativo em questão apresenta músicos de diversos lugares do país por mei
 Por meio dele, se o usuário for musico, é possível também encontra um artista para sua própria banda musical.
 
 JAMBRO
+
 Este aplicativo funciona como um "tinder musical", no qual o usuário encontra o artista de acordo com  suas preferências e pode dar "match" com o musico que lhe mais agradar.
 Porem é um aplicativo estrangeiro e tem poucos brasileiros em seu servidor.
 
