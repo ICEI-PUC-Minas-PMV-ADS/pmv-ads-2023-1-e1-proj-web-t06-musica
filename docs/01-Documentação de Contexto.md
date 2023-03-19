@@ -40,7 +40,7 @@ CONTRATASHOW
 https://contratashow.com.br/contratar 
 
 ContrataShow é uma plataforma na qual o visitante consegue receber orçamentos dos artistas, ver avaliações, se cadastrar como musico e etc.
-Porem, se o visitante do site for musico, precisa inserir dinheiro real ao site para adquirir "créditos" para ai sim poder receber orçamentos de contratantes interessados.
+Porem, se o visitante do site for musico, precisa inserir dinheiro real ao site para adquirir "créditos" para ai sim poder enviar orçamentos para contratantes interessados.
 
 
 ESHOW https://eshows.com.br
