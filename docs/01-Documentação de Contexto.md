@@ -43,7 +43,7 @@ ContrataShow é uma plataforma semelhante a proposta deste projeto, na qual o vi
 Porem, se o visitante do site for musico, precisa inserir dinheiro real ao site para adquirir "créditos" para ai sim poder receber orçamentos de contratantes interessados.
 
 
-https://eshows.com.br
+ESHOW https://eshows.com.br
 
 Eshow é um site semelhante à ideia principal deste projeto, com uma alta gama de artistas, na qual o visitante possa ver avaliações, filtrar buscas de acordo com o evento desejado, filtrar por categoria, se cadastrar como musico entre outras funções.
 Contudo, existe um excesso de informação e requisitos para se contratar ou para se cadastrar como artista. Este projeto pretende tornar essa relação entre contratante e artista mais simplificada.
