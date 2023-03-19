@@ -30,17 +30,25 @@ ATUALIZAÇÃO REFERÊNCIAS
 Sites:
 
 GBC PRODUÇÕES 
-https://www.gbcproducoes.com.br/contato
-Focado nos artistas grandes 
-Nosso diferencial é que vamos focar  nas bandas iniciantes 
+https://www.gbcproducoes.com.br
 
+ Gbc produções é um site especializado em fornecer artistas musicais de alta qualidade para eventos, no qual seu casting artístico incluí grandes nomes no ramo musical da atualidade. Por exemplo, o cantor de piseiro João Gomes, Mc Guime, Dj Alok e muitos outros.
+
+No entanto, não existe uma categoria dentro do site para artistas que estão em inicio de carreira possam se promover.
 
 CONTRATASHOW
- https://contratashow.com.br/contratar 
-faz basicamente oque a gente quer fazer, porem aparentemente o serviço é pago , o nosso diferencial é que queremos fazer algo acessível para todos 
-https://perfil.eshows.com.br/silvia-viana-ritimos-variados-e-mpb 
-eshow 
-tambem bastante semelhante ao que a gente quer fazer 
+https://contratashow.com.br/contratar 
+
+ContrataShow é uma plataforma semelhante a proposta deste projeto, na qual o visitante consegue receber orçamentos dos artistas, ver avaliações, se cadastrar como musico e etc.
+Porem, se o visitante do site for musico, precisa inserir dinheiro real ao site para adquirir "créditos" para ai sim poder receber orçamentos de contratantes interessados.
+
+
+https://eshows.com.br
+
+Eshow é um site semelhante à ideia principal deste projeto, com uma alta gama de artistas, na qual o visitante possa ver avaliações, filtrar buscas de acordo com o evento desejado, filtrar por categoria, se cadastrar como musico entre outras funções.
+Contudo, existe um excesso de informação e requisitos para se contratar ou para se cadastrar como artista. Este projeto pretende tornar essa relação entre contratante e artista mais simplificada.
+
+ 
 
 
 CONTRATABANDA
