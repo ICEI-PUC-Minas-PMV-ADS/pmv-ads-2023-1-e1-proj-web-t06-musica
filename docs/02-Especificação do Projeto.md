@@ -4,9 +4,43 @@
 
 A plataforma de contratação de músicos locais é um projeto que consiste em uma plataforma online que conecta músicos e bandas locais a potenciais contratantes para eventos diversos. Para a especificação do projeto, foram utilizadas técnicas como a definição do diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais, além das restrições do projeto, que foram montados através de imersão da equipe e entrevistas com potenciais usuários. O projeto será desenvolvido com a ajuda de frameworks e linguagens de programação, além de testes de qualidade e segurança para garantir que a plataforma seja funcional, segura e atenda aos requisitos estabelecidos.
 
-## Personas (Em construção)
+## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+## Persona empresário
+ Meu nome é Arthur Lima Cardoso tenho 45 anos, possuo superior incompleto, moro em Belo Horizonte, MG. Minha renda hoje está em torno de 5000 à 10000 reais.
+
+###### Biografia
+ Empresário no ramo de alimentação, no começo sempre trabalhei de CLT, mas quando o mercado Imobiliário entrou em baixa, Me ocorreu a ideia de entrar nesse ramo, juntei as economias e abri meu bar com o diferencial de musica ao vivo, na época era algo diferente, então tudo acabou dando muito certo e meu negocio cresceu rapidamente.
+
+###### Metas
+ Continuar Estável no meu negocio.
+
+###### Motivação
+ Sou uma pessoa muito família, minha mulher sempre apoiou minha ideia de criar meu próprio negocio, então agora que deu tudo certo, quero que esse negocio seja o negocio da família, quero que o que eu construí gere renda para as minhas gerações futuras.
+
+###### Frustrações
+ Esta cada vez mais difícil encontrar artistas com disponibilidade e a preços razoáveis para realizar apresentações no meu bar.
+
+###### Bloqueadores
+ Gestão dos shows e criação de agenda é meu maior bloqueador, há dias que não consigo artistas para se apresentar, pois grande parte das vezes, os artistas que possuo contato, tem outro shows e eventos e eu acabo perdendo uma parte da clientela justamente pela falta de um artista mais acessível.
+
+## Persona músico
+ Meu nome é James E. Renzi, tenho 24 anos, estudei até completar o ensino médio e moro em Belo Horizonte, MG. Hoje minha renda varia de acordo com o trabalho que eu consigo ao longo do mês.
+
+###### Biografia
+ Comecei a mexer com musica com 14 anos de idade, havia um grupo de rap perto de onde eu morava e eu gostava de participar dos eventos, eu treinei bastante e descobri que tinha talento na coisa, mas eu queria reconhecimento, queria ir mais longe. Cheguei a ter uma dupla pra escrever juntos, mas acabou não dando certo, mesmo assim segui me apresentando com minhas letras em alguns bares e até cheguei a dar aula de composição para uns garotos da minha região, mas nunca tive o reconhecimento que eu queria. Mesmo não tendo muito sucesso, fiz alguns contatos na minha região e continuo trabalhando e me apresentando em alguns bares dos bairros ao redor.
+
+###### Metas
+ Ser conhecido pelo meu trabalho, espalhar as minhas mensagens pelo Brasil e incentivar os mais novos a seguirem seus sonhos.
+
+###### Motivações
+ Mudar a vida da minha família através do meu trabalho.
+
+###### Frustrations
+ Dificuldade de ter visibilidade nas redes sociais. Depois que a pandemia começou a escassez de shows se tornou muito grande, ficando ainda mais dificil me manter na musica, além de causar um grande impacto financeiro na divulgação do meu trabalho.
+
+###### Bloqueadores
+ Não tenho empresário ou agencias para divulgação. Renda variável, nunca sei quanto vou fazer no mês pra conseguir reinvestir isso em meu trabalho. Não possuo uma maneira de "ranquear" meu trabalho, mostrar que ele é bom para as pessoas que não sabem quem eu sou, isso me traria mais oportunidades de ser contratado por outras pessoas além do meu público habitual.
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
