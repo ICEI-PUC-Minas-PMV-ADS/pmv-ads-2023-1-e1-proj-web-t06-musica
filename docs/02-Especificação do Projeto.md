@@ -54,24 +54,26 @@ Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos 
 >
 Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
-## Histórias de Usuários
+## Histórias de Usuários (em construção)
 
 #### Empresário
 
-| Necessidade                               | Preciso                                  | Motivo                             |
-|-------------------------------------------|------------------------------------------|------------------------------------|
-| Desejo aumentar a frenquência de clientes | Peciso de artistas com disponibilidade   | Para prover entreterimento         |
-| Desejo maior variedade de clientes        | Preciso de uma maior diversidade musical | Atrair um público novo             |
-| Manter a clientela por mais tempo no bar  | Preciso de um evento com mais atrações   | Manter o público consumindo no bar |
-| Contratar um produto de qualidade         | Preciso de um meio de avaliação          | Manter o alto nível das atrações   |
+| Necessidade                               | Para isso...                             | Motivo                                              |
+|-------------------------------------------|------------------------------------------|-----------------------------------------------------|
+| Desejo aumentar a frenquência de clientes | Preciso de artistas com disponibilidade   | Para manter o entreterimento no meu bar diariamente |
+| Desejo maior variedade de clientes        | Preciso de uma maior diversidade musical | Atrair um público novo                              |
+| Manter a clientela por mais tempo no bar  | Preciso de um evento com mais atrações   | Manter o público consumindo no bar                  |
+| Contratar um produto de qualidade         | Preciso de um meio de avaliação          | Manter o alto nível das atrações                    |
+
 
 
 #### Artista
 
-| Necessidade | Preciso | Motivo |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+| Necessidade                               | Para isso...                                                                       | Motivo                                                                |
+|-------------------------------------------|------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| Desejo conseguir contratos                | Preciso de uma ferramenta que exponha meu perfil para os contratantes              | Divulgar o meu trabalo                                                |
+| Desejo fazer parcerias musicais           | Preciso de um meio de comunicação entre os artistas para organizar maiores eventos | Promover shows com maior arrecadação                                  |
+| Desejo mostrar a qualidade do meu trabalho| Preciso de uma ferramenta de avaliação                                             | Entender se preciso melhorar e precificar melhor o meu trabalho |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
