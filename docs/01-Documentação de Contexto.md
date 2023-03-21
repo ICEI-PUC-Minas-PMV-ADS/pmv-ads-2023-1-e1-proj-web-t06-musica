@@ -36,27 +36,11 @@ https://contratashow.com.br/contratar
 
 - **Contratabanda** - É um site que oferece a possibilidade de cadastro para artistas e contratantes, assim, é possível buscar músicos conforme os estilos musicais de acordo com a seleção escolhida. Os cadastros dos estabelecimentos e artistas são limitados para algumas cidades dos estados de Minas Gerais, Distrito Federal, Paraná, Rio de Janeiro, Santa Catarina e São Paulo.
 
-
-
 https://contratabanda.com.br/
 
+- **Eshow** - É um site e aplicativo onde é realizado um serviço exclusivo aos músicos e estabelecimentos cadastrados por meio de uma curadoria musical conforme os objetivos de cada cliente. Existe uma cobrança para os artistas e aos contratantes devido esse trabalho de agenciamento.
 
-
-
-Sites:
-
-GBC PRODUÇÕES 
-https://www.gbcproducoes.com.br
-
- Gbc produções é um site especializado em fornecer artistas musicais de alta qualidade para eventos, no qual seu casting artístico incluí grandes nomes no ramo musical da atualidade. Por exemplo, o cantor de piseiro João Gomes, Mc Guime, Dj Alok e muitos outros.
-
-No entanto, não existe uma categoria dentro do site para artistas que estão em inicio de carreira possam se promover.
-
-
-ESHOW https://eshows.com.br
-
-Eshow é um site com uma alta gama de artistas, na qual o visitante possa ver avaliações, filtrar buscas de acordo com o evento desejado, filtrar por categoria, se cadastrar como musico entre outras funções.
-Contudo, existe um excesso de informação e requisitos para se contratar ou para se cadastrar como artista. Este projeto pretende tornar essa relação entre contratante e artista mais simplificada.
+https://eshows.com.br/sobre
 
 ## Justificativa
 
