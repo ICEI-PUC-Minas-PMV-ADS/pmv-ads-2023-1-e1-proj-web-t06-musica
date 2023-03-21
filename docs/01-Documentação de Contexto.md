@@ -22,7 +22,7 @@ Objetivos Específicos:
 - Oferecer uma listagem das bandas e artistas locais.
 - Criar um filtro a fim de segmentar cada estilo musical e facilitar a pesquisa de quem deseja contratar.
 
-## Trabalhos relacionados (soluções que já existem) EM ATUALIZAÇÃO..
+## Trabalhos relacionados (soluções que já existem)
 
 Existem muitos sites e aplicativos que ajudam os músicos na divulgação do seu trabalho. Destacam-se entre eles:
 
