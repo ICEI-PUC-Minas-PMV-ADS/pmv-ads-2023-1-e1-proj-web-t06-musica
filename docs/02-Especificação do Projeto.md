@@ -10,19 +10,19 @@ A plataforma de contratação de músicos locais é um projeto que consiste em u
  Meu nome é Arthur Lima Cardoso tenho 45 anos, possuo superior incompleto, moro em Belo Horizonte, MG. Minha renda hoje está em torno de 5000 à 10000 reais.
 
 ###### Biografia
- Empresário no ramo de alimentação, no começo sempre trabalhei de CLT, mas quando o mercado Imobiliário entrou em baixa, Me ocorreu a ideia de entrar nesse ramo, juntei as economias e abri meu bar com o diferencial de musica ao vivo, na época era algo diferente, então tudo acabou dando muito certo e meu negocio cresceu rapidamente.
+Empresário no ramo de alimentação. No começo sempre trabalhei de CLT como corretor, mas quando o mercado Imobiliário entrou em baixa, tive a ideia de entrar nesse ramo. Juntei as minhas economias e abri o meu bar com o diferencial de se ter música ao vivo, na época da inauguração era algo diferente, então tudo acabou dando muito certo e o meu negócio cresceu rapidamente.
 
 ###### Metas
- Continuar com uma renda estável no meu negocio.
+Continuar com uma renda estável no meu negócio.
 
 ###### Motivação
- Sou uma pessoa muito família, minha mulher sempre apoiou minha ideia de criar meu próprio negocio, então agora que deu tudo certo, quero que esse negocio seja o negocio da família, quero que o que eu construí gere renda para as minhas gerações futuras.
+Sou uma pessoa muito família, a minha esposa sempre apoiou a minha ideia de criar meu próprio negócio, então agora que deu tudo certo, quero que esse negócio seja o negócio da família. O meu desejo é que tudo que foi construído gere renda para as minhas gerações futuras.
 
 ###### Frustrações
- Esta cada vez mais difícil encontrar artistas com disponibilidade e a preços razoáveis para realizar apresentações no meu bar.
+Esta cada vez mais difícil encontrar artistas com disponibilidade e preços acessíveis para realizar apresentações no meu bar.
 
 ###### Bloqueadores
- Gestão dos shows e criação de agenda é meu maior bloqueador, há dias que não consigo artistas para se apresentar, pois grande parte das vezes, os artistas que possuo contato, tem outro shows e eventos e eu acabo perdendo uma parte da clientela justamente pela falta de um artista mais acessível.
+A gestão dos shows e a criação de uma agenda é o meu maior bloqueador, há dias que não consigo artistas para se apresentar, pois na maioria das vezes os músicos que possuo contato tem outros shows e eventos confirmados.  Acabo perdendo uma parte significativa dos meus clientes justamente por eu não ter acesso ao contato de mais músicos.
 
 **Persona músico**
  Meu nome é James E. Renzi, tenho 24 anos, estudei até completar o ensino médio e moro em Belo Horizonte, MG. Hoje minha renda varia de acordo com o trabalho que eu consigo ao longo do mês.
