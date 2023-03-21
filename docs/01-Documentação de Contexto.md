@@ -67,8 +67,6 @@ JAMBRO
 Este aplicativo funciona como um "tinder musical", no qual o usuário encontra o artista de acordo com  suas preferências e pode dar "match" com o musico que lhe mais agradar.
 Porem é um aplicativo estrangeiro e tem poucos brasileiros em seu servidor.
 
-[^1]: https://www.tocaki.com.br/
-
 ## Justificativa
 
  Artistas independentes buscam ganhar visibilidade e conquistar seu espaço dentro da indústria fonográfica. Eles representam o segmento com crescimento mais rápido no mercado global da música, saltando de uma participação de 1,7% no mercado em 2015 para 5,3% em 2021 (MIDIA RESEARCH,2022)[^1].
