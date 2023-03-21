@@ -56,9 +56,19 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+#### Empresário
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+| Necessidade                               | Preciso                                  | Motivo                             |
+|-------------------------------------------|------------------------------------------|------------------------------------|
+| Desejo aumentar a frenquência de clientes | Peciso de artistas com disponibilidade   | Para prover entreterimento         |
+| Desejo maior variedade de clientes        | Preciso de uma maior diversidade musical | Atrair um público novo             |
+| Manter a clientela por mais tempo no bar  | Preciso de um evento com mais atrações   | Manter o público consumindo no bar |
+| Contratar um produto de qualidade         | Preciso de um meio de avaliação          | Manter o alto nível das atrações   |
+
+
+#### Artista
+
+| Necessidade | Preciso | Motivo |
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
