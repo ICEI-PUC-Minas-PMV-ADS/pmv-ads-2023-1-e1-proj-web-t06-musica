@@ -40,7 +40,7 @@ https://contratabanda.com.br/
 
 - **Eshow** - É um site e aplicativo onde é realizado um serviço exclusivo aos músicos e estabelecimentos cadastrados por meio de uma curadoria musical conforme os objetivos de cada cliente. Existe uma cobrança para os artistas e aos contratantes devido esse trabalho de agenciamento.
 
-https://eshows.com.br/sobre
+https://eshows.com.br/)
 
 ## Justificativa
 
