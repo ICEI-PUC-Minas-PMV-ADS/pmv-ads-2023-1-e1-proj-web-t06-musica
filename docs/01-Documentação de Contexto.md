@@ -22,9 +22,12 @@ Objetivos Específicos:
 - Oferecer uma listagem das bandas e artistas locais.
 - Criar um filtro a fim de segmentar cada estilo musical e facilitar a pesquisa de quem deseja contratar.
 
-## Trabalhos relacionados (soluções que já existem) EM ATUALIZAÇÃO
+## Trabalhos relacionados (soluções que já existem)
 
-ATUALIZAÇÃO REFERÊNCIAS
+Existem muitos aplicativos que ajudam os músicos na divulgação do seu trabalho. Destacam-se entre eles:
+
+-	**Tocaki**[^1] - É um aplicativo que conecta músicos de diversos estilos musicais e contratantes, sejam eles comerciais ou mesmo pessoas físicas. 
+Entretanto, os cadastros de estabelecimentos e dos artistas são limitados para a cidade de Florianópolis-SC e em outros municípios do Oeste paulista: Dracena, Adamantina, Presidente Venceslau e Osvaldo Cruz.
 
 
 Sites:
@@ -64,9 +67,7 @@ JAMBRO
 Este aplicativo funciona como um "tinder musical", no qual o usuário encontra o artista de acordo com  suas preferências e pode dar "match" com o musico que lhe mais agradar.
 Porem é um aplicativo estrangeiro e tem poucos brasileiros em seu servidor.
 
-TOCAKI https://www.tocaki.com.br
-
-Tocaki é um aplicativo que facilita a contratação de música ao vivo por meio de um aplicativo que conecta bares e restaurantes a músicos separados por estilos musicais.
+[^1]: https://www.tocaki.com.br/
 
 ## Justificativa
 
