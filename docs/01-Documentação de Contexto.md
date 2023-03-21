@@ -22,14 +22,25 @@ Objetivos Específicos:
 - Oferecer uma listagem das bandas e artistas locais.
 - Criar um filtro a fim de segmentar cada estilo musical e facilitar a pesquisa de quem deseja contratar.
 
-## Trabalhos relacionados (soluções que já existem)
+## Trabalhos relacionados (soluções que já existem) EM ATUALIZAÇÃO..
 
 Existem muitos sites e aplicativos que ajudam os músicos na divulgação do seu trabalho. Destacam-se entre eles:
 
--	**Tocaki** - É um aplicativo que conecta músicos de diversos estilos musicais e contratantes, sejam eles comerciais ou mesmo pessoas físicas. 
-Entretanto, os cadastros de estabelecimentos e dos artistas são limitados para a cidade de Florianópolis-SC e em outros municípios do Oeste paulista: Dracena, Adamantina, Presidente Venceslau e Osvaldo Cruz.
+-	**Tocaki** - É um aplicativo que conecta artistas de diversos estilos musicais e contratantes, sejam eles comerciais ou mesmo pessoas físicas. Existe um chat interno para facilitar o contato entre as partes. Entretanto, os cadastros dos estabelecimentos e artistas são limitados para a cidade de Florianópolis-SC e em outros municípios do Oeste paulista: Dracena, Adamantina, Presidente Venceslau e Osvaldo Cruz.
 
-https://www.tocaki.com.br/
+https://www.tocaki.com.br
+
+- **Contratashow** - É um site onde o usuário pode se cadastrar como músico ou contratante, dessa forma, é possível visualizar as avaliações e os orçamentos dos artistas. Porém, se o usuário da plataforma for um músico é necessário comprar "créditos" no site para conseguir encaminhar orçamentos diretamente aos contratantes cadastrados.
+
+https://contratashow.com.br/contratar
+
+- **Contratabanda** - É um site que oferece a possibilidade de cadastro para artistas e contratantes, assim, é possível buscar músicos conforme os estilos musicais de acordo com a seleção escolhida. Os cadastros dos estabelecimentos e artistas são limitados para algumas cidades dos estados de Minas Gerais, Distrito Federal, Paraná, Rio de Janeiro, Santa Catarina e São Paulo.
+
+
+
+https://contratabanda.com.br/
+
+
 
 
 Sites:
@@ -41,33 +52,11 @@ https://www.gbcproducoes.com.br
 
 No entanto, não existe uma categoria dentro do site para artistas que estão em inicio de carreira possam se promover.
 
-CONTRATASHOW
-https://contratashow.com.br/contratar 
-
-ContrataShow é uma plataforma na qual o visitante consegue receber orçamentos dos artistas, ver avaliações, se cadastrar como musico e etc.
-Porem, se o visitante do site for musico, precisa inserir dinheiro real ao site para adquirir "créditos" para ai sim poder enviar orçamentos para contratantes interessados.
-
 
 ESHOW https://eshows.com.br
 
 Eshow é um site com uma alta gama de artistas, na qual o visitante possa ver avaliações, filtrar buscas de acordo com o evento desejado, filtrar por categoria, se cadastrar como musico entre outras funções.
 Contudo, existe um excesso de informação e requisitos para se contratar ou para se cadastrar como artista. Este projeto pretende tornar essa relação entre contratante e artista mais simplificada.
-
-CONTRATABANDA https://contratabanda.com.br/
-
-Contratabanda é um portal artístico com diversos estilos e bandas, o visitante tem a opção de selecionar o estado e cidade para o seu evento, alem de poder escolher o gênero musical que mais lhe agrada. 
-
-APPS:
-
-MUSICO FREELANCER 
-
-O aplicativo em questão apresenta músicos de diversos lugares do país por meio de anúncios, nos quais são gratuitos, mas é possível pagar para ter mais destaque.
-Por meio dele, se o usuário for musico, é possível também encontra um artista para sua própria banda musical.
-
-JAMBRO
-
-Este aplicativo funciona como um "tinder musical", no qual o usuário encontra o artista de acordo com  suas preferências e pode dar "match" com o musico que lhe mais agradar.
-Porem é um aplicativo estrangeiro e tem poucos brasileiros em seu servidor.
 
 ## Justificativa
 
