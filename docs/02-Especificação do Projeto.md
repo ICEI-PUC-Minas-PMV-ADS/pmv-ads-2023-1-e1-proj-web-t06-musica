@@ -9,37 +9,37 @@ A plataforma de contratação de músicos locais é um projeto que consiste em u
 **Persona empresário**:
  Meu nome é Arthur Lima Cardoso tenho 45 anos, possuo superior incompleto, moro em Belo Horizonte, MG. Minha renda hoje está em torno de 5000 à 10000 reais.
 
-**Biografia**
+**Biografia**:
 Empresário no ramo de alimentação. No começo sempre trabalhei de CLT como corretor, mas quando o mercado Imobiliário entrou em baixa, tive a ideia de entrar nesse ramo. Juntei as minhas economias e abri o meu bar com o diferencial de se ter música ao vivo, na época da inauguração era algo diferente, então tudo acabou dando muito certo e o meu negócio cresceu rapidamente.
 
-**Metas**
+**Metas**:
 Continuar com uma renda estável no meu negócio.
 
-**Motivação**
+**Motivação**:
 Sou uma pessoa muito família, a minha esposa sempre apoiou a minha ideia de criar meu próprio negócio, então agora que deu tudo certo, quero que esse negócio seja o negócio da família. O meu desejo é que tudo que foi construído gere renda para as minhas gerações futuras.
 
-**Frustrações**
+**Frustrações**:
 Esta cada vez mais difícil encontrar artistas com disponibilidade e preços acessíveis para realizar apresentações no meu bar.
 
-**Bloqueadores**
+**Bloqueadores**:
 A gestão dos shows e a criação de uma agenda é o meu maior bloqueador, há dias que não consigo artistas para se apresentar, pois na maioria das vezes os músicos que possuo contato tem outros shows e eventos confirmados.  Acabo perdendo uma parte significativa dos meus clientes justamente por eu não ter acesso ao contato de mais músicos.
 
-**Persona músico**
+**Persona músico**:
  Meu nome é James E. Renzi, tenho 24 anos, estudei até completar o ensino médio e moro em Belo Horizonte, MG. Hoje minha renda varia de acordo com o trabalho que eu consigo ao longo do mês.
 
-**Biografia**
+**Biografia**:
  Comecei a mexer com musica com 14 anos de idade, havia um grupo de rap perto de onde eu morava e eu gostava de participar dos eventos, eu treinei bastante e descobri que tinha talento na coisa, mas eu queria reconhecimento, queria ir mais longe. Cheguei a ter uma dupla pra escrever juntos, mas acabou não dando certo, mesmo assim segui me apresentando com minhas letras em alguns bares e até cheguei a dar aula de composição para uns garotos da minha região, mas nunca tive o reconhecimento que eu queria. Mesmo não tendo muito sucesso, fiz alguns contatos na minha região e continuo trabalhando e me apresentando em alguns bares dos bairros ao redor.
 
-**Metas**
+**Metas**:
  Ser conhecido pelo meu trabalho, espalhar as minhas mensagens pelo Brasil e incentivar os mais novos a seguirem seus sonhos.
 
-###### Motivações
+**Motivações**:
  Mudar a vida da minha família através do meu trabalho.
 
-**Frustrações**
+**Frustrações**:
  Dificuldade de ter visibilidade nas redes sociais. Depois que a pandemia começou a escassez de shows se tornou muito grande, ficando ainda mais dificil me manter na musica, além de causar um grande impacto financeiro na divulgação do meu trabalho.
 
-**Bloqueadores**
+**Bloqueadores**:
  Não tenho empresário ou agencias para divulgação. Renda variável, nunca sei quanto vou fazer no mês pra conseguir reinvestir isso em meu trabalho. Não possuo uma maneira de "ranquear" meu trabalho, mostrar que ele é bom para as pessoas que não sabem quem eu sou, isso me traria mais oportunidades de ser contratado por outras pessoas além do meu público habitual.
  
 ## Histórias de Usuários
