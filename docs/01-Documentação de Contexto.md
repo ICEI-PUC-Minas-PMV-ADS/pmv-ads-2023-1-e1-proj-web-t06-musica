@@ -26,31 +26,25 @@ Objetivos Específicos:
 
 Existem muitos sites e aplicativos que ajudam os músicos na divulgação do seu trabalho. Destacam-se entre eles:
 
--	**Tocaki** - É um aplicativo que conecta artistas de diversos estilos musicais e contratantes, sejam eles comerciais ou mesmo pessoas físicas. Existe um chat interno para facilitar o contato entre as partes. Entretanto, os cadastros dos estabelecimentos e artistas são limitados para a cidade de Florianópolis-SC e em outros municípios do Oeste paulista: Dracena, Adamantina, Presidente Venceslau e Osvaldo Cruz.
+-	**Tocaki**[^1]. - É um aplicativo que conecta artistas de diversos estilos musicais e contratantes, sejam eles comerciais ou mesmo pessoas físicas. Existe um chat interno para facilitar o contato entre as partes. Entretanto, os cadastros dos estabelecimentos e artistas são limitados para a cidade de Florianópolis-SC e em outros municípios do Oeste paulista: Dracena, Adamantina, Presidente Venceslau e Osvaldo Cruz.
+- **Contratashow**[^2]. - É um site onde o usuário pode se cadastrar como músico ou contratante, dessa forma, é possível visualizar as avaliações e os orçamentos dos artistas. Porém, se o usuário da plataforma for um músico é necessário comprar "créditos" no site para conseguir encaminhar orçamentos diretamente aos contratantes cadastrados.
+- **Contratabanda**[^3]. - É um site que oferece a possibilidade de cadastro para artistas e contratantes, assim, é possível buscar músicos conforme os estilos musicais de acordo com a seleção escolhida. Os cadastros dos estabelecimentos e artistas são limitados para algumas cidades dos estados de Minas Gerais, Distrito Federal, Paraná, Rio de Janeiro, Santa Catarina e São Paulo,
+- **Eshow**[^4]. - É um site e aplicativo onde é realizado um serviço exclusivo aos músicos e estabelecimentos cadastrados por meio de uma curadoria musical conforme os objetivos de cada cliente. Existe uma cobrança para os artistas e aos contratantes devido esse trabalho de agenciamento.
 
-https://www.tocaki.com.br
-
-- **Contratashow** - É um site onde o usuário pode se cadastrar como músico ou contratante, dessa forma, é possível visualizar as avaliações e os orçamentos dos artistas. Porém, se o usuário da plataforma for um músico é necessário comprar "créditos" no site para conseguir encaminhar orçamentos diretamente aos contratantes cadastrados.
-
-https://contratashow.com.br/contratar
-
-- **Contratabanda** - É um site que oferece a possibilidade de cadastro para artistas e contratantes, assim, é possível buscar músicos conforme os estilos musicais de acordo com a seleção escolhida. Os cadastros dos estabelecimentos e artistas são limitados para algumas cidades dos estados de Minas Gerais, Distrito Federal, Paraná, Rio de Janeiro, Santa Catarina e São Paulo.
-
-https://contratabanda.com.br/
-
-- **Eshow** - É um site e aplicativo onde é realizado um serviço exclusivo aos músicos e estabelecimentos cadastrados por meio de uma curadoria musical conforme os objetivos de cada cliente. Existe uma cobrança para os artistas e aos contratantes devido esse trabalho de agenciamento.
-
-https://eshows.com.br/)
+[^1]: https://www.tocaki.com.br
+[^2]: https://contratashow.com.br
+[^3]: https://contratabanda.com.br
+[^4]: https://eshows.com.br
 
 ## Justificativa
 
- Artistas independentes buscam ganhar visibilidade e conquistar seu espaço dentro da indústria fonográfica. Eles representam o segmento com crescimento mais rápido no mercado global da música, saltando de uma participação de 1,7% no mercado em 2015 para 5,3% em 2021 (MIDIA RESEARCH,2022)[^1].
+ Artistas independentes buscam ganhar visibilidade e conquistar seu espaço dentro da indústria fonográfica. Eles representam o segmento com crescimento mais rápido no mercado global da música, saltando de uma participação de 1,7% no mercado em 2015 para 5,3% em 2021 (MIDIA RESEARCH,2022)[^5].
    
 Já a pesquisa realizada pela agência Flow, com um grupo de jovens de onze estados brasileiros, conseguiu que 67% dos desejados, preferem assistir shows em formatos mais intimistas, com artistas mais próximos do público e para poucos convidados (FLOW CREATIVE CORE, 2020)[^note].
    
  Para fomentar a inserção destes conjuntos musicais e artistas independentes em um mercado em reconstrução, pós-pandemia de COVID-19, identificamos a necessidade de desenvolver uma plataforma a fim de promover a visibilidade e o trabalho destes profissionais e facilitar a procura de pessoas e empresas interessadas na contratação destes serviços.
  
-[^1]: 89 FM RADIO ROCK. **https://www.radiorock.com.br/.** Artistas independentes fazem barulho de 3 bilhões de dólares no mercado da música. São Paulo: 89 FM Radio Rock, 2022. 8 de Dezembro. Disponível em: https://www.radiorock.com.br/2022/12/08/artistas-independentes-fazem-barulho-de-3-bilhoes-de-dolares-no-mercado-da-musica/#:~:text=Segundo%20a%20MIDiA%20Research%2C%20artistas,5%2C3%25%20em%202021/%3E>. Acesso em: 10 mar. 2023.
+[^5]: 89 FM RADIO ROCK. **https://www.radiorock.com.br/.** Artistas independentes fazem barulho de 3 bilhões de dólares no mercado da música. São Paulo: 89 FM Radio Rock, 2022. 8 de Dezembro. Disponível em: https://www.radiorock.com.br/2022/12/08/artistas-independentes-fazem-barulho-de-3-bilhoes-de-dolares-no-mercado-da-musica/#:~:text=Segundo%20a%20MIDiA%20Research%2C%20artistas,5%2C3%25%20em%202021/%3E>. Acesso em: 10 mar. 2023.
 
 [^note]: SONAR CULTURAL. **https://sonarcultural.com.br/.**  Pesquisas revelam tendências do mercado musical independente durante a pandemia – e o que você deve fazer nesse mercado em transformação. Campinas - SP: Sonar Cultural, 2020. 9 de outubro. Disponível em: < https://sonarcultural.com.br/pesquisas-revelam-tendencias-do-mercado-musical-independente-durante-a-pandemia-e-o-que-voce-deve-fazer-nesse-mercado-em-transformacao/ >.Acesso em: 10 mar. 2023.
 
