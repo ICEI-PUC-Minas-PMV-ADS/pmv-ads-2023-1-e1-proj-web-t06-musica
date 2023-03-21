@@ -6,7 +6,7 @@ A plataforma de contratação de músicos locais é um projeto que consiste em u
 
 ## Personas
 
-#### Persona empresário
+**Persona empresário**
  Meu nome é Arthur Lima Cardoso tenho 45 anos, possuo superior incompleto, moro em Belo Horizonte, MG. Minha renda hoje está em torno de 5000 à 10000 reais.
 
 ###### Biografia
@@ -24,7 +24,7 @@ A plataforma de contratação de músicos locais é um projeto que consiste em u
 ###### Bloqueadores
  Gestão dos shows e criação de agenda é meu maior bloqueador, há dias que não consigo artistas para se apresentar, pois grande parte das vezes, os artistas que possuo contato, tem outro shows e eventos e eu acabo perdendo uma parte da clientela justamente pela falta de um artista mais acessível.
 
-#### Persona músico
+**Persona músico**
  Meu nome é James E. Renzi, tenho 24 anos, estudei até completar o ensino médio e moro em Belo Horizonte, MG. Hoje minha renda varia de acordo com o trabalho que eu consigo ao longo do mês.
 
 ###### Biografia
