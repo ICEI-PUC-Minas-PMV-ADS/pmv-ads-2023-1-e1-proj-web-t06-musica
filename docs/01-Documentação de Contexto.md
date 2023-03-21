@@ -24,7 +24,7 @@ Objetivos Específicos:
 
 ## Trabalhos relacionados (soluções que já existem)
 
-Existem muitos aplicativos que ajudam os músicos na divulgação do seu trabalho. Destacam-se entre eles:
+Existem muitos sites e aplicativos que ajudam os músicos na divulgação do seu trabalho. Destacam-se entre eles:
 
 -	**Tocaki** - É um aplicativo que conecta músicos de diversos estilos musicais e contratantes, sejam eles comerciais ou mesmo pessoas físicas. 
 Entretanto, os cadastros de estabelecimentos e dos artistas são limitados para a cidade de Florianópolis-SC e em outros municípios do Oeste paulista: Dracena, Adamantina, Presidente Venceslau e Osvaldo Cruz.
