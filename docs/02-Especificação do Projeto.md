@@ -7,10 +7,13 @@ A plataforma de contratação de músicos locais é um projeto que consiste em u
 ## Personas
 
 **Persona empresário**:
- Meu nome é Arthur Lima Cardoso tenho 45 anos, possuo superior incompleto, moro em Belo Horizonte, MG. Minha renda hoje está em torno de 5000 à 10000 reais.
+Meu nome é Arthur Lima Cardoso, tenho 45 anos, possuo superior incompleto, moro em Belo Horizonte, MG. Minha renda varia entre R$1.0000 e
+R$5.000.
 
 **Biografia**:
-Empresário no ramo de alimentação. No começo sempre trabalhei de CLT como corretor, mas quando o mercado Imobiliário entrou em baixa, tive a ideia de entrar nesse ramo. Juntei as minhas economias e abri o meu bar com o diferencial de se ter música ao vivo, na época da inauguração era algo diferente, então tudo acabou dando muito certo e o meu negócio cresceu rapidamente.
+Empresário no ramo de alimentação. No começo sempre trabalhei de CLT como corretor, mas quando o mercado Imobiliário entrou em baixa, tive a ideia de entrar nesse ramo. 
+
+Juntei as minhas economias e abri o meu bar com o diferencial de se ter música ao vivo, na época da inauguração era algo diferente, então tudo acabou dando muito certo e o meu negócio cresceu rapidamente.
 
 **Metas**:
 Continuar com uma renda estável no meu negócio.
@@ -28,7 +31,11 @@ A gestão dos shows e a criação de uma agenda é o meu maior bloqueador, há d
 Meu nome é James E. Renzi, tenho 24 anos, estudei até completar o ensino médio e moro em Belo Horizonte, MG. Hoje a minha renda varia conforme o trabalho que eu consigo ao longo do mês.
 
 **Biografia**: (atualizando)
- Comecei a mexer com musica com 14 anos de idade, havia um grupo de rap perto de onde eu morava e eu gostava de participar dos eventos, eu treinei bastante e descobri que tinha talento na coisa, mas eu queria reconhecimento, queria ir mais longe. Cheguei a ter uma dupla pra escrever juntos, mas acabou não dando certo, mesmo assim segui me apresentando com minhas letras em alguns bares e até cheguei a dar aula de composição para uns garotos da minha região, mas nunca tive o reconhecimento que eu queria. Mesmo não tendo muito sucesso, fiz alguns contatos na minha região e continuo trabalhando e me apresentando em alguns bares dos bairros ao redor.
+Comecei a trabalhar com música aos 14 anos. Tinha um grupo de rap perto da minha casa, eu gostava de participar dos eventos. Com isso fiquei muito motivado e treinei bastante as minhas músicas em casa, sozinho mesmo.  Descobri que tinha talento e muita facilidade, desde então busco com mais reconhecimento, quero ir cada vez mais longe. 
+
+Cheguei a ter uma dupla para escrever algumas músicas, mas acabou não dando certo essa parceria. Não desisti e mesmo assim segui me apresentando em alguns bares e comecei a dar aula de composição musical para alguns garotos do meu bairro.
+
+Mesmo não tendo o sucesso e o reconhecimento que eu quero, consegui fazer alguns contatos na minha região e atualmente me apresento em alguns bairros próximos da minha casa.
 
 **Metas**:
  Ser conhecido pelo meu trabalho, espalhar as minhas mensagens por todo o Brasil e incentivar os mais novos a seguirem os seus sonhos.
