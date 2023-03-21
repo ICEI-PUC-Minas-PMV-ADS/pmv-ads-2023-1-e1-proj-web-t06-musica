@@ -6,14 +6,14 @@ A plataforma de contratação de músicos locais é um projeto que consiste em u
 
 ## Personas
 
-**Persona empresário**
+**Persona empresário**:
  Meu nome é Arthur Lima Cardoso tenho 45 anos, possuo superior incompleto, moro em Belo Horizonte, MG. Minha renda hoje está em torno de 5000 à 10000 reais.
 
 ###### Biografia
  Empresário no ramo de alimentação, no começo sempre trabalhei de CLT, mas quando o mercado Imobiliário entrou em baixa, Me ocorreu a ideia de entrar nesse ramo, juntei as economias e abri meu bar com o diferencial de musica ao vivo, na época era algo diferente, então tudo acabou dando muito certo e meu negocio cresceu rapidamente.
 
 ###### Metas
- Continuar Estável no meu negocio.
+ Continuar com uma renda estável no meu negocio.
 
 ###### Motivação
  Sou uma pessoa muito família, minha mulher sempre apoiou minha ideia de criar meu próprio negocio, então agora que deu tudo certo, quero que esse negocio seja o negocio da família, quero que o que eu construí gere renda para as minhas gerações futuras.
