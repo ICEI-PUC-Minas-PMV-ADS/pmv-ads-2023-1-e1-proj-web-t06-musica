@@ -41,19 +41,7 @@ A plataforma de contratação de músicos locais é um projeto que consiste em u
 
 ###### Bloqueadores
  Não tenho empresário ou agencias para divulgação. Renda variável, nunca sei quanto vou fazer no mês pra conseguir reinvestir isso em meu trabalho. Não possuo uma maneira de "ranquear" meu trabalho, mostrar que ele é bom para as pessoas que não sabem quem eu sou, isso me traria mais oportunidades de ser contratado por outras pessoas além do meu público habitual.
-
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
-
+ 
 ## Histórias de Usuários (em construção)
 
 #### Empresário
