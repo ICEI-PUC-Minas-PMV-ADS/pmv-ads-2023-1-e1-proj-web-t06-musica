@@ -30,7 +30,7 @@ A gestão dos shows e a criação de uma agenda é o meu maior bloqueador, há d
 **Persona músico**:
 Meu nome é James E. Renzi, tenho 24 anos, estudei até completar o ensino médio e moro em Belo Horizonte, MG. Hoje a minha renda varia conforme o trabalho que eu consigo ao longo do mês.
 
-**Biografia**: (atualizando)
+**Biografia**: 
 Comecei a trabalhar com música aos 14 anos. Tinha um grupo de rap perto da minha casa, eu gostava de participar dos eventos. Com isso fiquei muito motivado e treinei bastante as minhas músicas em casa, sozinho mesmo.  Descobri que tinha talento e muita facilidade, desde então busco com mais reconhecimento, quero ir cada vez mais longe. 
 
 Cheguei a ter uma dupla para escrever algumas músicas, mas acabou não dando certo essa parceria. Não desisti e mesmo assim segui me apresentando em alguns bares e comecei a dar aula de composição musical para alguns garotos do meu bairro.
