@@ -65,11 +65,14 @@ Dificuldade de ter visibilidade nas redes sociais. Depois que a pandemia começo
 ## Histórias de Usuários
 
 entrevistas 
+
 https://drive.google.com/file/d/1wz9xMuKiKuS_-cfD0I8ziw65E5OMkgBf/view?usp=share_link
+
 rodrigo florindo
 empresario 
 
 https://drive.google.com/file/d/1Cg7S1sjHs7XDT0Ef9xQsLzHDaXweoaC-/view?usp=share_link
+
 henrique netto
 cantor 
 
