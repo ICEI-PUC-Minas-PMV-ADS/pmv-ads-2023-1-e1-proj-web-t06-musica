@@ -31,24 +31,26 @@ A gestão dos shows e a criação de uma agenda é o meu maior bloqueador, há d
 Meu nome é James E. Renzi, tenho 24 anos, estudei até completar o ensino médio e moro em Belo Horizonte, MG. Hoje a minha renda varia conforme o trabalho que eu consigo ao longo do mês.
 
 **Biografia**: 
-Comecei a trabalhar com música aos 14 anos. Tinha um grupo de rap perto da minha casa, eu gostava de participar dos eventos. Com isso fiquei muito motivado e treinei bastante as minhas músicas em casa, sozinho mesmo.  Descobri que tinha talento e muita facilidade, desde então busco com mais reconhecimento, quero ir cada vez mais longe. 
+Comecei a trabalhar com música aos 14 anos, tinha um grupo de rap perto da minha casa onde eu gostava de participar frequentemente dos eventos. Com essas minhas participações eu fiquei muito motivado e comecei a compor as minhas próprias músicas autorais.
+
+Descobri que tinha talento e muita facilidade e desde então busco ter mais reconhecimento. Quero ter um espaço para conseguir divulgar as minhas canções ao público. 
 
 Cheguei a ter uma dupla para escrever algumas músicas, mas acabou não dando certo essa parceria. Não desisti e mesmo assim segui me apresentando em alguns bares e comecei a dar aula de composição musical para alguns garotos do meu bairro.
 
 Mesmo não tendo o sucesso e o reconhecimento que eu quero, consegui fazer alguns contatos na minha região e atualmente me apresento em alguns bairros próximos da minha casa.
 
 **Metas**:
- Ser conhecido pelo meu trabalho, espalhar as minhas mensagens por todo o Brasil e incentivar os mais novos a seguirem os seus sonhos.
+Conseguir gerar uma renda fixa com os meus shows.
  
 **Motivações**:
- Mudar a vida da minha família através do meu trabalho.
-
+ Mudar a vida da minha família através do meu trabalho. Ser conhecido pelo meu trabalho, espalhar as minhas mensagens por todo o Brasil e incentivar os mais novos a seguirem os seus sonhos.
+ 
 **Frustrações**:
 Dificuldade de ter visibilidade nas redes sociais. Depois que a pandemia começou, a escassez de shows se tornou muito grande. Ficou muito difícil divulgar o meu trabalho e ter uma renda fixa apenas com a música. 
 
 **Bloqueadores**:
  Não tenho empresário ou agência. A minha renda é variável, não tenho um valor fixo para investir mensalmente em meu trabalho musical.
- Não possuo uma maneira de "ranquear" o meu trabalho e de mostrar a qualidade dele para as pessoas que não me conhecem. Com mais visibilidade e divulgação eu iria conseguir atrair mais oportunidades de contração além do meu público habitual.
+ Não possuo uma maneira de "ranquear" o meu trabalho e de mostrar a qualidade dele para as pessoas que não me conhecem. Com mais visibilidade e divulgação eu iria  conseguir atrair mais oportunidades de contração além do meu público habitual.
  
 ## Histórias de Usuários
 
