@@ -36,7 +36,7 @@ A gestão dos shows e a criação de uma agenda é o meu maior bloqueador, há d
 
 ![](https://img.freepik.com/fotos-gratis/homem-bonito-e-elegante-espanhol-tentando-alcancar-a-camera-com-a-mao-em-um-fundo-de-parede-vermelha_181624-54210.jpg?w=996&t=st=1679593928~exp=1679594528~hmac=f5ffac1cd52894d9d40a54d5493a1b4b5d17fac305e6631c2ea5cda0b4d70bf3)
 
-Fonte:[https://br.freepik.com/fotos-gratis/atrativo-mestico-com-sorriso-positivo-mostra-dentes-brancos-mantem-as-maos-na-barriga-estando-em-alto-astral-veste-camisa-branca-alegra-momentos-positivos-na-vida-conceito-de-pessoas-e-emocoes_10420306.htm#query=PERSONA&position=39&from_view=search&track=sph](https://img.freepik.com/fotos-gratis/homem-bonito-e-elegante-espanhol-tentando-alcancar-a-camera-com-a-mao-em-um-fundo-de-parede-vermelha_181624-54210.jpg?w=996&t=st=1679593928~exp=1679594528~hmac=f5ffac1cd52894d9d40a54d5493a1b4b5d17fac305e6631c2ea5cda0b4d70bf3)
+Fonte: [https://br.freepik.com/fotos-gratis/atrativo-mestico-com-sorriso-positivo-mostra-dentes-brancos-mantem-as-maos-na-barriga-estando-em-alto-astral-veste-camisa-branca-alegra-momentos-positivos-na-vida-conceito-de-pessoas-e-emocoes_10420306.htm#query=PERSONA&position=39&from_view=search&track=sph](https://img.freepik.com/fotos-gratis/homem-bonito-e-elegante-espanhol-tentando-alcancar-a-camera-com-a-mao-em-um-fundo-de-parede-vermelha_181624-54210.jpg?w=996&t=st=1679593928~exp=1679594528~hmac=f5ffac1cd52894d9d40a54d5493a1b4b5d17fac305e6631c2ea5cda0b4d70bf3)
 
 Meu nome é James Renzi, tenho 34 anos, estudei até completar o ensino médio e moro em Belo Horizonte, MG. Hoje a minha renda varia conforme o trabalho que eu consigo ao longo do mês.
 
