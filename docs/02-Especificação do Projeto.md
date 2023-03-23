@@ -8,7 +8,7 @@ A plataforma de contratação de músicos locais é um projeto que consiste em u
 
 **Persona empresário**:
 
-<https://img.freepik.com/fotos-premium/bar-proposta-inclinada-no-balcao-de-bar_107420-41491.jpg?w=996>
+[https://img.freepik.com/fotos-premium/bar-proposta-inclinada-no-balcao-de-bar_107420-41491.jpg?w=996](full-URL-of-wiki-page).
 
 Meu nome é Arthur Lima Cardoso, tenho 45 anos, possuo superior incompleto, moro em Belo Horizonte, MG. Minha renda varia entre R$1.000,00 e
 R$5.000,00.
