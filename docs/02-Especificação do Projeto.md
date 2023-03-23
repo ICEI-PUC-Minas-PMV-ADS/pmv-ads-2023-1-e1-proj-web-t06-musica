@@ -31,7 +31,11 @@ Esta cada vez mais difícil encontrar artistas com disponibilidade e preços ace
 A gestão dos shows e a criação de uma agenda é o meu maior bloqueador, há dias que não consigo artistas para se apresentar, pois na maioria das vezes os músicos que possuo contato tem outros shows e eventos confirmados.  Acabo perdendo uma parte significativa dos meus clientes justamente por eu não ter acesso ao contato de mais músicos.
 
 **Persona músico**:
-Meu nome é James E. Renzi, tenho 24 anos, estudei até completar o ensino médio e moro em Belo Horizonte, MG. Hoje a minha renda varia conforme o trabalho que eu consigo ao longo do mês.
+
+![](https://img.freepik.com/fotos-premium/bar-proposta-inclinada-no-balcao-de-bar_107420-41491.jpg?w=996](https://img.freepik.com/fotos-gratis/atrativo-mestico-com-sorriso-positivo-mostra-dentes-brancos-mantem-as-maos-na-barriga-estando-em-alto-astral-veste-camisa-branca-alegra-momentos-positivos-na-vida-conceito-de-pessoas-e-emocoes_273609-15527.jpg?w=996&t=st=1679575811~exp=1679576411~hmac=4e26461f034d3b788df6c99a4af1944aabf47fe168fd68870360474c71a7a7b7)
+
+
+Meu nome é James Renzi, tenho 24 anos, estudei até completar o ensino médio e moro em Belo Horizonte, MG. Hoje a minha renda varia conforme o trabalho que eu consigo ao longo do mês.
 
 **Biografia**: 
 Comecei a trabalhar com música aos 14 anos, tinha um grupo de rap perto da minha casa onde eu gostava de participar frequentemente dos eventos. Com essas minhas participações eu fiquei muito motivado e comecei a compor as minhas próprias músicas autorais.
