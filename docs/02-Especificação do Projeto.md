@@ -40,7 +40,7 @@ Cheguei a ter uma dupla para escrever algumas músicas, mas acabou não dando ce
 Mesmo não tendo o sucesso e o reconhecimento que eu quero, consegui fazer alguns contatos na minha região e atualmente me apresento em alguns bairros próximos da minha casa.
 
 **Metas**:
-Conseguir gerar uma renda fixa com os meus shows.
+Conseguir ter uma renda fixa com os meus shows.
  
 **Motivações**:
  Mudar a vida da minha família através do meu trabalho. Ser conhecido pelo meu trabalho, espalhar as minhas mensagens por todo o Brasil e incentivar os mais novos a seguirem os seus sonhos.
