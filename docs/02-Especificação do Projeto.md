@@ -10,6 +10,8 @@ A plataforma de contratação de músicos locais é um projeto que consiste em u
 
 ![](https://img.freepik.com/fotos-premium/bar-proposta-inclinada-no-balcao-de-bar_107420-41491.jpg?w=996)
 
+Fonte: https://br.freepik.com/fotos-premium/bar-proposta-inclinada-no-balcao-de-bar_7092817.htm#page=5&query=homem%2045%20anos%20bar&position=46&from_view=search&track=ais
+
 Meu nome é Arthur Lima Cardoso, tenho 45 anos, possuo superior incompleto, moro em Belo Horizonte, MG. Minha renda varia entre R$1.000,00 e
 R$5.000,00.
 
@@ -33,6 +35,8 @@ A gestão dos shows e a criação de uma agenda é o meu maior bloqueador, há d
 **Persona músico**:
 
 ![](https://img.freepik.com/fotos-gratis/atrativo-mestico-com-sorriso-positivo-mostra-dentes-brancos-mantem-as-maos-na-barriga-estando-em-alto-astral-veste-camisa-branca-alegra-momentos-positivos-na-vida-conceito-de-pessoas-e-emocoes_273609-15527.jpg?w=996&t=st=1679575811~exp=1679576411~hmac=4e26461f034d3b788df6c99a4af1944aabf47fe168fd68870360474c71a7a7b7)
+
+Fonte:https://br.freepik.com/fotos-gratis/atrativo-mestico-com-sorriso-positivo-mostra-dentes-brancos-mantem-as-maos-na-barriga-estando-em-alto-astral-veste-camisa-branca-alegra-momentos-positivos-na-vida-conceito-de-pessoas-e-emocoes_10420306.htm#query=PERSONA&position=39&from_view=search&track=sph
 
 Meu nome é James Renzi, tenho 34 anos, estudei até completar o ensino médio e moro em Belo Horizonte, MG. Hoje a minha renda varia conforme o trabalho que eu consigo ao longo do mês.
 
