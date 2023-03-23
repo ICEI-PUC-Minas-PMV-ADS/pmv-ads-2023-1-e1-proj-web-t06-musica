@@ -7,8 +7,8 @@ A plataforma de contratação de músicos locais é um projeto que consiste em u
 ## Personas
 
 **Persona empresário**:
-Meu nome é Arthur Lima Cardoso, tenho 45 anos, possuo superior incompleto, moro em Belo Horizonte, MG. Minha renda varia entre R$1.0000 e
-R$5.000.
+Meu nome é Arthur Lima Cardoso, tenho 45 anos, possuo superior incompleto, moro em Belo Horizonte, MG. Minha renda varia entre R$1.000,00 e
+R$5.000,00.
 
 **Biografia**:
 Empresário no ramo de alimentação. No começo sempre trabalhei de CLT como corretor, mas quando o mercado Imobiliário entrou em baixa, tive a ideia de entrar nesse ramo. 
