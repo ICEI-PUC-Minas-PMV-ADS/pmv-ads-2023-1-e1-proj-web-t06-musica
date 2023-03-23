@@ -38,15 +38,12 @@ Existem muitos sites e aplicativos que ajudam os músicos na divulgação do seu
 
 ## Justificativa
 
- Artistas independentes buscam ganhar visibilidade e conquistar seu espaço dentro da indústria fonográfica. Eles representam o segmento com crescimento mais rápido no mercado global da música, saltando de uma participação de 1,7% no mercado em 2015 para 5,3% em 2021 (MIDIA RESEARCH,2022)[^5].
+ Artistas independentes buscam ganhar visibilidade e conquistar seu espaço dentro da indústria fonográfica. Eles representam o segmento com crescimento mais rápido no mercado global da música, saltando de uma participação de 1,7% no mercado em 2015 para 5,3% em 2021 (MIDIA RESEARCH,2022).
    
-Já a pesquisa realizada pela agência Flow, com um grupo de jovens de onze estados brasileiros, conseguiu que 67% dos desejados, preferem assistir shows em formatos mais intimistas, com artistas mais próximos do público e para poucos convidados (FLOW CREATIVE CORE, 2020)[^note].
+Já a pesquisa realizada pela agência Flow, com um grupo de jovens de onze estados brasileiros, conseguiu que 67% dos desejados, preferem assistir shows em formatos mais intimistas, com artistas mais próximos do público e para poucos convidados (FLOW CREATIVE CORE, 2020).
    
  Para fomentar a inserção destes conjuntos musicais e artistas independentes em um mercado em reconstrução, pós-pandemia de COVID-19, identificamos a necessidade de desenvolver uma plataforma a fim de promover a visibilidade e o trabalho destes profissionais e facilitar a procura de pessoas e empresas interessadas na contratação destes serviços.
  
-[^5]: 89 FM RADIO ROCK. **https://www.radiorock.com.br/.** Artistas independentes fazem barulho de 3 bilhões de dólares no mercado da música. São Paulo: 89 FM Radio Rock, 2022. 8 de Dezembro. Disponível em: https://www.radiorock.com.br/2022/12/08/artistas-independentes-fazem-barulho-de-3-bilhoes-de-dolares-no-mercado-da-musica/#:~:text=Segundo%20a%20MIDiA%20Research%2C%20artistas,5%2C3%25%20em%202021/%3E>. Acesso em: 10 mar. 2023.
-
-[^note]: SONAR CULTURAL. **https://sonarcultural.com.br/.**  Pesquisas revelam tendências do mercado musical independente durante a pandemia – e o que você deve fazer nesse mercado em transformação. Campinas - SP: Sonar Cultural, 2020. 9 de outubro. Disponível em: < https://sonarcultural.com.br/pesquisas-revelam-tendencias-do-mercado-musical-independente-durante-a-pandemia-e-o-que-voce-deve-fazer-nesse-mercado-em-transformacao/ >.Acesso em: 10 mar. 2023.
 
 ## Público-Alvo
 
