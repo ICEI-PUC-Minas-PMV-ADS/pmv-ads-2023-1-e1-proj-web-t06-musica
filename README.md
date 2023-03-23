@@ -14,6 +14,7 @@ O projeto consiste na criação de uma lista cadastral de artistas (bandas autor
 * Diogo Amancio
 * Gabriel Souza
 * Henrique Gabriel
+* Isaac Henrique
 * João Leonardo
 * Luiz Felipe
 
