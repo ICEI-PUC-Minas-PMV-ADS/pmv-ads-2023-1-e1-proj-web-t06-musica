@@ -68,7 +68,7 @@ Dificuldade de ter visibilidade nas redes sociais. Depois que a pandemia começo
  
 ## Histórias de Usuários (Em correção...)
 
-**Empresário** (Em correção...)
+**Empresário (Em correção...)**
 
 | Necessidade                               | Para isso...                             | Motivo                                              |
 |-------------------------------------------|------------------------------------------|-----------------------------------------------------|
@@ -79,7 +79,7 @@ Dificuldade de ter visibilidade nas redes sociais. Depois que a pandemia começo
 
 
 
-**Artista** (Em correção...)
+**Artista (Em correção...)**
 
 | Necessidade                               | Para isso...                                                                       | Motivo                                                                |
 |-------------------------------------------|------------------------------------------------------------------------------------|----------------------------------------------------------------------|
@@ -87,11 +87,11 @@ Dificuldade de ter visibilidade nas redes sociais. Depois que a pandemia começo
 | Desejo fazer parcerias musicais           | Preciso de um meio de comunicação entre os artistas para organizar maiores eventos | Promover shows com maior arrecadação                                  |
 | Desejo mostrar a qualidade do meu trabalho| Preciso de uma ferramenta de avaliação                                             | Entender se preciso melhorar e precificar melhor o meu trabalho |
 
-**Requisitos** (Em correção...)
+**Requisitos (Em correção...)**
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
-**Requisitos Funcionais** (Em correção...)
+**Requisitos Funcionais (Em correção...)**
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
@@ -99,7 +99,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 
 
-**Requisitos não Funcionais** (Em correção...)
+**Requisitos não Funcionais (Em correção...)**
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
@@ -121,7 +121,7 @@ Lembre-se que cada requisito deve corresponder à uma e somente uma
 característica alvo da sua solução. Além disso, certifique-se de que
 todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
-**Restrições** (Em correção...)
+**Restrições (Em correção...)**
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
