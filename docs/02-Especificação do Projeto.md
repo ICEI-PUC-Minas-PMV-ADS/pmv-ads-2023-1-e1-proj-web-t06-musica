@@ -6,7 +6,7 @@ A plataforma de contratação de músicos locais é um projeto que consiste em u
 
 ## Personas
 
-**Persona empresário**:
+**Persona empresário**[^1]:
 
 ![](https://img.freepik.com/fotos-premium/bar-proposta-inclinada-no-balcao-de-bar_107420-41491.jpg?w=996)
 
@@ -32,7 +32,7 @@ Esta cada vez mais difícil encontrar artistas com disponibilidade e preços ace
 **Bloqueadores**:
 A gestão dos shows e a criação de uma agenda é o meu maior bloqueador, há dias que não consigo artistas para se apresentar, pois na maioria das vezes os músicos que possuo contato tem outros shows e eventos confirmados.  Acabo perdendo uma parte significativa dos meus clientes justamente por eu não ter acesso ao contato de mais músicos.
 
-**Persona músico**:
+**Persona músico**[^2]:
 
 ![](https://img.freepik.com/fotos-gratis/homem-bonito-e-elegante-espanhol-tentando-alcancar-a-camera-com-a-mao-em-um-fundo-de-parede-vermelha_181624-54210.jpg?w=996&t=st=1679593928~exp=1679594528~hmac=f5ffac1cd52894d9d40a54d5493a1b4b5d17fac305e6631c2ea5cda0b4d70bf3)
 
@@ -61,6 +61,10 @@ Dificuldade de ter visibilidade nas redes sociais. Depois que a pandemia começo
 **Bloqueadores**:
  Não tenho empresário ou agência. A minha renda é variável, não tenho um valor fixo para investir mensalmente em meu trabalho musical.
  Não possuo uma maneira de "ranquear" o meu trabalho e de mostrar a qualidade dele para as pessoas que não me conhecem. Com mais visibilidade e divulgação eu iria  conseguir atrair mais oportunidades de contração além do meu público habitual.
+ 
+ [^1]: https://soundcloud.com/diogoamanciosilva/sets/entrevista-com-rodrigo-florindo-persona-empresario
+ [^2]: https://soundcloud.com/diogoamanciosilva/entrevista-henrique-netto-musicocantor
+ 
  
 ## Histórias de Usuários (Em correção...)
 
