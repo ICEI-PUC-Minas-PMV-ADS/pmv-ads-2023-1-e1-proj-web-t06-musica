@@ -62,7 +62,7 @@ Dificuldade de ter visibilidade nas redes sociais. Depois que a pandemia começo
  Não tenho empresário ou agência. A minha renda é variável, não tenho um valor fixo para investir mensalmente em meu trabalho musical.
  Não possuo uma maneira de "ranquear" o meu trabalho e de mostrar a qualidade dele para as pessoas que não me conhecem. Com mais visibilidade e divulgação eu iria  conseguir atrair mais oportunidades de contração além do meu público habitual.
  
-## Histórias de Usuários
+## Histórias de Usuários (Em correção...)
 
 entrevistas 
 
@@ -76,7 +76,7 @@ https://drive.google.com/file/d/1Cg7S1sjHs7XDT0Ef9xQsLzHDaXweoaC-/view?usp=share
 henrique netto
 cantor 
 
-**Empresário**
+**Empresário** (Em correção...)
 
 | Necessidade                               | Para isso...                             | Motivo                                              |
 |-------------------------------------------|------------------------------------------|-----------------------------------------------------|
@@ -87,7 +87,7 @@ cantor
 
 
 
-**Artista**
+**Artista** (Em correção...)
 
 | Necessidade                               | Para isso...                                                                       | Motivo                                                                |
 |-------------------------------------------|------------------------------------------------------------------------------------|----------------------------------------------------------------------|
@@ -95,11 +95,11 @@ cantor
 | Desejo fazer parcerias musicais           | Preciso de um meio de comunicação entre os artistas para organizar maiores eventos | Promover shows com maior arrecadação                                  |
 | Desejo mostrar a qualidade do meu trabalho| Preciso de uma ferramenta de avaliação                                             | Entender se preciso melhorar e precificar melhor o meu trabalho |
 
-**Requisitos** (Em construção)
+**Requisitos** (Em correção...)
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
-**Requisitos Funcionais** (Em construção)
+**Requisitos Funcionais** (Em correção...)
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
@@ -107,7 +107,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 
 
-**Requisitos não Funcionais** (Em construção)
+**Requisitos não Funcionais** (Em correção...)
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
@@ -129,7 +129,7 @@ Lembre-se que cada requisito deve corresponder à uma e somente uma
 característica alvo da sua solução. Além disso, certifique-se de que
 todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
-**Restrições** (Em construção)
+**Restrições** (Em correção...)
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
