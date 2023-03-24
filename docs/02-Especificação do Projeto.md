@@ -12,11 +12,12 @@ A plataforma de contratação de músicos locais é um projeto que consiste em u
 
 Fonte: https://br.freepik.com/fotos-premium/bar-proposta-inclinada-no-balcao-de-bar_7092817.htm#page=5&query=homem%2045%20anos%20bar&position=46&from_view=search&track=ais
 
+**Biografia**:
+
 Meu nome é Arthur Lima Cardoso, tenho 45 anos, possuo superior incompleto, moro em Belo Horizonte, MG. Minha renda varia entre R$1.000,00 e
 R$5.000,00.
 
-**Biografia**:
-Empresário no ramo de alimentação. No começo sempre trabalhei de CLT como corretor, mas quando o mercado Imobiliário entrou em baixa, tive a ideia de entrar nesse ramo. 
+Empresário no ramo de alimentação. No começo sempre trabalhei de CLT como corretor, mas quando o mercado Imobiliário entrou em baixa, tive a ideia de entrar nesse ramo alimentício.
 
 Juntei as minhas economias e abri o meu bar com o diferencial de se ter música ao vivo, na época da inauguração era algo diferente, então tudo acabou dando muito certo e o meu negócio cresceu rapidamente.
 
@@ -38,9 +39,10 @@ A gestão dos shows e a criação de uma agenda é o meu maior bloqueador, há d
 
 Fonte: https://br.freepik.com/fotos-gratis/homem-bonito-e-elegante-espanhol-tentando-alcancar-a-camera-com-a-mao-em-um-fundo-de-parede-vermelha_20711955.htm#query=rap%2025%20anos&position=20&from_view=search&track=ais
 
+**Biografia**: 
+
 Meu nome é James Renzi, tenho 34 anos, estudei até completar o ensino médio e moro em Belo Horizonte, MG. Hoje a minha renda varia conforme o trabalho que eu consigo ao longo do mês.
 
-**Biografia**: 
 Comecei a trabalhar com música aos 14 anos, tinha um grupo de rap perto da minha casa onde eu gostava de participar frequentemente dos eventos. Com essas minhas participações eu fiquei muito motivado e comecei a compor as minhas próprias músicas autorais.
 
 Descobri que tinha talento e muita facilidade e desde então busco ter mais reconhecimento. Quero ter um espaço para conseguir divulgar as minhas canções ao público. 
