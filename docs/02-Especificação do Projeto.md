@@ -70,24 +70,15 @@ Dificuldade de ter visibilidade nas redes sociais. Depois que a pandemia começo
  
 ## Histórias de Usuários (Em correção...)
 
-**Empresário (Em correção...)**
+| Eu como (Persona) | Quero/Desejo (O que) | Para que (POR QUE) |
+| ----------------- | ----------------- | ---------------- |
+| Contratante | Encontrar músicos locais com facilidade | Poder contratar artistas próximos e conhecer novos músicos locais |
+| Contratante | Filtros de segmentação por local e estilo musical | Facilitar a busca por músicos com as características desejadas |
+| Contratante | Obter informações de contato e redes sociais dos músicos | Poder entrar em contato diretamente com os músicos selecionados |
+| Músico/Banda | Divulgar meu trabalho para potenciais contratantes | Aumentar as chances de ser contratado para eventos diversos |
+| Músico/Banda | Ter minha banda/música presente na lista da plataforma | Aumentar a visibilidade da banda/música |
+| Músico/Banda | Manter informações atualizadas e precisas na plataforma | Facilitar o contato de potenciais contratantes e evitar perda de oportunidades |
 
-| Necessidade                               | Para isso...                             | Motivo                                              |
-|-------------------------------------------|------------------------------------------|-----------------------------------------------------|
-| Desejo aumentar a frenquência de clientes | Preciso de artistas com disponibilidade   | Para manter o entreterimento no meu bar diariamente |
-| Desejo maior variedade de clientes        | Preciso de uma maior diversidade musical | Atrair um público novo                              |
-| Manter a clientela por mais tempo no bar  | Preciso de um evento com mais atrações   | Manter o público consumindo no bar                  |
-| Contratar um produto de qualidade         | Preciso de um meio de avaliação          | Manter o alto nível das atrações                    |
-
-
-
-**Artista (Em correção...)**
-
-| Necessidade                               | Para isso...                                                                       | Motivo                                                                |
-|-------------------------------------------|------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| Desejo conseguir contratos                | Preciso de uma ferramenta que exponha meu perfil para os contratantes              | Divulgar o meu trabalo                                                |
-| Desejo fazer parcerias musicais           | Preciso de um meio de comunicação entre os artistas para organizar maiores eventos | Promover shows com maior arrecadação                                  |
-| Desejo mostrar a qualidade do meu trabalho| Preciso de uma ferramenta de avaliação                                             | Entender se preciso melhorar e precificar melhor o meu trabalho |
 
 **Requisitos (Em correção...)**
 
