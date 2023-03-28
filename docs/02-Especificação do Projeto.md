@@ -70,7 +70,7 @@ Dificuldade de ter visibilidade nas redes sociais. Depois que a pandemia começo
  
 ## Histórias de Usuários 
 
-| Eu como (Persona) | Quero/Desejo (O que) | Para que (POR QUE) |
+| Eu como (Persona) | Quero/Desejo (O QUE) | Para que (POR QUE) |
 | ----------------- | ----------------- | ---------------- |
 | Contratante | Encontrar músicos locais com facilidade | Poder contratar artistas próximos e conhecer novos músicos locais |
 | Contratante | Filtros de segmentação por local e estilo musical | Facilitar a busca por músicos com as características desejadas |
