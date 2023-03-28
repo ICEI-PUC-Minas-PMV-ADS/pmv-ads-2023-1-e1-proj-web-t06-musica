@@ -120,8 +120,12 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| O projeto deverá ser entregue até o final do semestre letivo: 25/06/2023|
+|02| O projeto não pode ser desenvolvido um módulo de backend|
+|03| O projeto deve ser desenvolvido pelos membros do grupo via HTML, CSS e Javascript|
+|04| O sistema deve ser compatível com os navegadores mais utilizados do mercado: Google Chrome, Apple Safari, Microsoft Edge, Mozilla Firefox, Samsung Internet e Opera.|
+
+
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
