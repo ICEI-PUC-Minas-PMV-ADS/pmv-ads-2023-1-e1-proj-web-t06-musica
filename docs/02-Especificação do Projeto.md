@@ -68,7 +68,7 @@ Dificuldade de ter visibilidade nas redes sociais. Depois que a pandemia começo
  [^2]: https://soundcloud.com/diogoamanciosilva/entrevista-henrique-netto-musicocantor
  
  
-## Histórias de Usuários (Em correção...)
+## Histórias de Usuários 
 
 | Eu como (Persona) | Quero/Desejo (O que) | Para que (POR QUE) |
 | ----------------- | ----------------- | ---------------- |
