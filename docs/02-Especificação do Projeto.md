@@ -80,16 +80,18 @@ Dificuldade de ter visibilidade nas redes sociais. Depois que a pandemia começo
 | Músico/Banda | Manter informações atualizadas e precisas na plataforma | Facilitar o contato de potenciais contratantes e evitar perda de oportunidades |
 
 
-**Requisitos (Em correção...)**
+**Requisitos**
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
-**Requisitos Funcionais (Em correção...)**
+**Requisitos Funcionais**
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RNF-001| Permitir o cadastro do usuário | ALTA |
+|RNF-002| Permitir um mecanismo de avaliação dos músicos | ALTA |
+|RNF-003| Permitir um meio de comunicação entre artistas e contratantes| ALTA |
+|RNF-004| Deve haver um mecanismo de busca para escolha de artistas por gênero e região geográfica| ALTA |
 
 
 **Requisitos não Funcionais**
@@ -104,24 +106,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-006| O sistema deve ser compatível com os navegadores mais utilizados do mercado: Google Chrome, Apple Safari, Microsoft Edge, Mozilla Firefox, Samsung Internet e  Opera.| ALTA |
 |RNF-007| O projeto deve ser desenvolvido pelos membros do grupo na linguagem HTML, CSS e Javascript| ALTA |
 
-
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
-**Restrições (Em correção...)**
+**Restrições**
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
@@ -129,13 +114,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre letivo: 25/06/2023|
 |02| O projeto não pode ser desenvolvido um módulo de backend|
-|03| O projeto deve ser desenvolvido apenas pelos membros do grupo
+|03| O projeto deve ser desenvolvido apenas pelos membros do grupo|
+|04| O código do projeto deve ser publicado no Github|
 
 
 
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
