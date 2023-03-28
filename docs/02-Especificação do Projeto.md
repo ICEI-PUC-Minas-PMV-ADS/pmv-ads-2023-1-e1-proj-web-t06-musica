@@ -41,7 +41,7 @@ Fonte: https://br.freepik.com/fotos-gratis/homem-bonito-e-elegante-espanhol-tent
 
 **Biografia**: 
 
-Meu nome é James Renzi, tenho 34 anos, estudei até completar o ensino médio e moro em Belo Horizonte, MG. Hoje a minha renda varia conforme o trabalho que eu consigo ao longo do mês.
+Meu nome é James Renzi, tenho 24 anos, estudei até completar o ensino médio e moro em Belo Horizonte, MG. Hoje a minha renda varia conforme o trabalho que eu consigo ao longo do mês.
 
 Comecei a trabalhar com música aos 14 anos, tinha um grupo de rap perto da minha casa onde eu gostava de participar frequentemente dos eventos. Com essas minhas participações eu fiquei muito motivado e comecei a compor as minhas próprias músicas autorais.
 
@@ -92,12 +92,19 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 
 
-**Requisitos não Funcionais (Em correção...)**
+**Requisitos não Funcionais**
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivel móvel| ALTA|
+|RNF-002| O sistema deve processar requisições do usuário em no máximo 3s | MÉDIA | 
+|RNF-003| O sistema deve oferecer um sistema de segurança aos dados| ALTA|
+|RNF-004| O sistema deve respeitar a privacidade das pessoas que interagem por ele| ALTA |
+|RNF-005| A interface do sistema deve ser intuitiva para que o usuário não precise fazer um treinamento para uso | ALTA |
+|RNF-006| O sistema deve ser compatível com os navegadores mais utilizados do mercado: Google Chrome, Apple Safari, Microsoft Edge, Mozilla Firefox, Samsung Internet e  Opera.| ALTA |
+|RNF-007| O projeto deve ser desenvolvido pelos membros do grupo na linguagem HTML, CSS e Javascript| ALTA |
+
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
@@ -122,8 +129,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre letivo: 25/06/2023|
 |02| O projeto não pode ser desenvolvido um módulo de backend|
-|03| O projeto deve ser desenvolvido pelos membros do grupo na linguagem HTML, CSS e Javascript|
-|04| O sistema deve ser compatível com os navegadores mais utilizados do mercado: Google Chrome, Apple Safari, Microsoft Edge, Mozilla Firefox, Samsung Internet e Opera.|
+|03| O projeto deve ser desenvolvido apenas pelos membros do grupo
 
 
 
