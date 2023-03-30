@@ -103,6 +103,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-004| O sistema deve respeitar a privacidade das pessoas que interagem por ele| ALTA |
 |RNF-005| A interface do sistema deve ser intuitiva para que o usuário não precise fazer um treinamento para uso | ALTA |
 |RNF-006| O sistema deve ser compatível com os navegadores mais utilizados do mercado: Google Chrome, Apple Safari, Microsoft Edge, Mozilla Firefox, Samsung Internet e  Opera.| ALTA |
+|RNF-007| O projeto deve ser desenvolvido pelos membros do grupo na linguagem HTML, CSS e Javascript| ALTA |
 
 
 **Restrições**
