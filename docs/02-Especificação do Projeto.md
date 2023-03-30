@@ -72,12 +72,10 @@ Dificuldade de ter visibilidade nas redes sociais. Depois que a pandemia começo
 
 | Eu como (Persona) | Quero/Desejo (O QUE) | Para que (POR QUE) |
 | ----------------- | ----------------- | ---------------- |
-| Contratante | Encontrar músicos locais com facilidade | Poder contratar artistas próximos e conhecer novos músicos locais |
-| Contratante | Filtros de segmentação por local e estilo musical | Facilitar a busca por músicos com as características desejadas |
+| Contratante | Encontrar músicos por local e estilo músical com facilidade | Poder contratar artistas próximos e conhecer novos músicos locais com as características desejadas |
 | Contratante | Obter informações de contato e redes sociais dos músicos | Poder entrar em contato diretamente com os músicos selecionados |
-| Músico/Banda | Divulgar meu trabalho para potenciais contratantes | Aumentar as chances de ser contratado para eventos diversos |
-| Músico/Banda | Ter minha banda/música presente na lista da plataforma | Aumentar a visibilidade da banda/música |
-| Músico/Banda | Manter informações atualizadas e precisas na plataforma | Facilitar o contato de potenciais contratantes e evitar perda de oportunidades |
+| Músico/Banda | Apresentar meu trabalho para potenciais contratantes | Aumentar a visibilidade da banda/músico a fim de ser contratado para eventos diversos |
+| Músico/Banda | Divulgar a qualidade do meu trabalho a partir dos shows que já fiz | Melhorar as chances de contrato, possibilitando um aumento no valor de pagamento |
 
 
 **Requisitos**
@@ -90,8 +88,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RNF-001| Permitir o cadastro do usuário | ALTA |
 |RNF-002| Permitir um mecanismo de avaliação dos músicos | ALTA |
-|RNF-003| Permitir um meio de comunicação entre artistas e contratantes| ALTA |
-|RNF-004| Deve haver um mecanismo de busca para escolha de artistas por gênero e região geográfica| ALTA |
+|RNF-003| Permitir que a banda/músico se apresente com suas informações e meios de contato | ALTA |
+|RNF-004| Oferecer mecanismos de contato entre artistas e contratantes| ALTA |
+|RNF-005| Deve haver um mecanismo de busca para escolha de artistas por gênero e região geográfica| ALTA |
 
 
 **Requisitos não Funcionais**
@@ -104,7 +103,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-004| O sistema deve respeitar a privacidade das pessoas que interagem por ele| ALTA |
 |RNF-005| A interface do sistema deve ser intuitiva para que o usuário não precise fazer um treinamento para uso | ALTA |
 |RNF-006| O sistema deve ser compatível com os navegadores mais utilizados do mercado: Google Chrome, Apple Safari, Microsoft Edge, Mozilla Firefox, Samsung Internet e  Opera.| ALTA |
-|RNF-007| O projeto deve ser desenvolvido pelos membros do grupo na linguagem HTML, CSS e Javascript| ALTA |
+
 
 **Restrições**
 
