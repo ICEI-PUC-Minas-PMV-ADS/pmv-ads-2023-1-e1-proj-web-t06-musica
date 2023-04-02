@@ -97,11 +97,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivel móvel| ALTA|
-|RNF-002| O sistema deve processar requisições do usuário em no máximo 3s | MÉDIA | 
-|RNF-003| O sistema deve oferecer um sistema de segurança aos dados| ALTA|
-|RNF-004| O sistema deve respeitar a privacidade das pessoas que interagem por ele| ALTA |
-|RNF-005| A interface do sistema deve ser intuitiva para que o usuário não precise fazer um treinamento para uso | ALTA |
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivel móvel.| ALTA|
+|RNF-002| O sistema deve processar requisições do usuário em no máximo 3s. | MÉDIA | 
+|RNF-003| O sistema deve oferecer um sistema de segurança aos dados.| ALTA|
+|RNF-004| O sistema deve respeitar a privacidade das pessoas que interagem por ele.| ALTA |
+|RNF-005| A interface do sistema deve ser intuitiva para que o usuário não precise fazer um treinamento para uso.| ALTA |
 |RNF-006| O sistema deve ser compatível com os navegadores mais utilizados do mercado: Google Chrome, Apple Safari, Microsoft Edge, Mozilla Firefox, Samsung Internet e  Opera.| ALTA |
 
 
@@ -112,9 +112,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre letivo: 25/06/2023|
-|02| O projeto não pode ser desenvolvido um módulo de backend|
-|03| O projeto deve ser desenvolvido apenas pelos membros do grupo|
-|04| O código do projeto deve ser publicado no Github|
+|02| O projeto não pode ser desenvolvido um módulo de backend.|
+|03| O projeto deve ser desenvolvido apenas pelos membros do grupo.|
+|04| O código do projeto deve ser publicado no Github.|
 
 
 
