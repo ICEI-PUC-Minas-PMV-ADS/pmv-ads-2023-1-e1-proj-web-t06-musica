@@ -2,7 +2,9 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-A plataforma de contratação de músicos locais é um projeto que consiste em uma plataforma online que conecta músicos e bandas locais a potenciais contratantes para eventos diversos. Para a especificação do projeto, foram utilizadas técnicas como a definição do diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais, além das restrições do projeto, que foram montados através de imersão da equipe e entrevistas com potenciais usuários. O projeto será desenvolvido com a ajuda de frameworks e linguagens de programação, além de testes de qualidade e segurança para garantir que a plataforma seja funcional, segura e atenda aos requisitos estabelecidos.
+A plataforma de contratação de músicos locais é um projeto que consiste em uma plataforma online que conecta músicos e bandas locais a potenciais contratantes para eventos diversos. Para a especificação do projeto, foram utilizadas técnicas como a definição do diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais, além das restrições do projeto, que foram montados através de imersão da equipe e entrevistas com potenciais usuários. 
+
+O projeto será desenvolvido com a ajuda de frameworks e linguagens de programação, além de testes de qualidade e segurança para garantir que a plataforma seja funcional, segura e atenda aos requisitos estabelecidos.
 
 ## Personas
 
