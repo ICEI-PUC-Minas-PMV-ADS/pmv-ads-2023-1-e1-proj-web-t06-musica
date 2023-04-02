@@ -74,7 +74,7 @@ Dificuldade de ter visibilidade nas redes sociais. Depois que a pandemia começo
 | ----------------- | ----------------- | ---------------- |
 | Contratante | Encontrar músicos por local e estilo músical com facilidade.| Poder contratar artistas próximos e conhecer novos músicos locais com as características desejadas. |
 | Contratante | Obter informações de contato e redes sociais dos músicos. | Poder entrar em contato diretamente com os músicos selecionados. |
-| Músico/Banda | Oferecer as minhas informações de contato de um jeito fácil para que potências contratantes consigam ter acesso ao artista de forma rápida. | Aumentar a visibilidade do artista para ele ser contratado pelos contratantes com facilidade. |
+| Músico/Banda | Oferecer as minhas informações de contato de um jeito fácil para que potências contratantes consigam ter acesso de forma rápida. | Aumentar a visibilidade do artista para ele ser contratado pelos contratantes com facilidade. |
 | Músico/Banda | Divulgar a qualidade do meu trabalho a partir dos shows que já fiz mediante a opinião de quem já o contratou. | Para aumentar as chances de ser contratado e melhorar a remuneração do cachê.|
 
 
