@@ -111,7 +111,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre letivo: 25/06/2023|
+|01| O projeto deverá ser entregue até o final do semestre letivo: 25/06/2023.|
 |02| O projeto não pode ser desenvolvido um módulo de backend.|
 |03| O projeto deve ser desenvolvido apenas pelos membros do grupo.|
 |04| O código do projeto deve ser publicado no Github.|
