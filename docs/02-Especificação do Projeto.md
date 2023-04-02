@@ -89,7 +89,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| Permitir o cadastro do usuário. | ALTA |
 |RNF-002| Permitir um mecanismo de avaliação dos músicos. | ALTA |
 |RNF-003| Permitir um mecanismo de contato entre artistas e contratantes.	 | ALTA |
-|RNF-004| Permitir que o artista apresente todas as suas informações (Exemplos: Link do YouTube e link do Spotify.) e todos aqueles meios de contato desejado.| ALTA |
+|RNF-004| Permitir que o artista apresente todas as suas informações(Exemplos: Link do YouTube e link do Spotify), e todos aqueles meios de contato desejado.| ALTA |
 |RNF-005| Deve haver um mecanismo de busca para escolha de artistas por gênero e região geográfica.| ALTA |
 
 
