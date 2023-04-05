@@ -88,7 +88,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RNF-001| Permitir o cadastro do usuário. | ALTA |
+|RNF-001| Permitir o cadastro do músico. | ALTA |
 |RNF-002| Permitir um mecanismo de avaliação dos músicos. | ALTA |
 |RNF-003| Permitir um mecanismo de contato entre artistas e contratantes.	 | ALTA |
 |RNF-004| Permitir que o artista apresente todas as suas diversas informações e os meios de contato desejado.| ALTA |
