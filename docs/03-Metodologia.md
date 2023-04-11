@@ -1,5 +1,5 @@
 
-# Metodologia (Em construção)
+# Metodologia 
 
 
 ## Equipe de Trabalho
