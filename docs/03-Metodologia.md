@@ -61,6 +61,8 @@ Apresente a divisão de papéis entre os membros do grupo.
 ### Processo
 
 Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+
+
  
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
@@ -68,13 +70,13 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 > - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
 > - [Tutorial Slack](https://slack.com/intl/en-br/)
 
-### Ferramentas
+### Ferramentas (Em construção)
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
+- Editor de código. **(A definir)
 - Ferramentas de comunicação: Whatsapp.
-- Ferramentas de desenho de tela (_wireframing_)
+- Ferramentas de desenho de tela (_wireframing_) **(A definir)
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas possuem
