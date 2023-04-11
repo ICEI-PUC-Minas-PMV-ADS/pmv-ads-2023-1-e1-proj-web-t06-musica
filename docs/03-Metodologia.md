@@ -70,7 +70,7 @@ Logo abaixo segue todas as informações sobre a implementação do Scrum e um d
 
 
  
- **(Para consulta)
+ **OBS: para consulta)**
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
 > - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
