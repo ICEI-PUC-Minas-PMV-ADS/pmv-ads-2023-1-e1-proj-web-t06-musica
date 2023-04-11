@@ -65,7 +65,7 @@ As ferramentas empregadas no projeto são:
 
 - Editor de código. **(A definir)
 - Ferramentas de comunicação: Whatsapp.
-- Ferramentas de desenho de tela (_wireframing_) **(A definir)
+- Ferramentas de desenho de tela: Github. (_wireframing_) **(A definir)
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas possuem
