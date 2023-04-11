@@ -37,6 +37,15 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ## Gerenciamento de Projeto
 
+O Scrum é a metodologia ágil escolhida pela equipe, ela é a base fundamental para todo o processo de desenvolvimento.
+
+A organização da equipe está dessa forma:
+
+**Scrum Master:** Diogo Amancio.
+**Product Owner:** Luiz Felipe e Gabriel Souza.
+**Equipe de Desenvolvimento:** Henrique Gabriel, João Leonardo e Luiz Felipe.
+**Equipe de Design:** Gabriel Souza,  Henrique Gabriel e Isaac Heder.
+
 ### Divisão de Papéis
 
 Apresente a divisão de papéis entre os membros do grupo.
