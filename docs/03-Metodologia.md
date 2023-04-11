@@ -54,19 +54,19 @@ Logo abaixo segue todas as informações sobre a implementação do Scrum e um d
 
 **Sprint 01
 
--	**Planejamento:
+-	**Planejamento**:
 
--	**Execução:
+-	**Execução**:
 
--	**Evidências:
+-	**Evidências**:
 
 **Sprint 02
 
--	**Planejamento:
+-	**Planejamento**:
 
--	**Execução:
+-	**Execução**:
 
--	**Evidências:
+-	**Evidências**:
 
 
  
