@@ -35,7 +35,7 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 > - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 > - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
 
-## Gerenciamento de Projeto
+## Equipe de Trabalho
 
 O Scrum é a metodologia ágil escolhida pela equipe, ela é a base fundamental para todo o processo de desenvolvimento.
 
@@ -49,21 +49,28 @@ A organização da equipe está dessa forma:
 
 **Equipe de Design:** Gabriel Souza, Henrique Gabriel, Isaac Heder e Daniel Dutra.
 
-### Divisão de Papéis
-
-Apresente a divisão de papéis entre os membros do grupo.
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
 ### Processo
+Logo abaixo segue todas as informações sobre a implementação do Scrum e um detalhamento completo relacionado a cada Sprint: andamento do projeto, a execução de tarefas e o status de desenvolvimentro da solução.
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+**Sprint 01
+
+-	**Planejamento:
+
+-	**Execução:
+
+-	**Evidências:
+
+**Sprint 02
+
+-	**Planejamento:
+
+-	**Execução:
+
+-	**Evidências:
 
 
  
+ **(Para consulta)
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
 > - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
