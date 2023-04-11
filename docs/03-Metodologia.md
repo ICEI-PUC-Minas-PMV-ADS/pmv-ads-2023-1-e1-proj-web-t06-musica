@@ -52,7 +52,7 @@ A organização da equipe está dessa forma:
 ### Processo
 Logo abaixo segue todas as informações sobre a implementação do Scrum e um detalhamento completo relacionado a cada Sprint: andamento do projeto, a execução de tarefas e o status de desenvolvimentro da solução.
 
-**Sprint 01
+**Sprint 01**
 
 -	**Planejamento**:
 
@@ -60,7 +60,7 @@ Logo abaixo segue todas as informações sobre a implementação do Scrum e um d
 
 -	**Evidências**:
 
-**Sprint 02
+**Sprint 02**
 
 -	**Planejamento**:
 
