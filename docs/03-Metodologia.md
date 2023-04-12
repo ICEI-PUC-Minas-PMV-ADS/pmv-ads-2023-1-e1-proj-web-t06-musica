@@ -72,10 +72,10 @@ Atualização dia 12/04 após as orientações do professor.
 
 As ferramentas empregadas no projeto são:
 
-- **Editor de código:** (A definir)
+- **Editor de código:** Vscode.
 
 - **Ferramentas de comunicação:** Whatsapp e Microsoft Teams.
 
-- **Ferramentas de desenho de tela:** GitHub e Figma. 
+- **Ferramentas de desenho de tela:** GitHub (Quadro Kanban) e Figma. 
 
 Obs: Anexar texto argumentativo em virtude da escolha do editor de código escolhido.
