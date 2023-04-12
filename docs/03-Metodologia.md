@@ -23,7 +23,7 @@ A organização da equipe está dessa forma:
 ### Processo
 Logo abaixo segue todas as informações sobre a implementação do Scrum e um detalhamento completo relacionado a cada sprint: o andamento do projeto, a execução de tarefas e o status de desenvolvimentro da solução.
 
-**Sprint 01**
+**Etapa 01**
 
 -	**Planejamento**:
 
@@ -31,7 +31,7 @@ Logo abaixo segue todas as informações sobre a implementação do Scrum e um d
 
 -	**Evidências**:
 
-**Sprint 02**
+**Etapa 02**
 
 -	**Planejamento**:
 
@@ -39,7 +39,7 @@ Logo abaixo segue todas as informações sobre a implementação do Scrum e um d
 
 -	**Evidências**:
 
-**Sprint 03**
+**Etapa 03**
 
 -	**Planejamento**:
 
@@ -47,7 +47,7 @@ Logo abaixo segue todas as informações sobre a implementação do Scrum e um d
 
 -	**Evidências**:
 
-**Sprint 04**
+**Etapa 04**
 
 -	**Planejamento**:
 
@@ -55,7 +55,7 @@ Logo abaixo segue todas as informações sobre a implementação do Scrum e um d
 
 -	**Evidências**:
 
-**Sprint 05**
+**Etapa 05**
 
 -	**Planejamento**:
 
