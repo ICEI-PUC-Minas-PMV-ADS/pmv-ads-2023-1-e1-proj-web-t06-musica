@@ -72,3 +72,5 @@ As ferramentas empregadas no projeto são:
 - **Ferramentas de comunicação:** Whatsapp e Microsoft Teams.
 
 - **Ferramentas de desenho de tela:** Github e Figma. 
+
+Obs: Anexar texto argumentativo em virtude da escolha do editor de código escolhido.
