@@ -31,6 +31,9 @@ Logo abaixo segue todas as informações sobre a implementação do Scrum e um d
 
 -	**Evidências**:
 
+
+![image](https://user-images.githubusercontent.com/126628545/231555578-119251e0-a2c7-481c-9a00-664ca0687426.png)
+
 **Etapa 02**
 
 -	**Planejamento**:
