@@ -63,11 +63,11 @@ Logo abaixo segue todas as informações sobre a implementação do Scrum e um d
 
 -	**Evidências**:
 
-### Ferramentas (Em construção)
+### Ferramentas 
 
 As ferramentas empregadas no projeto são:
 
-- **Editor de código. ** (A definir)
+- **Editor de código:** (A definir)
 
 - **Ferramentas de comunicação:** Whatsapp e Microsoft Teams.
 
