@@ -67,9 +67,9 @@ Logo abaixo segue todas as informações sobre a implementação do Scrum e um d
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código. **(A definir)
-- Ferramentas de comunicação: Whatsapp.
-- Ferramentas de desenho de tela: Github. (_wireframing_) **(A definir)
+**- Editor de código. ** (A definir)
+**- Ferramentas de comunicação:** Whatsapp e Microsoft Teams.
+**- Ferramentas de desenho de tela:** Github e Figma. 
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas possuem
