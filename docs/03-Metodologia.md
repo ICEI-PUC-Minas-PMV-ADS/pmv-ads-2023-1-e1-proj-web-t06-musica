@@ -72,10 +72,12 @@ Atualização dia 12/04 após as orientações do professor.
 
 As ferramentas empregadas no projeto são:
 
-- **Editor de código:** Vscode.
+- **Editor de código:** Visual Studio Code (VS Code).
 
 - **Ferramentas de comunicação:** Whatsapp e Microsoft Teams.
 
 - **Ferramentas de desenho de tela:** GitHub (Quadro Kanban) e Figma. 
 
-Obs: Anexar texto argumentativo em virtude da escolha do editor de código escolhido.
+Escolhemos utilizar o VS Code como o nosso editor de código principal porque ele é uma ferramenta leve, rápida e altamente personalizável. O VS Code possui diversas extensões disponíveis que nos permitem trabalhar com diversas linguagens de programação, além de ser fácil de integrar com outras ferramentas que utilizamos como o GitHub. 
+
+Outra vantagem é a possibilidade de compartilhar projetos em tempo real com outros desenvolvedores através da Live Share, o que é muito útil para colaboração em equipe. Em resumo, é um editor de código completo, intuitivo e eficiente.
