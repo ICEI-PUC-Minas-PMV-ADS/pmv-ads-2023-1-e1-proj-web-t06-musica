@@ -1,6 +1,10 @@
 
 # Metodologia 
 
+Contextualizamos todo o processo relacionado ao desenvolvimento do sistema cadastral de bandas e artistas, ou seja, a metodologia utilizada para o organizar e gerenciar as atribuições do nosso time. 
+
+Apresentamos todas as ferramentas, os ambientes e as partes estruturais descritas do trabalho, bem como a aplicação da linguagem adotada por nossa equipe de desenvolvimento para a execução do projeto.
+
 
 ## Equipe de Trabalho
 
