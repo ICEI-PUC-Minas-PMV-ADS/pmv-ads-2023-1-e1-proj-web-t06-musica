@@ -60,6 +60,8 @@ Atualização no GitHub:
 	
 -	**Execução**: Diálogo em conjunto do grupo com o nosso orientador na reunião semanal via Microsoft Teams.
 
+Foto do link da reunião:
+
 ![image](https://user-images.githubusercontent.com/126628545/232062409-f7b733fa-a62b-44fb-8f3b-3341465df6a8.png)
 
 -	**Evidências**: Definição da parte do “Problema” atualizado via GitHub depois da nossa orientação.
