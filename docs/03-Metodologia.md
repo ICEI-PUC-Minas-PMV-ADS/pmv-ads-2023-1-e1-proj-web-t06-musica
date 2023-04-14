@@ -29,7 +29,7 @@ Logo abaixo segue todas as informações sobre a implementação do Scrum e um d
 
 -	**Planejamento**: Após um consenso do grupo em relação ao tema central do projeto, todos os membros da equipe realizaram uma pesquisa geral sobre os tópicos: evolução digital, serviços de streaming, artistas e meios/recursos tecnológicos.
 
--	**Execução**: Com as pesquisas realizadas pela equipe, o Diogo coletou todas as informações do grupo via Whatsapp e selecionou os principais sites e aplicativos associados sobre o trabalho como fonte de pesquisa.
+-	**Execução**: Com as pesquisas realizadas pela equipe, o Diogo coletou todas as informações do grupo via WhatsApp e selecionou os principais sites e aplicativos associados sobre o trabalho como fonte de pesquisa.
 
 ![image](https://user-images.githubusercontent.com/126628545/232055458-e125368a-6e72-4a32-9709-5baf84631251.png)
 
@@ -43,9 +43,32 @@ Logo abaixo segue todas as informações sobre a implementação do Scrum e um d
 
 ![image](https://user-images.githubusercontent.com/126628545/232056007-3661c1cf-22ee-4e21-bf9a-12655cf7a81a.png)
 
--	**Evidências**: Correções do texto realizadas pelo GitHub.
+-	**Evidências**: Correções do texto realizadas via GitHub.
 
 ![image](https://user-images.githubusercontent.com/126628545/232056374-931f3ae8-5aa5-4314-928f-fad764cd3912.png)
+
+**Problema**
+
+-	**Planejamento**: Após a conclusão da parte de “Introdução” optamos em definir essa parte diretamente com o nosso orientador Marcos Andre.
+	
+-	**Execução**: Diálogo em conjunto do grupo com o nosso orientador na reunião semanal via Microsoft Teams.
+
+![image](https://user-images.githubusercontent.com/126628545/232062409-f7b733fa-a62b-44fb-8f3b-3341465df6a8.png)
+
+-	**Evidências**: Definição da parte do “Problema” atualizado via GitHub depois da nossa orientação.
+
+![image](https://user-images.githubusercontent.com/126628545/232063475-4299ee9c-4d53-42ca-9a10-1ee69bfd1eb0.png)
+
+**Objetivos**
+
+-	**Planejamento**:
+
+-	**Execução**:
+
+-	**Evidências**:
+
+
+
 
 **Etapa 02**
 
