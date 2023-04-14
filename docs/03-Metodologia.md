@@ -142,13 +142,31 @@ Logo abaixo segue todas as informações sobre a implementação do Scrum e um d
 
 ![image](https://user-images.githubusercontent.com/126628545/232131781-3d6dd6c5-a21d-4a73-959a-63931c2381fd.png)
 
-**G) Especificações do Projeto
+**G) Especificações do Projeto**
 
 **Planejamento**:
 
 **Execução**:
 
 **Evidência**
+
+**H) Personas
+
+**Planejamento**:
+
+**Execução**:
+
+**Evidência**
+
+**I) Histórias de Usuários**
+
+**Planejamento**:
+
+**Execução**:
+
+**Evidência**
+
+
 
 
 **Etapa 02**
