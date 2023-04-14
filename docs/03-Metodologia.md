@@ -150,7 +150,7 @@ Logo abaixo segue todas as informações sobre a implementação do Scrum e um d
 
 **Evidência**
 
-**H) Personas
+**H) Personas**
 
 **Planejamento**:
 
