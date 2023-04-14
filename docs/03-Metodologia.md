@@ -21,6 +21,7 @@ A organização da equipe está dessa forma:
 **Equipe de Design:** Gabriel Souza, Henrique Gabriel, Isaac Heder e Daniel Dutra.
 
 ### Processo
+
 Logo abaixo segue todas as informações sobre a implementação do Scrum e um detalhamento completo relacionado a cada sprint: o andamento do projeto, a execução de tarefas e o status de desenvolvimentro da solução.
 
 **Etapa 01**
