@@ -144,27 +144,33 @@ Logo abaixo segue todas as informações sobre a implementação do Scrum e um d
 
 **G) Especificações do Projeto**
 
-**Planejamento**:
+**Planejamento**: As especificações do projeto foram montadas por Daniel Dutra e assistida por Luiz Felipe
 
-**Execução**:
+**Execução**: Essa parte foi realizada através de orientações do orientador durante a aula e consulta à documentos antigos sobre este tópico
 
 **Evidência**
+![image](https://user-images.githubusercontent.com/127213695/232157199-158c5e3e-8a9b-4310-82b1-7f87763aab53.png)
+
 
 **H) Personas**
 
-**Planejamento**:
+**Planejamento**: O João Leonardo realizou esta parte do projeto.
 
-**Execução**:
+**Execução**: A execução se deu com base nas orientações do professor e para facilitar decidimos enteder melhor cada persona a partir de entrevistas reais com um músico e um empresário.
 
 **Evidência**
+![image](docs/img/screenshot - entrevista.png)
+
 
 **I) Histórias de Usuários**
 
-**Planejamento**:
+**Planejamento**: A história de usuários foi montada pelo Luiz Felipe e alterada por Diogo Amâncio e Gabriel
 
-**Execução**:
+**Execução**: A execução da Histórias de Usuários foi realizada a partir das orientações do professor relacionadas ao formato da tabela para organização dessas histórias.
 
 **Evidência**
+![image](https://user-images.githubusercontent.com/127213695/232156312-10c5983e-fc56-48f1-adb5-d39a995324b2.png)
+
 
 
 
