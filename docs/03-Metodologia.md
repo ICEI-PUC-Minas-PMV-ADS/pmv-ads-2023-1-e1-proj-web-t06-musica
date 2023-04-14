@@ -80,7 +80,7 @@ Logo abaixo segue todas as informações sobre a implementação do Scrum e um d
 
 **Site da consultoria Sonar Cultural:**
 
-![image](https://user-images.githubusercontent.com/126628545/232073354-06e4edf7-a102-4023-8411-71cbdc913853.png)
+![image](https://user-images.githubusercontent.com/126628545/232129159-b42565fd-8bf5-4c96-b805-0db08176839c.png)
 
 **D) Trabalhos relacionados**
 
