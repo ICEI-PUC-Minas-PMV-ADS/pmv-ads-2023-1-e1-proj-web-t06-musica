@@ -25,18 +25,33 @@ Logo abaixo segue todas as informações sobre a implementação do Scrum e um d
 
 **Etapa 01**
 
--	**Planejamento**:
+**Introdução**
 
--	**Execução**:
+-	**Planejamento**: Após um consenso do grupo em relação ao tema central do projeto, todos os membros da equipe realizaram uma pesquisa geral sobre os tópicos: evolução digital, serviços de streaming, artistas e meios/recursos tecnológicos.
 
--	**Evidências**:
+-	**Execução**: Com as pesquisas realizadas pela equipe, o Diogo coletou todas as informações do grupo via Whatsapp e selecionou os principais sites e aplicativos associados sobre o trabalho como fonte de pesquisa.
 
+![image](https://user-images.githubusercontent.com/126628545/232055458-e125368a-6e72-4a32-9709-5baf84631251.png)
+
+![image](https://user-images.githubusercontent.com/126628545/232055739-fdbdfa99-b973-4a85-9ac9-27a46eaba619.png)
+
+![image](https://user-images.githubusercontent.com/126628545/232055843-927a932a-9b50-41aa-bdb2-26fb188cba21.png)
+
+![image](https://user-images.githubusercontent.com/126628545/232055887-0d105deb-3261-40ba-aee9-20f8b4c9cc87.png)
+
+![image](https://user-images.githubusercontent.com/126628545/232055927-32f19b76-0f08-47a8-8d06-303d2ad788f7.png)
+
+![image](https://user-images.githubusercontent.com/126628545/232056007-3661c1cf-22ee-4e21-bf9a-12655cf7a81a.png)
+
+-	**Evidências**: Correções do texto realizadas pelo GitHub.
+
+![image](https://user-images.githubusercontent.com/126628545/232056374-931f3ae8-5aa5-4314-928f-fad764cd3912.png)
+
+**Etapa 02**
 
 Atualização dia 12/04 após as orientações do professor.
 
 ![image](https://user-images.githubusercontent.com/126628545/231555578-119251e0-a2c7-481c-9a00-664ca0687426.png)
-
-**Etapa 02**
 
 -	**Planejamento**:
 
