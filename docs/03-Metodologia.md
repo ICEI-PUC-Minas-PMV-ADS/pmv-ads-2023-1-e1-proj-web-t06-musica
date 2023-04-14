@@ -32,11 +32,11 @@ Logo abaixo segue todas as informações sobre a implementação do Scrum e um d
 
 -	**Execução**: Com as pesquisas realizadas pela equipe, o Diogo coletou todas as informações do grupo via WhatsApp e selecionou os principais sites e aplicativos associados sobre o trabalho como fonte de pesquisa.
 
-Grupo do trabalho no WhatsApp:
+**Grupo do trabalho no WhatsApp:**
 
 ![image](https://user-images.githubusercontent.com/126628545/232055458-e125368a-6e72-4a32-9709-5baf84631251.png)
 
-Sites e Aplicativos:
+**Sites e Aplicativos:**
 
 ![image](https://user-images.githubusercontent.com/126628545/232055739-fdbdfa99-b973-4a85-9ac9-27a46eaba619.png)
 
@@ -50,7 +50,7 @@ Sites e Aplicativos:
 
 -	**Evidências**: Correções do texto realizadas via GitHub.
 
-Atualização no GitHub:
+**Atualização no GitHub:**
 
 ![image](https://user-images.githubusercontent.com/126628545/232056374-931f3ae8-5aa5-4314-928f-fad764cd3912.png)
 
@@ -60,13 +60,13 @@ Atualização no GitHub:
 	
 -	**Execução**: Diálogo em conjunto do grupo com o nosso orientador na reunião semanal via Microsoft Teams.
 
-Foto do link da reunião:
+**Foto do link da reunião:**
 
 ![image](https://user-images.githubusercontent.com/126628545/232062409-f7b733fa-a62b-44fb-8f3b-3341465df6a8.png)
 
 -	**Evidências**: Definição da parte do “Problema” atualizado via GitHub depois da nossa orientação.
 
-Atualização no GitHub:
+**Atualização no GitHub:**
 
 ![image](https://user-images.githubusercontent.com/126628545/232066575-21e339c1-a687-4e64-8b3f-3776d8ca091e.png)
 
@@ -78,7 +78,7 @@ Atualização no GitHub:
 
 -	**Evidências**: Uma pesquisa divulgada por uma consultoria especializada em Gestão Cultural ajudou na conclusão dessa parte.
 
-Site da consultoria Sonar Cultural:
+**Site da consultoria Sonar Cultural:**
 
 ![image](https://user-images.githubusercontent.com/126628545/232073354-06e4edf7-a102-4023-8411-71cbdc913853.png)
 
@@ -88,25 +88,25 @@ Site da consultoria Sonar Cultural:
 
 **Execução**: Utilizamos do nosso grupo de WhatsApp para selecionar os sites e aplicativos que mais faziam sentido em comparação com o tema central do trabalho. Após essa seleção, decidimos confirmar as melhores soluções que já existem com o nosso orientador via Microsoft Teams.
 
-Grupo do trabalho no WhatsApp:
+**Grupo do trabalho no WhatsApp:**
 
 ![image](https://user-images.githubusercontent.com/126628545/232107934-56841c2e-35ab-4a80-b031-354c05d5cafc.png)
 
 **Evidências**: Com as explicações do nosso orientador, discutimos em grupo e optamos em selecionar apenas quatro aplicações para serem uma referência teórica e prática ao nosso trabalho.
 
-App Tocaki:
+**App Tocaki:**
 
 ![image](https://user-images.githubusercontent.com/126628545/232110089-68666a70-5c3a-4bf2-83a4-cb8af3585695.png)
 
-Site Contratashow:
+**Site Contratashow:**
 
 ![image](https://user-images.githubusercontent.com/126628545/232110195-fd6dbdd4-1f16-489e-a8c1-c58660c1181d.png)
 
-Site Contratabanda:
+**Site Contratabanda:**
 
 ![image](https://user-images.githubusercontent.com/126628545/232110291-01894378-aca9-43a4-873d-cd7dde4ebd3f.png)
 
-App e Site Eshows:
+**App e Site Eshows:**
 
 ![image](https://user-images.githubusercontent.com/126628545/232110530-f37ea045-3db6-4564-bad9-ab8c950478cb.png)
 
@@ -118,11 +118,11 @@ App e Site Eshows:
 
 **Evidência** Foram utilizados dois sites especializados com duas fontes de pesquisa.
 
-Site da Rádio Rock 89:
+**Site da Rádio Rock 89:**
 
 ![image](https://user-images.githubusercontent.com/126628545/232127192-c5631d07-2594-4182-ba44-a978c8e59c48.png)
 
-Site da consultoria Sonar Cultural:
+**Site da consultoria Sonar Cultural:**
 
 ![image](https://user-images.githubusercontent.com/126628545/232127258-4af6e947-8299-4b13-880c-eb88dd4625c3.png)
 
