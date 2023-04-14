@@ -32,7 +32,7 @@ Logo abaixo segue todas as informações sobre a implementação do Scrum e um d
 
 -	**Execução**: Com as pesquisas realizadas pela equipe, o Diogo coletou todas as informações do grupo via WhatsApp e selecionou os principais sites e aplicativos associados sobre o trabalho como fonte de pesquisa.
 
-Grupo do WhatsApp:
+Grupo do trabalho no WhatsApp:
 
 ![image](https://user-images.githubusercontent.com/126628545/232055458-e125368a-6e72-4a32-9709-5baf84631251.png)
 
