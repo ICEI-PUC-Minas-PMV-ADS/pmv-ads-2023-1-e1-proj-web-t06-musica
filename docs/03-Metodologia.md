@@ -50,6 +50,8 @@ Sites e Aplicativos:
 
 -	**Evidências**: Correções do texto realizadas via GitHub.
 
+Atualização GitHub:
+
 ![image](https://user-images.githubusercontent.com/126628545/232056374-931f3ae8-5aa5-4314-928f-fad764cd3912.png)
 
 **B) Problema**
@@ -68,11 +70,27 @@ Atualização GitHub:
 
 **C) Objetivos**
 
--	**Planejamento**:
+-	**Planejamento**: A parte do “Objetivos” foi feita pelo Luiz Felipe.
 
--	**Execução**:
+-	**Execução**: Após as orientações do nosso orientador Marcos André, foi realizado uma pesquisa objetiva sobre as necessidades das bandas autorais e as aplicações já existentes no mercado via Internet.
 
--	**Evidências**:
+-	**Evidências**: Uma pesquisa divulgada por uma consultoria especializada em Gestão Cultural ajudou na conclusão dessa parte.
+
+Site da consultoria Sonar Cultural:
+
+![image](https://user-images.githubusercontent.com/126628545/232073354-06e4edf7-a102-4023-8411-71cbdc913853.png)
+
+**D) Trabalhos relacionados**
+
+**Planejamento**:
+
+**Execução**:
+
+**Evidências**:
+
+
+
+-	
 
 
 
