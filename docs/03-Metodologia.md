@@ -50,7 +50,7 @@ Sites e Aplicativos:
 
 -	**Evidências**: Correções do texto realizadas via GitHub.
 
-Atualização GitHub:
+Atualização no GitHub:
 
 ![image](https://user-images.githubusercontent.com/126628545/232056374-931f3ae8-5aa5-4314-928f-fad764cd3912.png)
 
@@ -64,7 +64,7 @@ Atualização GitHub:
 
 -	**Evidências**: Definição da parte do “Problema” atualizado via GitHub depois da nossa orientação.
 
-Atualização GitHub:
+Atualização no GitHub:
 
 ![image](https://user-images.githubusercontent.com/126628545/232066575-21e339c1-a687-4e64-8b3f-3776d8ca091e.png)
 
