@@ -159,7 +159,8 @@ Logo abaixo segue todas as informações sobre a implementação do Scrum e um d
 **Execução**: A execução se deu com base nas orientações do professor e para facilitar decidimos enteder melhor cada persona a partir de entrevistas reais com um músico e um empresário.
 
 **Evidência**
-![image](docs/img/screenshot - entrevista.png)
+![image](https://user-images.githubusercontent.com/127213695/232157437-5d252546-0288-4658-80c9-c8bf3e0c0b40.png)
+
 
 
 **I) Histórias de Usuários**
