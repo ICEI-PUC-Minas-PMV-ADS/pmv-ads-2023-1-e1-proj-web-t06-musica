@@ -92,7 +92,7 @@ Grupo do trabalho no WhatsApp:
 
 ![image](https://user-images.githubusercontent.com/126628545/232107934-56841c2e-35ab-4a80-b031-354c05d5cafc.png)
 
-**Evidências**: Com as explicações do nosso orientador, discutimos em grupo e optamos em selecionar apenas quatro aplicações como base teórica e prática para o nosso trabalho.
+**Evidências**: Com as explicações do nosso orientador, discutimos em grupo e optamos em selecionar apenas quatro aplicações para serem uma referência teórica e prática ao nosso trabalho.
 
 App Tocaki:
 
@@ -117,17 +117,6 @@ App e Site Eshows:
 **Execução**
 
 **Evidência**
-
-
-
-
-
-
-
--	
-
-
-
 
 **Etapa 02**
 
