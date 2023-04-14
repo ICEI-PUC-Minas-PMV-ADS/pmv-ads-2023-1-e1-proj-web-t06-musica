@@ -112,11 +112,20 @@ App e Site Eshows:
 
 **E) Justificativa**:
 
-**Planejamento**
+**Planejamento**: O Gabriel foi o responsável pela elaboração da parte de “Justificativa.”
 
-**Execução**
+**Execução**: Conforme as pesquisas anteriores realizadas pelo grupo via WhatsApp, a construção argumentativa da “Justificativa” foi desenvolvida por base de uma pesquisa mais pontual em fontes especializadas sobre o nicho mercadológico do mundo da música.
 
-**Evidência**
+**Evidência** Foram utilizados dois sites especializados com duas fontes de pesquisa.
+
+Site da Rádio Rock 89:
+
+![image](https://user-images.githubusercontent.com/126628545/232127192-c5631d07-2594-4182-ba44-a978c8e59c48.png)
+
+Site da consultoria Sonar Cultural:
+
+![image](https://user-images.githubusercontent.com/126628545/232127258-4af6e947-8299-4b13-880c-eb88dd4625c3.png)
+
 
 **Etapa 02**
 
