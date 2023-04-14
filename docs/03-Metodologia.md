@@ -84,11 +84,43 @@ Site da consultoria Sonar Cultural:
 
 **D) Trabalhos relacionados**
 
-**Planejamento**:
+**Planejamento**: Todos os membros do grupo realizaram pesquisas na web procurando sites e aplicativos que já realizam um trabalho de divulgação de bandas e artistas.
 
-**Execução**:
+**Execução**: Utilizamos do nosso grupo de WhatsApp para selecionar os sites e aplicativos que mais faziam sentido em comparação com o tema central do trabalho. Após essa seleção, decidimos confirmar as melhores soluções que já existem com o nosso orientador via Microsoft Teams.
 
-**Evidências**:
+Grupo do trabalho no WhatsApp:
+
+![image](https://user-images.githubusercontent.com/126628545/232107934-56841c2e-35ab-4a80-b031-354c05d5cafc.png)
+
+**Evidências**: Com as explicações do nosso orientador, discutimos em grupo e optamos em selecionar apenas quatro aplicações como base teórica e prática para o nosso trabalho.
+
+App Tocaki:
+
+![image](https://user-images.githubusercontent.com/126628545/232110089-68666a70-5c3a-4bf2-83a4-cb8af3585695.png)
+
+Site Contratashow:
+
+![image](https://user-images.githubusercontent.com/126628545/232110195-fd6dbdd4-1f16-489e-a8c1-c58660c1181d.png)
+
+Site Contratabanda:
+
+![image](https://user-images.githubusercontent.com/126628545/232110291-01894378-aca9-43a4-873d-cd7dde4ebd3f.png)
+
+App e Site Eshows:
+
+![image](https://user-images.githubusercontent.com/126628545/232110530-f37ea045-3db6-4564-bad9-ab8c950478cb.png)
+
+**E) Justificativa**:
+
+**Planejamento**
+
+**Execução**
+
+**Evidência**
+
+
+
+
 
 
 
