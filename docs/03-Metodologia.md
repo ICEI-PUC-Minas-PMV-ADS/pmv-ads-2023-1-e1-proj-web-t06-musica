@@ -64,7 +64,7 @@ Sites e Aplicativos:
 
 Atualização GitHub:
 
-![image](https://user-images.githubusercontent.com/126628545/232063475-4299ee9c-4d53-42ca-9a10-1ee69bfd1eb0.png)
+![image](https://user-images.githubusercontent.com/126628545/232066575-21e339c1-a687-4e64-8b3f-3776d8ca091e.png)
 
 **Objetivos**
 
