@@ -26,7 +26,7 @@ Logo abaixo segue todas as informações sobre a implementação do Scrum e um d
 
 **Etapa 01**
 
-**Introdução**
+**A) Introdução**
 
 -	**Planejamento**: Após um consenso do grupo em relação ao tema central do projeto, todos os membros da equipe realizaram uma pesquisa geral sobre os tópicos: evolução digital, serviços de streaming, artistas e meios/recursos tecnológicos.
 
@@ -52,7 +52,7 @@ Sites e Aplicativos:
 
 ![image](https://user-images.githubusercontent.com/126628545/232056374-931f3ae8-5aa5-4314-928f-fad764cd3912.png)
 
-**Problema**
+**B) Problema**
 
 -	**Planejamento**: Após a conclusão da parte de “Introdução” optamos em definir essa parte diretamente com o nosso orientador Marcos Andre.
 	
@@ -66,7 +66,7 @@ Atualização GitHub:
 
 ![image](https://user-images.githubusercontent.com/126628545/232066575-21e339c1-a687-4e64-8b3f-3776d8ca091e.png)
 
-**Objetivos**
+**C) Objetivos**
 
 -	**Planejamento**:
 
