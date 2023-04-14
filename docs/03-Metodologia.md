@@ -126,6 +126,30 @@ Logo abaixo segue todas as informações sobre a implementação do Scrum e um d
 
 ![image](https://user-images.githubusercontent.com/126628545/232127258-4af6e947-8299-4b13-880c-eb88dd4625c3.png)
 
+**F) Público-Alvo**:
+
+**Planejamento**: O Henrique realizou essa parte do trabalho.
+
+**Execução**: A realização dessa parte foi diretamente via GitHub após as orientações praticadas por nosso orientador via Microsoft Teams.
+
+**Foto do grupo da Turma 06 no Microsoft Teams:**
+
+![image](https://user-images.githubusercontent.com/126628545/232131500-d302455a-ea17-4801-8a79-3a0820fc23ba.png)
+
+**Evidência**: Atualização dessa parte diretamente no GitHub.
+
+**Atualização no GitHub:**
+
+![image](https://user-images.githubusercontent.com/126628545/232131781-3d6dd6c5-a21d-4a73-959a-63931c2381fd.png)
+
+**G) Especificações do Projeto
+
+**Planejamento**:
+
+**Execução**:
+
+**Evidência**
+
 
 **Etapa 02**
 
