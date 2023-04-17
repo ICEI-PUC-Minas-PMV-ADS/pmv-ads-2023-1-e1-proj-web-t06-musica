@@ -11,7 +11,8 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
  A imagem a seguir, representa as possiveis interações do usuario no sistema, no qual esta detalhado mais abaixo na seção wireframes.
 
-[image](https://user-images.githubusercontent.com/126628795/232624688-287daf63-6bf4-4560-8353-52dabc22d177.png)
+![image](https://user-images.githubusercontent.com/126628795/232628771-8b69d6a1-bd5d-445a-bbbd-8d1a5f4593c6.png)
+
 
 
 
