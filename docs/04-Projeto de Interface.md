@@ -9,7 +9,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## User Flow
 
- A imagem a seguir, representa as possiveis interações do usuario no sistema, no qual esta detalhado mais abaixo na seção wireframes.
+ A imagem a seguir, representa as possíveis interações do usuário no sistema, no qual esta detalhada mais abaixo na seção wireframes.
 
 ![image](https://user-images.githubusercontent.com/126628795/232628771-8b69d6a1-bd5d-445a-bbbd-8d1a5f4593c6.png)
 
