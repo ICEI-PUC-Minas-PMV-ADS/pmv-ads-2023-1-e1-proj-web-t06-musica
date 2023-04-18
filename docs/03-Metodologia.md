@@ -164,7 +164,7 @@ Logo abaixo segue todas as informações sobre a implementação do Scrum e um d
 
 **Execução**: Foi realizada a montagem do nosso arquétipo com base nas diretrizes do nosso orientador. As personas foram mapeadas atráves de arquivos em PDF.
 
-**Arquétipo iniciais das personas:**
+**Arquétipo iniciais das personas**
 
 **Músico**:
 
@@ -186,8 +186,7 @@ Disponibilizamos as gravações das entrevistas na plataforma SoundClound.
 
 ![image](https://user-images.githubusercontent.com/126628545/232777291-4b173104-51de-4a27-83a6-27a1d1ee9f5f.png)
 
-
-**I) Histórias de Usuários** (CORRIGINDO..)
+**I) Histórias de Usuários** 
 
 **Planejamento**: A história de usuários foi montada pelo Luiz Felipe e alterada por Diogo Amâncio e Gabriel
 
