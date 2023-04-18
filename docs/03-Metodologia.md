@@ -188,16 +188,19 @@ Disponibilizamos as gravações das entrevistas na plataforma SoundClound.
 
 **I) Histórias de Usuários** 
 
-**Planejamento**: A história de usuários foi montada pelo Luiz Felipe e alterada por Diogo Amâncio e Gabriel
+**Planejamento**: Com base no material realizado da etapa das "Personas" o planejamento dessa parte foi montada pelo Luiz Felipe e alterada por Diogo e Gabriel.
 
-**Execução**: A execução da Histórias de Usuários foi realizada a partir das orientações do professor relacionadas ao formato da tabela para organização dessas histórias.
+**Execução**: A execução da "Histórias de Usuários" foi realizada a partir das orientações do professor relacionadas ao formato da tabela para organização dessas histórias. Por se tratar de uma parte com requisitos e mecanismos mais técnicos, realizamos uma pesquisa e adicionamos nessa parte os principais navegadores de Internet utilizados atualmente pelas pessoas.
 
-**Evidência**
-![image](https://user-images.githubusercontent.com/127213695/232156312-10c5983e-fc56-48f1-adb5-d39a995324b2.png)
+**Principais Navegadores de Internet:**
 
+![image](https://user-images.githubusercontent.com/126628545/232784803-29bb681c-0e52-4c4e-98d0-4155523406e3.png)
 
+**Evidência** Construímos as seguintes tabelas após as pesquisas dos principais navegadores e as informações tecnicas do nosso orientador.
 
+**Tabela Requisitos não funcionais**:
 
+![image](https://user-images.githubusercontent.com/126628545/232785461-89b1e5c2-9ab0-47b5-917d-55aee09a4d10.png)
 
 **Etapa 02**
 
