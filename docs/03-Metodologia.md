@@ -225,7 +225,7 @@ Atualização do Board do GitHub (Kanban) com as funções para cada membro do g
 
 -	**Evidências**:
 
-**B) Equipes de Trabalho**
+**B) Equipes de Trabalho**:
 
 -	**Planejamento**:
 
