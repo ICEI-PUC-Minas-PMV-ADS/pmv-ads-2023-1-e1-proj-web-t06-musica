@@ -184,7 +184,8 @@ Disponibilizamos as gravações das entrevistas na plataforma SoundClound.
 
 **Entrevista Empresário**:
 
-![image](https://user-images.githubusercontent.com/127213695/232157437-5d252546-0288-4658-80c9-c8bf3e0c0b40.png)
+![image](https://user-images.githubusercontent.com/126628545/232777291-4b173104-51de-4a27-83a6-27a1d1ee9f5f.png)
+
 
 **I) Histórias de Usuários** (CORRIGINDO..)
 
