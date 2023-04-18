@@ -1,4 +1,4 @@
-# Arquitetura da Solução
+# **Arquitetura da Solução (Em construção)**
 
 <span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
 
