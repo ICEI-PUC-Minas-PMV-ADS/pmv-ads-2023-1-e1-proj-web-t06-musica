@@ -1,10 +1,10 @@
-# **Arquitetura da Solução (Em construção)
+# Arquitetura da Solução (Em construção)
 
 <span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
 
 Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
 
-## ** Diagrama de componentes (Em construção)
+## Diagrama de componentes (Em construção)
 
 Diagrama que permite a modelagem física de um sistema, através da visão dos seus componentes e relacionamentos entre os mesmos.
 
