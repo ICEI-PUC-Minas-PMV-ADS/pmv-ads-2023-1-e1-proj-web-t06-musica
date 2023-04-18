@@ -204,9 +204,18 @@ Disponibilizamos as gravações das entrevistas na plataforma SoundClound.
 
 **Etapa 02**
 
-Atualização dia 12/04 após as orientações do professor.
+Elaboração do Board do GitHub (Kanban) após as orientações do professor no dia 12/04.
+
+**Board Criado**:
 
 ![image](https://user-images.githubusercontent.com/126628545/231555578-119251e0-a2c7-481c-9a00-664ca0687426.png)
+
+Atualização do Board do GitHub (Kanban) com as funções para cada membro do grupo.
+
+**Board Atualizado:**
+
+![image](https://user-images.githubusercontent.com/126628545/232868143-35d0c78e-f58b-413f-865b-06c639f45d8e.png)
+
 
 **A) Metodologia**
 
