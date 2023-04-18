@@ -56,7 +56,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 
 
-#Tela - Home Page
+**Tela - Home Page**:
 
 ![image](https://user-images.githubusercontent.com/126628795/232626326-0966392d-0a32-4268-b755-b592b8ff1bde.png)
 
@@ -70,7 +70,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 
 
-Tela - Barra de Pesquisa
+**Tela - Barra de Pesquisa**:
 
 O buscador mostrado a seguir permite encontrar o artista pelo nome, que ao selecionar, encaminhará direto para o perfil do artista.
 
@@ -82,7 +82,7 @@ O buscador mostrado a seguir permite encontrar o artista pelo nome, que ao selec
 
 
 
-Tela - Filtragem
+**Tela - Filtragem**:
 
 Clicando em Filter, apresentará seleções especificas de acordo com as preferências do usuário permitindo a eficiência na hora de encontrar o artista ideal, selecionando o estilo musical, o tipo de carreira e avaliação.
 
@@ -94,7 +94,7 @@ Clicando em Filter, apresentará seleções especificas de acordo com as prefer�
 
 
 
-Tela - Resultado da filtragem
+**Tela - Resultado da Filtragem**:
 
 Em seguida, o usuário encontrará o resultado da busca pela filtragem e poderá escolher o que mais lhe agrada clicando na imagem do artista.
 
@@ -105,7 +105,7 @@ Em seguida, o usuário encontrará o resultado da busca pela filtragem e poderá
 
 
 
-Tela - Perfil do artista
+**Tela - Perfil do Artista**:
 
 A tela Perfil do artista, mostra onde ficará todas as informações necessárias para a contração do musico, aqui estão disponíveis o telefone para contato, instagram do artista, barra de comentários e avaliação geral representada por estrelas.
 
@@ -117,7 +117,7 @@ A tela Perfil do artista, mostra onde ficará todas as informações necessária
 
 
 
-Tela - Acesso a pagina de Contato , Autobiografia e politicas de privacidade.
+**Tela - Acesso a pagina de Contato , Autobiografia e politicas de Privacidade.**:
 
 Nesta tela fica disponível o acesso às paginas de contato, autobiografia e políticas de privacidade.
 
@@ -129,7 +129,7 @@ Nesta tela fica disponível o acesso às paginas de contato, autobiografia e pol
 
 
 
-Tela - Contato
+**Tela - Contato**:
 
 Em contato, será possível entrar em Comunicação com os administradores da pagina, Informando seu nome, Telefone, email e a mensagem que deseja encaminhar.
 
@@ -141,7 +141,7 @@ Em contato, será possível entrar em Comunicação com os administradores da pa
 
 
 
-Tela - autoBiografia 
+**Tela - Autobiografia**: 
 
 Espaço reservado para conhecimento da origem e proposito da aplicação.
 
@@ -154,7 +154,7 @@ Espaço reservado para conhecimento da origem e proposito da aplicação.
 
 
 
-Tela - Login
+**Tela - Login**:
 
 Porta de entrada ao perfil do artista. 
 As informações necessárias para o acesso, apenas login e senha cadastrados pelo musico.
@@ -167,7 +167,7 @@ As informações necessárias para o acesso, apenas login e senha cadastrados pe
 
 
 
-Tela - Pagina de edição do perfil 
+**Tela - Pagina de Edição do Perfil**: 
 
 Área de acesso apenas do artista, para que o mesmo possa editar foto de perfil, apresentação do seu trabalho, poderá ver avaliações e responder comentários, e também excluir o perfil.
 
