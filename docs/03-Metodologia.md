@@ -144,26 +144,49 @@ Logo abaixo segue todas as informações sobre a implementação do Scrum e um d
 
 **G) Especificações do Projeto**
 
-**Planejamento**: As especificações do projeto foram montadas por Daniel Dutra e assistida por Luiz Felipe
+**Planejamento**: As especificações do projeto foram exercidas por Daniel Dutra e Luiz Felipe.
 
-**Execução**: Essa parte foi realizada através de orientações do orientador durante a aula e consulta à documentos antigos sobre este tópico
+**Execução**: Essa parte foi realizada através das diretrizes do nosso orientador durante o encontro semanal e a consulta à documentos relacionados sobre este tópico, utilizamos da ferramenta "Mapa de Empatia" para entendermos o contexto geral sobre as nossas especificações.
 
-**Evidência**
-![image](https://user-images.githubusercontent.com/127213695/232157199-158c5e3e-8a9b-4310-82b1-7f87763aab53.png)
+**Mapa de Empatia:**
 
+![image](https://user-images.githubusercontent.com/126628545/232770416-ddf39a2d-65fb-41cb-a0ee-0ad1797990da.png)
+
+**Evidência** - Atualização via Github.
+
+**Consulta no site da Rock Content:**
+
+![image](https://user-images.githubusercontent.com/126628545/232769274-f1596600-dac7-42ac-96f7-61a9db61ad11.png)
 
 **H) Personas**
 
-**Planejamento**: O João Leonardo realizou esta parte do projeto.
+**Planejamento**: O João Leonardo e o Henrique Gabriel realizaram essa etapa.
 
-**Execução**: A execução se deu com base nas orientações do professor e para facilitar decidimos enteder melhor cada persona a partir de entrevistas reais com um músico e um empresário.
+**Execução**: Foi realizada a montagem do nosso arquétipo com base nas diretrizes do nosso orientador. As personas foram mapeadas atráves de arquivos em PDF.
 
-**Evidência**
+**Arquétipo iniciais das personas:**
+
+**Músico**:
+
+![image](https://user-images.githubusercontent.com/126628545/232775755-d5655af0-0c8b-4d46-8cbf-f1408bc09cef.png)
+
+**Empresário**:
+
+![image](https://user-images.githubusercontent.com/126628545/232776028-c0627d61-fe73-4fdb-9b10-0d98fd22bb21.png)
+
+**Evidência**: Para ilustrar de uma maneira concreta as necessidades das nossas personas, decidimos entender melhor cada persona a partir de entrevistas reais com um músico e um empresário. O Henrique Gabriel entrevistou um músico e também um empresário na cidade de Uberlândia-MG.
+
+Disponibilizamos as gravações das entrevistas na plataforma SoundClound.
+
+**Entrevista Músico**:
+
+![image](https://user-images.githubusercontent.com/126628545/232776573-613f4397-053e-417c-ade9-060d00cd05f9.png)
+
+**Entrevista Empresário**:
+
 ![image](https://user-images.githubusercontent.com/127213695/232157437-5d252546-0288-4658-80c9-c8bf3e0c0b40.png)
 
-
-
-**I) Histórias de Usuários**
+**I) Histórias de Usuários** (CORRIGINDO..)
 
 **Planejamento**: A história de usuários foi montada pelo Luiz Felipe e alterada por Diogo Amâncio e Gabriel
 
