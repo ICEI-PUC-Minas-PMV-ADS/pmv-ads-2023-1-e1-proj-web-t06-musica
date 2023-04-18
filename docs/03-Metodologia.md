@@ -208,11 +208,86 @@ Atualização dia 12/04 após as orientações do professor.
 
 ![image](https://user-images.githubusercontent.com/126628545/231555578-119251e0-a2c7-481c-9a00-664ca0687426.png)
 
+**A) Metodologia 
+
+-	**Planejamento**: Na parte de Metodologia o responsável pela atualização vai ser o Diogo em conjunto com o Luiz.
+
+-	**Execução**:
+
+-	**Evidências**:
+
+**B) Equipes de Trabalho
+
 -	**Planejamento**:
 
 -	**Execução**:
 
 -	**Evidências**:
+
+**C) Ferramentas:**
+
+-	**Planejamento**:
+
+-	**Execução**:
+
+-	**Evidências**:
+
+**D) Projeto de Interface:**
+
+-	**Planejamento**:
+
+-	**Execução**:
+
+-	**Evidências**:
+
+**E) User Flow:**
+
+-	**Planejamento**:
+
+-	**Execução**:
+
+-	**Evidências**:
+
+**F) Wireflames:**
+
+-	**Planejamento**:
+
+-	**Execução**:
+
+-	**Evidências**:
+
+**G) Arquiteturas da Solução:**
+
+-	**Planejamento**:
+
+-	**Execução**:
+
+-	**Evidências**:
+
+**H) Diagrama de Componentes:**
+
+-	**Planejamento**:
+
+-	**Execução**:
+
+-	**Evidências**:
+
+**I) Tecnologias Utilizadas:**
+
+-	**Planejamento**:
+
+-	**Execução**:
+
+-	**Evidências**:
+
+**C) Hospedagem:**
+
+-	**Planejamento**:
+
+-	**Execução**:
+
+-	**Evidências**:
+
 
 **Etapa 03**
 
