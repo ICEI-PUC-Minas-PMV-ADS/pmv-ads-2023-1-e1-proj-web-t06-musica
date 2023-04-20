@@ -26,15 +26,15 @@ Logo abaixo segue todas as informações sobre a implementação do Scrum e um d
 
 **Etapa 01** (CORRIGINDO)
 
-**Planejamento**:
+-	**Planejamento**:
 
 Nesta etapa está planejada a construção da Documentação de Contexto, Especificação do Projeto e Apresentação do Projeto.
 
 Além disso, a elaboração dos respectivos itens: Introdução, Problema, Objetivos, Trabalhos relacionados, Justificativa, Público-Alvo, Especificações do Projeto, Personas, Histórias de Usuários, Requisitos, Requisitos Funcionais, Requisitos não Funcionais e Restrições.
 
-**Execução**:
+-	**Execução**:
 
-**Evidências**:
+-	**Evidências**:
 
 
 
@@ -218,15 +218,15 @@ Disponibilizamos as gravações das entrevistas na plataforma SoundClound.
 
 **Etapa 02**  (CORRIGINDO)
 
-**Planejamento**:
+-	**Planejamento**:
 
 Nesta etapa está planejada a construção da Metodologia, Projeto de Interface e Arquitetura da Solução.
 
 Seguindo também a composição dos referentes tópicos: Metodologia, Equipe de Trabalho, Processo, Ferramentas, Projeto de Interface, User Flow, Wireframes, Arquitetura da Solução, Diagrama de Componentes, Tecnologias Utilizadas e Hospedagem.
 
-**Execução**:
+-	**Execução**:
 
-**Evidências**:
+-	**Evidências**:
 
 
 
