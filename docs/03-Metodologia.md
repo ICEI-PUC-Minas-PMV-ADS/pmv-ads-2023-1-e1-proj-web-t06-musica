@@ -92,7 +92,7 @@ A execução da "Histórias de Usuários" foi realizada a partir das orientaçõ
 
 ![image](https://user-images.githubusercontent.com/126628545/232107934-56841c2e-35ab-4a80-b031-354c05d5cafc.png)
 
-**Quatro aplicações atuais como fonte de pesquisa e referência ao nosso Projeto.
+**Quatro aplicações atuais como fonte de pesquisa e referência ao nosso Projeto.**
 
 **App Tocaki:**
 
@@ -120,7 +120,7 @@ A execução da "Histórias de Usuários" foi realizada a partir das orientaçõ
 
 ![image](https://user-images.githubusercontent.com/126628545/232127258-4af6e947-8299-4b13-880c-eb88dd4625c3.png)
 
-**Mapa de Empatia:**
+**Utilização do Mapa de Empatia na etapa de Personas:**
 
 ![image](https://user-images.githubusercontent.com/126628545/232770416-ddf39a2d-65fb-41cb-a0ee-0ad1797990da.png)
 
@@ -128,7 +128,7 @@ A execução da "Histórias de Usuários" foi realizada a partir das orientaçõ
 
 ![image](https://user-images.githubusercontent.com/126628545/232769274-f1596600-dac7-42ac-96f7-61a9db61ad11.png)
 
-**Arquétipo iniciais das personas**
+**Elaboração dos primeiros Arquétipos utilizados na etapa de Personas**
 
 **Músico**:
 
