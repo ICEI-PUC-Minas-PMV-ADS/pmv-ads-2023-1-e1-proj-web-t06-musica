@@ -185,6 +185,22 @@ Seguindo também a composição dos referentes tópicos: Metodologia, Equipe de 
 
 ![image](https://user-images.githubusercontent.com/126628545/233454096-747ab6d7-1b7b-47c7-83b3-dfefba40cdd7.png)
 
+
+
+
+
+
+
+
+
+
+
+
+**Alteração do Diagrama de Componentes**:
+
+![image](https://user-images.githubusercontent.com/126628545/233454696-32641954-70c4-465f-bc1b-cb3a5b39aac4.png)
+
+
 **Etapa 03**
 
 -	**Planejamento**:
