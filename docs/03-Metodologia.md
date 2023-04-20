@@ -36,7 +36,7 @@ Após um consenso do grupo em relação ao tema central do projeto, todos os mem
 
 Com a definição da conclusão da parte de “Introdução” optamos em definir essa parte diretamente com o nosso orientador Marcos Andre.
 
-Todos os membros do grupo realizaram pesquisas na web procurando sites e aplicativos que já realizam um trabalho de divulgação de bandas e artistas.
+Definimos realizar uma pesquisa na web procurando sites e aplicativos que já realizam um trabalho de divulgação de bandas e artistas.
 
 Com base no material realizado da etapa das "Personas" o planejamento dessa parte foi montada pelo Luiz Felipe e alterada por Diogo e Gabriel.
 
