@@ -174,7 +174,7 @@ Seguindo também a composição dos referentes tópicos: Metodologia, Equipe de 
 
 -	**Evidências**:
 
-**Criaçãodo Board do GitHub (Kanban) após as orientações do professor no dia 12/04**:
+**Criação do Board do GitHub (Kanban) após as orientações do professor no dia 12/04**:
 
 **Board Criado**:
 
