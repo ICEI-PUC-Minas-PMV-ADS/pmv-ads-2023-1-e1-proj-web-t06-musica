@@ -181,7 +181,7 @@ Seguindo também a composição dos referentes tópicos: Metodologia, Equipe de 
 
 ![image](https://user-images.githubusercontent.com/126628545/232868143-35d0c78e-f58b-413f-865b-06c639f45d8e.png)
 
-**Board Atualizado com os Issues e Milestones no dia 18/04:
+**Board Atualizado com os Issues e Milestones no dia 18/04:**
 
 ![image](https://user-images.githubusercontent.com/126628545/233451047-90e48e86-1a5a-46b7-b6de-87aa8a5c3ad5.png)
 
