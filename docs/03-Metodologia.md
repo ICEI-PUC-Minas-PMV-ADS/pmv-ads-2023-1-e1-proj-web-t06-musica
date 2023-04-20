@@ -24,7 +24,15 @@ A organização da equipe está dessa forma:
 
 Logo abaixo segue todas as informações sobre a implementação do Scrum e um detalhamento completo relacionado a cada sprint: o andamento do projeto, a execução de tarefas e o status de desenvolvimentro da solução.
 
-**Etapa 01**
+**Etapa 01** (CORRIGINDO)
+
+**Planejamento**:
+
+Nesta etapa está planejada a construção da Documentação de Contexto, Especificação do Projeto e Apresentação do Projeto.
+
+Além disso, a elaboração dos respectivos itens: Introdução, Problema, Objetivos, Trabalhos relacionados, Justificativa, Público-Alvo, Especificações do Projeto, Personas, Histórias de Usuários, Requisitos, Requisitos Funcionais, Requisitos não Funcionais e Restrições.
+
+
 
 **A) Introdução**
 
@@ -202,7 +210,14 @@ Disponibilizamos as gravações das entrevistas na plataforma SoundClound.
 
 ![image](https://user-images.githubusercontent.com/126628545/232785461-89b1e5c2-9ab0-47b5-917d-55aee09a4d10.png)
 
-**Etapa 02**
+**Etapa 02**  (CORRIGINDO)
+
+**Planejamento**:
+
+Nesta etapa está planejada a construção da Metodologia, Projeto de Interface e Arquitetura da Solução.
+
+Seguindo também a composição dos referentes tópicos: Metodologia, Equipe de Trabalho, Processo, Ferramentas, Projeto de Interface, User Flow, Wireframes, Arquitetura da Solução, Diagrama de Componentes, Tecnologias Utilizadas e Hospedagem.
+
 
 Elaboração do Board do GitHub (Kanban) após as orientações do professor no dia 12/04.
 
