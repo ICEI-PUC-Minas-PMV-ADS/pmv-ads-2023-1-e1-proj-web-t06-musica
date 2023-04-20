@@ -94,19 +94,19 @@ A execução da "Histórias de Usuários" foi realizada a partir das orientaçõ
 
 **Quatro aplicações atuais como fonte de pesquisa e referência ao nosso Projeto:**
 
-**App Tocaki:**
+**1) App Tocaki:**
 
 ![image](https://user-images.githubusercontent.com/126628545/232110089-68666a70-5c3a-4bf2-83a4-cb8af3585695.png)
 
-**Site Contratashow:**
+**2) Site Contratashow:**
 
 ![image](https://user-images.githubusercontent.com/126628545/232110195-fd6dbdd4-1f16-489e-a8c1-c58660c1181d.png)
 
-**Site Contratabanda:**
+**3) Site Contratabanda:**
 
 ![image](https://user-images.githubusercontent.com/126628545/232110291-01894378-aca9-43a4-873d-cd7dde4ebd3f.png)
 
-**App e Site Eshows:**
+**4) App e Site Eshows:**
 
 ![image](https://user-images.githubusercontent.com/126628545/232110530-f37ea045-3db6-4564-bad9-ab8c950478cb.png)
 
