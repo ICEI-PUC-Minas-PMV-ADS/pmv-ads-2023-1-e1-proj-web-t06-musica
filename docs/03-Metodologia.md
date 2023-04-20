@@ -160,16 +160,15 @@ Seguindo também a composição dos referentes tópicos: Metodologia, Equipe de 
 
 -	**Execução**:
 
+O Board do Projeto está sendo atualizado pelo Diogo.
 
+A etapa de Metodologia está sendo atualizada pelo Diogo e o Luiz. 
 
+O Gabriel criou um diagrama referente ao Fuxo de Interação para ser usado como base para a realização do Fluxo de Usuário e Wireframes do Projeto.
 
+Após a aprovação do grupo, o Henrique criou uma interface conforme o diagrama realizado pelo Gabriel via Paint. O Diagrama foi aprovado por todos, logo em seguida foi incorporado para o Figma.
 
-
-
-
-
-
-
+O Luiz implementou a interface do projeto utilizando HTML e CSS.
 
 -	**Evidências**:
 
@@ -184,17 +183,6 @@ Seguindo também a composição dos referentes tópicos: Metodologia, Equipe de 
 **Board Atualizado com os Issues e Milestones no dia 18/04:**
 
 ![image](https://user-images.githubusercontent.com/126628545/233454096-747ab6d7-1b7b-47c7-83b3-dfefba40cdd7.png)
-
-
-
-
-
-
-
-
-
-
-
 
 **Alteração do Diagrama de Componentes no dia 20/04**:
 
