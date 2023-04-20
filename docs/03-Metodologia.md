@@ -12,13 +12,13 @@ O Scrum é a metodologia ágil escolhida pela equipe, ela é a base fundamental 
 
 A organização da equipe está dessa forma:
 
-**Scrum Master:** Diogo Amancio.
+-	**Scrum Master:** Diogo Amancio.
 
-**Product Owner:** Luiz Felipe e Gabriel Souza.
+-	**Product Owner:** Luiz Felipe e Gabriel Souza.
 
-**Equipe de Desenvolvimento:** Henrique Gabriel, João Leonardo, Luiz Felipe e Daniel Dutra.
+-	**Equipe de Desenvolvimento:** Henrique Gabriel, João Leonardo, Luiz Felipe e Daniel Dutra.
 
-**Equipe de Design:** Gabriel Souza, Henrique Gabriel, Isaac Heder e Daniel Dutra.
+-	**Equipe de Design:** Gabriel Souza, Henrique Gabriel, Isaac Heder e Daniel Dutra.
 
 ### Processo
 
