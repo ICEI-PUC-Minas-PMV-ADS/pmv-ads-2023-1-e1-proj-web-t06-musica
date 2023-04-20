@@ -128,7 +128,7 @@ A execução da "Histórias de Usuários" foi realizada a partir das orientaçõ
 
 ![image](https://user-images.githubusercontent.com/126628545/232769274-f1596600-dac7-42ac-96f7-61a9db61ad11.png)
 
-**Elaboração dos primeiros Arquétipos utilizados na etapa de Personas**
+**Elaboração dos primeiros Arquétipos utilizados na Etapa de Personas:**
 
 **Músico**:
 
