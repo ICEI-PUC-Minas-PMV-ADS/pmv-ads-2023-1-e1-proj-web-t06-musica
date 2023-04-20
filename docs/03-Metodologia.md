@@ -150,7 +150,6 @@ A execução da "Histórias de Usuários" foi realizada a partir das orientaçõ
 
 ![image](https://user-images.githubusercontent.com/126628545/233397639-aec42bf2-dea8-4ed1-ada9-a2c00dd65ea6.png)
 
-
 **Etapa 02**  
 
 -	**Planejamento**:
@@ -180,7 +179,7 @@ Seguindo também a composição dos referentes tópicos: Metodologia, Equipe de 
 
 Atualização do Board do GitHub (Kanban) com as funções para cada membro do grupo.
 
-**Board Atualizado com os Issues e Milestones:**
+**Board Atualizado com os Issues e Milestones no dia 18/04:
 
 ![image](https://user-images.githubusercontent.com/126628545/232868143-35d0c78e-f58b-413f-865b-06c639f45d8e.png)
 
