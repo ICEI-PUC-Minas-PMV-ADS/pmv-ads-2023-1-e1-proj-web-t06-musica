@@ -19,7 +19,6 @@ A organização da equipe está dessa forma:
 -	**Equipe de Desenvolvimento:** Henrique Gabriel, João Leonardo, Luiz Felipe e Daniel Dutra.
 
 -	**Equipe de Design:** Gabriel Souza, Henrique Gabriel, Isaac Heder e Daniel Dutra.
--	
 
 ### Processo
 
