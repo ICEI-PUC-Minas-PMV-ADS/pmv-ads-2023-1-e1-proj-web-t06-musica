@@ -39,6 +39,8 @@ Além disso, a elaboração dos respectivos itens: Introdução, Problema, Objet
 
 
 
+______________________________________________________________________________________________________________________________________________
+
 
 **A) Introdução**
 
@@ -216,6 +218,8 @@ Disponibilizamos as gravações das entrevistas na plataforma SoundClound.
 
 ![image](https://user-images.githubusercontent.com/126628545/232785461-89b1e5c2-9ab0-47b5-917d-55aee09a4d10.png)
 
+_______________________________________________________________________________________________________________________
+
 **Etapa 02**  (CORRIGINDO)
 
 -	**Planejamento**:
@@ -228,6 +232,8 @@ Seguindo também a composição dos referentes tópicos: Metodologia, Equipe de 
 
 -	**Evidências**:
 
+
+_________________________________________________________________________________________________________
 
 
 
