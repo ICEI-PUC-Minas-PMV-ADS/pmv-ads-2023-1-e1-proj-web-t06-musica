@@ -196,7 +196,7 @@ Seguindo também a composição dos referentes tópicos: Metodologia, Equipe de 
 
 
 
-**Alteração do Diagrama de Componentes**:
+**Alteração do Diagrama de Componentes no dia 20/04**:
 
 ![image](https://user-images.githubusercontent.com/126628545/233454696-32641954-70c4-465f-bc1b-cb3a5b39aac4.png)
 
