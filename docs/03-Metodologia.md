@@ -92,7 +92,7 @@ A execução da "Histórias de Usuários" foi realizada a partir das orientaçõ
 
 ![image](https://user-images.githubusercontent.com/126628545/232107934-56841c2e-35ab-4a80-b031-354c05d5cafc.png)
 
-**Quatro aplicações atuais como fonte de pesquisa e referência ao nosso Projeto.**
+**Quatro aplicações atuais como fonte de pesquisa e referência ao nosso Projeto:**
 
 **App Tocaki:**
 
@@ -110,7 +110,7 @@ A execução da "Histórias de Usuários" foi realizada a partir das orientaçõ
 
 ![image](https://user-images.githubusercontent.com/126628545/232110530-f37ea045-3db6-4564-bad9-ab8c950478cb.png)
 
-**Pesquisa em Sites Especializados sobre o Tema Central do Projeto:
+**Pesquisa em Sites Especializados sobre o Tema Central do Projeto:**
 
 **Site da Rádio Rock 89:**
 
