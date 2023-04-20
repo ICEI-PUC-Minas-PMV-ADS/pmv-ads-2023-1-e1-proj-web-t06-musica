@@ -64,7 +64,91 @@ A execução da "Histórias de Usuários" foi realizada a partir das orientaçõ
 
 -	**Evidências**:
 
+**Grupo do Trabalho no WhatsApp:**
 
+![image](https://user-images.githubusercontent.com/126628545/232055458-e125368a-6e72-4a32-9709-5baf84631251.png)
+
+**Foto do Grupo da Turma 06 no Microsoft Teams:**
+
+![image](https://user-images.githubusercontent.com/126628545/232131500-d302455a-ea17-4801-8a79-3a0820fc23ba.png)
+
+**Pesquisas sobre os Sites e Aplicativos relacionados ao tema do Projeto:**
+
+![image](https://user-images.githubusercontent.com/126628545/232055739-fdbdfa99-b973-4a85-9ac9-27a46eaba619.png)
+
+![image](https://user-images.githubusercontent.com/126628545/232055843-927a932a-9b50-41aa-bdb2-26fb188cba21.png)
+
+![image](https://user-images.githubusercontent.com/126628545/232055887-0d105deb-3261-40ba-aee9-20f8b4c9cc87.png)
+
+![image](https://user-images.githubusercontent.com/126628545/232055927-32f19b76-0f08-47a8-8d06-303d2ad788f7.png)
+
+![image](https://user-images.githubusercontent.com/126628545/232056007-3661c1cf-22ee-4e21-bf9a-12655cf7a81a.png)
+
+**Foto do Link da Reunião via Microsoft Teams:**
+
+![image](https://user-images.githubusercontent.com/126628545/232062409-f7b733fa-a62b-44fb-8f3b-3341465df6a8.png)
+
+**Atualizações no Grupo do Trabalho via WhatsApp:**
+
+![image](https://user-images.githubusercontent.com/126628545/232107934-56841c2e-35ab-4a80-b031-354c05d5cafc.png)
+
+**Quatro aplicações atuais como fonte de pesquisa e referência ao nosso Projeto.
+
+**App Tocaki:**
+
+![image](https://user-images.githubusercontent.com/126628545/232110089-68666a70-5c3a-4bf2-83a4-cb8af3585695.png)
+
+**Site Contratashow:**
+
+![image](https://user-images.githubusercontent.com/126628545/232110195-fd6dbdd4-1f16-489e-a8c1-c58660c1181d.png)
+
+**Site Contratabanda:**
+
+![image](https://user-images.githubusercontent.com/126628545/232110291-01894378-aca9-43a4-873d-cd7dde4ebd3f.png)
+
+**App e Site Eshows:**
+
+![image](https://user-images.githubusercontent.com/126628545/232110530-f37ea045-3db6-4564-bad9-ab8c950478cb.png)
+
+**Pesquisa em Sites Especializados sobre o Tema Central do Projeto:
+
+**Site da Rádio Rock 89:**
+
+![image](https://user-images.githubusercontent.com/126628545/232127192-c5631d07-2594-4182-ba44-a978c8e59c48.png)
+
+**Site da consultoria Sonar Cultural:**
+
+![image](https://user-images.githubusercontent.com/126628545/232127258-4af6e947-8299-4b13-880c-eb88dd4625c3.png)
+
+**Mapa de Empatia:**
+
+![image](https://user-images.githubusercontent.com/126628545/232770416-ddf39a2d-65fb-41cb-a0ee-0ad1797990da.png)
+
+**Consulta no site da Rock Content:**
+
+![image](https://user-images.githubusercontent.com/126628545/232769274-f1596600-dac7-42ac-96f7-61a9db61ad11.png)
+
+**Arquétipo iniciais das personas**
+
+**Músico**:
+
+![image](https://user-images.githubusercontent.com/126628545/232775755-d5655af0-0c8b-4d46-8cbf-f1408bc09cef.png)
+
+**Empresário**:
+
+![image](https://user-images.githubusercontent.com/126628545/232776028-c0627d61-fe73-4fdb-9b10-0d98fd22bb21.png)
+
+**Gravação da Entrevista com o Músico na etapa de Personas disponibilizada no SoundClound**:
+
+![image](https://user-images.githubusercontent.com/126628545/232776573-613f4397-053e-417c-ade9-060d00cd05f9.png)
+
+**Gravação da Entrevista com o Empresário na etapa de Personas disponibilizada no SoundClound**:
+
+![image](https://user-images.githubusercontent.com/126628545/232777291-4b173104-51de-4a27-83a6-27a1d1ee9f5f.png)
+
+**Pesquisa Principais Navegadores de Internet:**
+
+![image](https://user-images.githubusercontent.com/126628545/233397639-aec42bf2-dea8-4ed1-ada9-a2c00dd65ea6.png)
 
 
 ______________________________________________________________________________________________________________________________________________
@@ -222,11 +306,11 @@ ________________________________________________________________________________
 
 Disponibilizamos as gravações das entrevistas na plataforma SoundClound.
 
-**Entrevista Músico**:
+**Gravação da Entrevista com o Músico na etapa de Personas disponibilizada no SoundClound**:
 
 ![image](https://user-images.githubusercontent.com/126628545/232776573-613f4397-053e-417c-ade9-060d00cd05f9.png)
 
-**Entrevista Empresário**:
+**Gravação da Entrevista com o Empresário na etapa de Personas disponibilizada no SoundClound**:
 
 ![image](https://user-images.githubusercontent.com/126628545/232777291-4b173104-51de-4a27-83a6-27a1d1ee9f5f.png)
 
