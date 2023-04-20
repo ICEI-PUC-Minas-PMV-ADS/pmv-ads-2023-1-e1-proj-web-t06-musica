@@ -32,6 +32,12 @@ Nesta etapa está planejada a construção da Documentação de Contexto, Espe
 
 Além disso, a elaboração dos respectivos itens: Introdução, Problema, Objetivos, Trabalhos relacionados, Justificativa, Público-Alvo, Especificações do Projeto, Personas, Histórias de Usuários, Requisitos, Requisitos Funcionais, Requisitos não Funcionais e Restrições.
 
+**Execução**:
+
+**Evidências**:
+
+
+
 
 
 **A) Introdução**
@@ -217,6 +223,12 @@ Disponibilizamos as gravações das entrevistas na plataforma SoundClound.
 Nesta etapa está planejada a construção da Metodologia, Projeto de Interface e Arquitetura da Solução.
 
 Seguindo também a composição dos referentes tópicos: Metodologia, Equipe de Trabalho, Processo, Ferramentas, Projeto de Interface, User Flow, Wireframes, Arquitetura da Solução, Diagrama de Componentes, Tecnologias Utilizadas e Hospedagem.
+
+**Execução**:
+
+**Evidências**:
+
+
 
 
 Elaboração do Board do GitHub (Kanban) após as orientações do professor no dia 12/04.
