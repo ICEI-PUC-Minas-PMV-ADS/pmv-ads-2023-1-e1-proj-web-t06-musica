@@ -42,6 +42,26 @@ Com base no material realizado da etapa das "Personas" o planejamento dessa part
 
 -	**Execução**:
 
+Após um consenso do grupo em relação ao tema central do projeto, todos os membros da equipe realizaram uma pesquisa geral sobre os tópicos: evolução digital, serviços de streaming, artistas e meios/recursos tecnológicos.
+
+Com as pesquisas realizadas pela equipe, o Diogo coletou todas as informações do grupo via WhatsApp e selecionou os principais sites e aplicativos associados sobre o trabalho como fonte de pesquisa.
+
+ Após as orientações do nosso orientador Marcos André, foi realizado uma pesquisa objetiva sobre as necessidades das bandas autorais e as aplicações já existentes no mercado via Internet.
+
+Utilizamos do nosso grupo de WhatsApp para selecionar os sites e aplicativos que mais faziam sentido em comparação com o tema central do trabalho. Após essa seleção, decidimos confirmar as melhores soluções que já existem com o nosso orientador via Microsoft Teams.
+
+A parte do “Objetivos” foi feita pelo Luiz Felipe.
+
+Conforme as pesquisas anteriores realizadas pelo grupo via WhatsApp, a construção argumentativa da “Justificativa” foi desenvolvida por base de uma pesquisa mais pontual em fontes especializadas sobre o nicho mercadológico do mundo da música. O Gabriel foi o responsável pela elaboração da parte de “Justificativa.”
+
+O Henrique realizou a parte de Público-Alvo.
+
+A etapa de "Especificações do Projeto" foram exercidas por Daniel Dutra e Luiz Felipe.
+
+Para ilustrar de uma maneira concreta as necessidades das nossas personas, decidimos entender melhor cada persona a partir de entrevistas reais com um músico e um empresário. O Henrique Gabriel entrevistou um músico e também um empresário na cidade de Uberlândia-MG. O João Leonardo auxiliou na elaboração dos arquétipos das personas.
+
+A execução da "Histórias de Usuários" foi realizada a partir das orientações do professor relacionadas ao formato da tabela para organização dessas histórias. Por se tratar de uma parte com requisitos e mecanismos mais técnicos, realizamos uma pesquisa e adicionamos nessa parte os principais navegadores de Internet utilizados atualmente pelas pessoas.
+
 -	**Evidências**:
 
 
