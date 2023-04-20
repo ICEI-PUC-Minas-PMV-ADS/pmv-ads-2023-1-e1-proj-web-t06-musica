@@ -161,14 +161,20 @@ Seguindo também a composição dos referentes tópicos: Metodologia, Equipe de 
 
 -	**Execução**:
 
+
+
+
+
+
+
+
+
+
+
+
 -	**Evidências**:
 
-
-_________________________________________________________________________________________________________
-
-
-
-Elaboração do Board do GitHub (Kanban) após as orientações do professor no dia 12/04.
+**Criaçãodo Board do GitHub (Kanban) após as orientações do professor no dia 12/04**:
 
 **Board Criado**:
 
@@ -176,7 +182,7 @@ Elaboração do Board do GitHub (Kanban) após as orientações do professor no 
 
 Atualização do Board do GitHub (Kanban) com as funções para cada membro do grupo.
 
-**Board Atualizado:**
+**Board Atualizado com os Issues e Milestones:**
 
 ![image](https://user-images.githubusercontent.com/126628545/232868143-35d0c78e-f58b-413f-865b-06c639f45d8e.png)
 
