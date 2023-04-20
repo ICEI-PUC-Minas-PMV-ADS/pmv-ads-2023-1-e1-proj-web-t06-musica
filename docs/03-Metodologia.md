@@ -24,7 +24,7 @@ A organização da equipe está dessa forma:
 
 Logo abaixo segue todas as informações sobre a implementação do Scrum e um detalhamento completo relacionado a cada sprint: o andamento do projeto, a execução de tarefas e o status de desenvolvimentro da solução.
 
-**Etapa 01** (CORRIGINDO)
+**Etapa 01**
 
 -	**Planejamento**:
 
@@ -220,7 +220,7 @@ Disponibilizamos as gravações das entrevistas na plataforma SoundClound.
 
 _______________________________________________________________________________________________________________________
 
-**Etapa 02**  (CORRIGINDO)
+**Etapa 02**  
 
 -	**Planejamento**:
 
