@@ -183,7 +183,7 @@ Seguindo também a composição dos referentes tópicos: Metodologia, Equipe de 
 
 **Board Atualizado com os Issues e Milestones no dia 18/04:**
 
-![image](https://user-images.githubusercontent.com/126628545/233451047-90e48e86-1a5a-46b7-b6de-87aa8a5c3ad5.png)
+![image](https://user-images.githubusercontent.com/126628545/233454096-747ab6d7-1b7b-47c7-83b3-dfefba40cdd7.png)
 
 **Etapa 03**
 
