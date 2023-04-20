@@ -176,8 +176,6 @@ Seguindo também a composição dos referentes tópicos: Metodologia, Equipe de 
 
 **Criação do Board do GitHub (Kanban) após as orientações do professor no dia 12/04**:
 
-**Board Criado**:
-
 ![image](https://user-images.githubusercontent.com/126628545/231555578-119251e0-a2c7-481c-9a00-664ca0687426.png)
 
 Atualização do Board do GitHub (Kanban) com as funções para cada membro do grupo.
