@@ -38,8 +38,6 @@ Com a definição da conclusão da parte de “Introdução” optamos em defini
 
 Definimos realizar uma pesquisa na web procurando sites e aplicativos que já realizam um trabalho de divulgação de bandas e artistas.
 
-Com base no material realizado da etapa das "Personas" o planejamento dessa parte foi montada pelo Luiz Felipe e alterada por Diogo e Gabriel.
-
 -	**Execução**:
 
 Após um consenso do grupo em relação ao tema central do projeto, todos os membros da equipe realizaram uma pesquisa geral sobre os tópicos: evolução digital, serviços de streaming, artistas e meios/recursos tecnológicos.
@@ -57,6 +55,8 @@ Conforme as pesquisas anteriores realizadas pelo grupo via WhatsApp, a construç
 O Henrique realizou a parte de Público-Alvo.
 
 A etapa de "Especificações do Projeto" foram exercidas por Daniel Dutra e Luiz Felipe.
+
+Com base no material realizado da etapa das "Personas" o planejamento dessa parte foi montada pelo Luiz Felipe e alterada por Diogo e Gabriel.
 
 Para ilustrar de uma maneira concreta as necessidades das nossas personas, decidimos entender melhor cada persona a partir de entrevistas reais com um músico e um empresário. O Henrique Gabriel entrevistou um músico e também um empresário na cidade de Uberlândia-MG. O João Leonardo auxiliou na elaboração dos arquétipos das personas.
 
@@ -166,9 +166,9 @@ A etapa de Metodologia está sendo atualizada pelo Diogo e o Luiz.
 
 O Gabriel criou um diagrama referente ao Fuxo de Interação para ser usado como base para a realização do Fluxo de Usuário e Wireframes do Projeto.
 
-Após a aprovação do grupo, o Henrique criou uma interface conforme o diagrama realizado pelo Gabriel via Paint. O Diagrama foi aprovado por todos, logo em seguida foi incorporado para o Figma.
+Após a aprovação do grupo, o Henrique criou uma interface conforme o diagrama realizado pelo Gabriel via Paint. O Diagrama foi aprovado por todos, logo em seguida foi incorporado para o Figma. O Luiz implementou a interface do projeto utilizando HTML e CSS.
 
-O Luiz implementou a interface do projeto utilizando HTML e CSS.
+A parte do Desenvolvimento, a elaboração da Arquitetura da Solução, o Diagrama de Componentes e a Hospedagem foram executados pelo Luiz.
 
 -	**Evidências**:
 
