@@ -65,13 +65,8 @@ Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, 
 Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
 
 
-## **Hospedagem 
+## Hospedagem 
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+Nosso grupo escolheu utilizar o Netlify para hospedar nosso projeto devido a sua facilidade de uso e configuração. Além disso, o Netlify oferece integração com o Github, o que torna o processo de deploy bastante simples. Outra vantagem é que o Netlify suporta diversas linguagens de programação, incluindo HTML, CSS e JS. Com isso, podemos hospedar facilmente nosso site e torná-lo acessível para todo o público. 
 
-> **Links Úteis**:
->
-> - [Website com GitHub Pages](https://pages.github.com/)
-> - [Programação colaborativa com Repl.it](https://repl.it/)
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Publicando Seu Site No Heroku](http://pythonclub.com.br/publicando-seu-hello-world-no-heroku.html)
+Para exemplificar, você pode conferir o nosso projeto atual hospedado no Netlify no endereço ads-musicmatch.netlify.app
