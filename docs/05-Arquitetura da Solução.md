@@ -12,7 +12,7 @@ O sistema é conectado à internet e utiliza diferentes serviços e plataformas 
 
 O diagrama de componentes é uma ferramenta útil para entender a arquitetura de sistemas complexos, mostrando de forma visual como os diferentes componentes se relacionam entre si. Com ele, é possível entender como cada componente funciona e como eles se conectam, facilitando a manutenção e o desenvolvimento do sistema.
 
-**Diagrama de Componentes:**
+**Diagrama de Componentes e Descrição:**
 
 ![WhatsApp Image 2023-04-23 at 11 27 59 (1)](https://user-images.githubusercontent.com/126628545/233850495-b35cdea6-af86-4a5e-afa7-0a4cc8426360.jpeg)
 
