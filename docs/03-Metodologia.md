@@ -188,6 +188,13 @@ A parte do Desenvolvimento, a elaboração da Arquitetura da Solução, o Diagra
 
 ![image](https://user-images.githubusercontent.com/126628545/233454696-32641954-70c4-465f-bc1b-cb3a5b39aac4.png)
 
+**Figma**
+
+O detalhamento de cada interface também pode ser visualizado de forma separada no seguinte link:
+
+https://www.figma.com/file/zESLBkNM5DMQ1fd753x8Aa/trabalho?node-id=0-1
+
+
 
 **Etapa 03**
 
