@@ -17,14 +17,21 @@ O diagrama de componentes é uma ferramenta útil para entender a arquitetura de
 
 ## Tecnologias Utilizadas 
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-O diagrama de componentes apresentado mostra a arquitetura de um sistema web que utiliza diferentes tecnologias e serviços para funcionar. O sistema é composto por um página web, escritas em HTML, CSS e JavaScript. Além disso, há um componente de armazenamento local, conhecido como local storage, que é utilizado para armazenar comentários, perfis e avaliações de usuários.
+Para resolver o problema de desenvolvimento da solução, utilizaremos as seguintes tecnologias:
 
-O sistema é conectado à internet e utiliza diferentes serviços e plataformas para funcionar. Um desses serviços é o Netlify, uma plataforma de hospedagem na web que permite que os desenvolvedores implantem e gerenciem seus sites e aplicativos da web. Além disso, o sistema utiliza a API do Google para acessar recursos e serviços oferecidos pela empresa, como mapas, tradução e pesquisa.
+**HTML, CSS e JavaScript**: Linguagens de marcação e programação para desenvolvimento da plataforma web.
 
-O diagrama de componentes é uma ferramenta útil para entender a arquitetura de sistemas complexos, mostrando de forma visual como os diferentes componentes se relacionam entre si. Com ele, é possível entender como cada componente funciona e como eles se conectam, facilitando a manutenção e o desenvolvimento do sistema.
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+**Figma:** Ferramenta de design para criar protótipos e esboços das telas e funcionalidades da plataforma.
 
+**Visual Studio Code:** IDE de desenvolvimento de código-fonte para programação em HTML, CSS e JavaScript.
+
+**GitHub:** Serviço de hospedagem de repositórios de código-fonte para versionamento e colaboração no desenvolvimento da plataforma.
+
+**Google API:** Para implementar funcionalidades de pesquisa, tradução e mapas, e permitir a autenticação de usuários através do Google Sign-In.
+
+Não serão necessárias frameworks ou bibliotecas adicionais para o desenvolvimento da solução, visto que se trata de uma plataforma simples e não requer funcionalidades complexas que demandem o uso de tais recursos. 
+
+Utilizaremos o Figma para facilitar o desenvolvimento do design e das telas da plataforma, e o Visual Studio Code como ambiente de desenvolvimento integrado para escrever e editar o código-fonte. O GitHub será utilizado para o controle de versão e gerenciamento do código-fonte, e a API do Google será utilizada para implementar recursos como a autenticação de usuários através do Google Sign-In.
 
 ## Hospedagem 
 
