@@ -190,10 +190,13 @@ A parte do Desenvolvimento, a elaboração da Arquitetura da Solução, o Diagra
 
 **Figma**
 
-O detalhamento de cada interface também pode ser visualizado de forma separada no seguinte link:
+O detalhamento da etapa do Projeto de Interface pode ser visualizado no seguinte link:
 
 https://www.figma.com/file/zESLBkNM5DMQ1fd753x8Aa/trabalho?node-id=0-1
 
+**Interfaces:**
+
+![image](https://user-images.githubusercontent.com/126628545/233851634-048ce2a6-31e9-4c2c-b033-4ee38ee366ef.png)
 
 
 **Etapa 03**
