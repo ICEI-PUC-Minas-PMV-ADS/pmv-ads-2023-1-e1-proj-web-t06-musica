@@ -237,7 +237,7 @@ As ferramentas empregadas no projeto são:
 
 - **Editor de Código:** Visual Studio Code (VS Code).
 
-_ **Ferramenta de Comunicação entre os sistemas**: Google Ads API (AdWords API).
+- **Ferramenta de Comunicação entre os sistemas**: Google Ads API (AdWords API).
 
 - **Ferramentas de Comunicação entre o grupo:** Whatsapp e Microsoft Teams.
 
