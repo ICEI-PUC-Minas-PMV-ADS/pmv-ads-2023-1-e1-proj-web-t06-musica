@@ -227,11 +227,13 @@ https://www.figma.com/file/zESLBkNM5DMQ1fd753x8Aa/trabalho?node-id=0-1
 
 As ferramentas empregadas no projeto são:
 
-- **Editor de código:** Visual Studio Code (VS Code).
+- **Editor de Código:** Visual Studio Code (VS Code).
 
-- **Ferramentas de comunicação:** Whatsapp e Microsoft Teams.
+_ **Ferramenta de Comunicação entre os sistemas**: Google Ads API (AdWords API).
 
-- **Ferramentas de desenho de tela:** GitHub (Quadro Kanban) e Figma. 
+- **Ferramentas de Comunicação entre o grupo:** Whatsapp e Microsoft Teams.
+
+- **Ferramentas de Desenho de Tela:** GitHub (Quadro Kanban) e Figma. 
 
 Escolhemos utilizar o VS Code como o nosso editor de código principal porque ele é uma ferramenta leve, rápida e altamente personalizável. O VS Code possui diversas extensões disponíveis que nos permitem trabalhar com diversas linguagens de programação, além de ser fácil de integrar com outras ferramentas que utilizamos como o GitHub. 
 
