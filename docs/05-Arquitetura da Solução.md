@@ -30,4 +30,4 @@ Apresente também uma figura explicando como as tecnologias estão relacionadas 
 
 Nosso grupo escolheu utilizar o Netlify para hospedar nosso projeto devido a sua facilidade de uso e configuração. Além disso, o Netlify oferece integração com o Github, o que torna o processo de deploy bastante simples. Outra vantagem é que o Netlify suporta diversas linguagens de programação, incluindo HTML, CSS e JS. Com isso, podemos hospedar facilmente nosso site e torná-lo acessível para todo o público. 
 
-Para exemplificar, você pode conferir o nosso projeto atual hospedado no Netlify no endereço ads-musicmatch.netlify.app
+Para exemplificar, você pode conferir o nosso projeto atual hospedado no Netlify no endereço: ads-musicmatch.netlify.app
