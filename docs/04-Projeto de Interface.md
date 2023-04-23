@@ -175,6 +175,12 @@ Aqui é o músico pode editar a sua foto de perfil, verificar as avaliações da
 
 ![image](https://user-images.githubusercontent.com/126628795/232628537-3a9d9d95-ed77-452e-9048-2ab0b0753916.png)
 
+**Figma**
+
+O detalhamento de cada interface também pode ser visualizado de forma separada no seguinte link:
+
+https://www.figma.com/file/zESLBkNM5DMQ1fd753x8Aa/trabalho?node-id=0-1
+
 
 
 
