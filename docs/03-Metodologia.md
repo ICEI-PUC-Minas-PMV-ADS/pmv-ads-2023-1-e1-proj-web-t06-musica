@@ -198,6 +198,14 @@ https://www.figma.com/file/zESLBkNM5DMQ1fd753x8Aa/trabalho?node-id=0-1
 
 ![image](https://user-images.githubusercontent.com/126628545/233851634-048ce2a6-31e9-4c2c-b033-4ee38ee366ef.png)
 
+**Atualização do Board do GitHub (Kanban) com as atividadeqs concluídas de cada membro no dia 23/04**:
+
+![image](https://user-images.githubusercontent.com/126628545/233852275-33ede8e6-c080-4a77-8107-f2d9b95e55b8.png)
+
+**Board Atualizado com os Issues e Milestones concluídos da Etapa 02 no dia 23/04**:
+
+![image](https://user-images.githubusercontent.com/126628545/233852413-38d72f8b-06a9-4f48-be8d-af5f78ed3750.png)
+
 
 **Etapa 03**
 
