@@ -1,8 +1,17 @@
-# Template padrão do site
+# Template Padrão do Site (EM CONSTRUÇÃO)
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
 
 Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+
+
+Amostra da nossa página de cadastro. **(EM CONSTRUÇÃO)**
+
+
+![image](https://user-images.githubusercontent.com/126628545/235776873-bb8b8559-b4c9-4e83-922f-114d3269c1e5.png)
+
+
+
 
 > **Links Úteis**:
 >
