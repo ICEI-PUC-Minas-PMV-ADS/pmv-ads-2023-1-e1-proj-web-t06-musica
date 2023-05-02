@@ -3,18 +3,11 @@
 
 Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
+**Identidade Visual**
 
-Amostra da nossa página de cadastro. **(EM CONSTRUÇÃO)**
+![image](https://user-images.githubusercontent.com/126628545/235776017-7967d892-aa8d-4992-839b-d15f89fc4023.png)
 
+**Tela de Cadastro** **(EM CONSTRUÇÃO, APENAS UMA AMOSTRA)**
 
 ![image](https://user-images.githubusercontent.com/126628545/235776873-bb8b8559-b4c9-4e83-922f-114d3269c1e5.png)
 
-
-
-
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
