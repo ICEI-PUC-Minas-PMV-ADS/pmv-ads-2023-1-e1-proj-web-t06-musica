@@ -211,14 +211,32 @@ https://www.figma.com/file/zESLBkNM5DMQ1fd753x8Aa/trabalho?node-id=0-1
 
 -	**Planejamento**:
 
+Essa etapa o desenvolvimento das páginas estão sendo realizadas pelo João e o Gabriel.
+
+A página de cadastro do site já foi iniciada juntamente com a lista de Bugs no dia 01/05.
+
 -	**Execução**:
 
+No dia 20/04 decidimos criar uma identididade visual e nomear o nosso projeto. O nome escolhido foi: "Music Match".  
+O Luiz utilizou o Chat GPT para realizarmos essas duas ações.
+
 -	**Evidências**:
+
+**Logo e nome do Projeto**
+
+![image](https://user-images.githubusercontent.com/126628545/235669264-bf8602fa-0811-461c-ac58-aaecc5198940.png)
 
 **Board atualizado 28/04**:
 
 ![image](https://user-images.githubusercontent.com/126628545/235253570-a1615641-33f0-4bb8-a56b-6d6aadc577ec.png)
 
+**Início do Desenvolvimento 28/04**:
+
+![image](https://user-images.githubusercontent.com/126628545/235669735-12db6080-c4e0-482d-ab7a-e63aa547f39b.png)
+
+**Página de Cadastro em construção 02/05:**
+
+![image](https://user-images.githubusercontent.com/126628545/235670102-98825314-0b99-47f4-9850-1044fd2416c5.png)
 
 **Etapa 04**
 
