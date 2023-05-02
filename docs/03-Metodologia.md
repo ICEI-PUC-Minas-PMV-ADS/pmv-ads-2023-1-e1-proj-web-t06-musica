@@ -222,9 +222,13 @@ O Luiz utilizou o Chat GPT para realizarmos essas duas ações.
 
 -	**Evidências**:
 
-**Logo e nome do Projeto**
+**Nome e Identidade Visual do Projeto:**
 
 ![image](https://user-images.githubusercontent.com/126628545/235669264-bf8602fa-0811-461c-ac58-aaecc5198940.png)
+
+**Chat GPT foi a ferramenta utilizada para a escolha e logomarca:**
+
+![image](https://user-images.githubusercontent.com/126628545/235671961-a4c86264-fecd-404e-b6fb-bda874976f0e.png)
 
 **Board atualizado 28/04**:
 
