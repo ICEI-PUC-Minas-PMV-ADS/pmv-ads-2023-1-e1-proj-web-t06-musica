@@ -16,7 +16,7 @@ A organização da equipe está dessa forma:
 
 -	**Product Owner:** Luiz Felipe e Gabriel Souza.
 
--	**Equipe de Desenvolvimento:** Henrique Gabriel, João Leonardo, Luiz Felipe e Daniel Dutra.
+-	**Equipe de Desenvolvimento:** Henrique Gabriel, João Leonardo, Luiz Felipe, Isaac Heder e Daniel Dutra.
 
 -	**Equipe de Design:** Gabriel Souza, Henrique Gabriel, Isaac Heder e Daniel Dutra.
 
