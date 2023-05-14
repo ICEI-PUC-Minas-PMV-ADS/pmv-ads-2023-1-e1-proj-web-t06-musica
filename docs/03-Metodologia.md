@@ -226,7 +226,7 @@ A página de cadastro do site já foi iniciada juntamente com a lista de Bugs no
 O Luiz e o Dutra ofereceram suporte na construção em HTML e CSS no desenvolvimento do projeto. Já o Diogo colaborou com o desenvolvimento e na elaboração do Layout das páginas, ajudando na construção da parte de JavaScript.
 
 O Gabriel, João e Isaac concluíram o desenvolvimento dessa parte do nosso projeto. 
-As funcinalidades desenvolvidas foram a da página de login e da página de cadastro.
+As funcionalidades desenvolvidas foram a da página de login e da página de cadastro.
 
 -	**Evidências**:
 
