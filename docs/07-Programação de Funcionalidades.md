@@ -11,8 +11,7 @@ As funcionalidades desenvolvidas foram as Página de Login e a Página de Cadast
 **Código JavaScript**:
 
 COLOCAR CÓDIGO
-COLOCAR CÓDIGO
-COLOCAR CÓDIGO
+
 
 
 
@@ -29,9 +28,6 @@ COLOCAR CÓDIGO
 
 **Código JavaScript**:
 
-COLOCAR CÓDIGO
-COLOCAR CÓDIGO
-COLOCAR CÓDIGO
 COLOCAR CÓDIGO
 
 
