@@ -242,6 +242,10 @@ As funcinalidades desenvolvidas foram a da página de login e da página de cada
 
 ![image](https://user-images.githubusercontent.com/126628545/235253570-a1615641-33f0-4bb8-a56b-6d6aadc577ec.png)
 
+**Utilização do Tutorial Desenvolvimento Web Front-End produzido pelo prof. Marcos Kutova, disponível no YouTube:**
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/126628545/e2248828-b082-4b1e-b903-8626f174ca3d)
+
 **Início do Desenvolvimento 28/04**:
 
 ![image](https://user-images.githubusercontent.com/126628545/235669735-12db6080-c4e0-482d-ab7a-e63aa547f39b.png)
