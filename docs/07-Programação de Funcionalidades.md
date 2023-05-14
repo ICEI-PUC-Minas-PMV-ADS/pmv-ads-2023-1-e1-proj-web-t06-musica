@@ -1,6 +1,6 @@
 # Programação de Funcionalidades
 
-As funcionalidades desenvolvidas foram a Página de Login e a Página de Cadastro.
+As funcionalidades desenvolvidas foram as Página de Login e a Página de Cadastro.
 
 **Página de Login**:
 
