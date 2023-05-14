@@ -8,27 +8,18 @@ As funcionalidades desenvolvidas foram as Página de Login e a Página de Cadast
 
 
 
-**Código JavaScript**:
+**Funcionalidade**:
 
-COLOCAR CÓDIGO
-
-
-
-
-
-
-
-
-
+Login de usuário no sistema.
 
 **Página de Cadastro**
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/126628545/9507fcd1-c06b-4d79-9394-d007cc662295)
 
 
-**Código JavaScript**:
+**Funcionalidade**:
 
-COLOCAR CÓDIGO
+Confirmação de cadastro do usuário no sistema.
 
 
 
