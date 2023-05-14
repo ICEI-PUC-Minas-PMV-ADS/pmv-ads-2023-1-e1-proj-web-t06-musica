@@ -198,7 +198,7 @@ https://www.figma.com/file/zESLBkNM5DMQ1fd753x8Aa/trabalho?node-id=0-1
 
 ![image](https://user-images.githubusercontent.com/126628545/233851634-048ce2a6-31e9-4c2c-b033-4ee38ee366ef.png)
 
-**Atualização do Board do GitHub (Kanban) com as atividadeqs concluídas de cada membro no dia 23/04**:
+**Atualização do Board do GitHub (Kanban) com as atividades concluídas de cada membro no dia 23/04**:
 
 ![image](https://user-images.githubusercontent.com/126628545/233852275-33ede8e6-c080-4a77-8107-f2d9b95e55b8.png)
 
@@ -249,6 +249,11 @@ As funcinalidades desenvolvidas foram a da página de login e da página de cada
 **Página de Cadastro em construção 02/05:**
 
 ![image](https://user-images.githubusercontent.com/126628545/235670102-98825314-0b99-47f4-9850-1044fd2416c5.png)
+
+**Board atualizado 09/05**:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/126628545/cb84eb8f-1128-4e96-b797-e68899dadb86)
+
 
 **Etapa 04**
 
