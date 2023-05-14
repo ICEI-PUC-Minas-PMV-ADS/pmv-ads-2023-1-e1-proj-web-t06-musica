@@ -238,7 +238,7 @@ As funcinalidades desenvolvidas foram a da página de login e da página de cada
 
 ![image](https://user-images.githubusercontent.com/126628545/235671961-a4c86264-fecd-404e-b6fb-bda874976f0e.png)
 
-**Board atualizado 28/04**:
+**Atualização do Board do GitHub (Kanban) com as atividades concluídas de cada membro no dia 28/04:**
 
 ![image](https://user-images.githubusercontent.com/126628545/235253570-a1615641-33f0-4bb8-a56b-6d6aadc577ec.png)
 
@@ -254,7 +254,7 @@ As funcinalidades desenvolvidas foram a da página de login e da página de cada
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/126628545/cb84eb8f-1128-4e96-b797-e68899dadb86)
 
-**Atualização do Board do GitHub (Kanban) com as atividades concluídas de cada membro no dia 14/05**
+**Atualização do Board do GitHub (Kanban) com as atividades concluídas de cada membro no dia 14/05**:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/126628545/a6d8bad3-cf4a-47fb-b0e6-4525f3340c02)
 
