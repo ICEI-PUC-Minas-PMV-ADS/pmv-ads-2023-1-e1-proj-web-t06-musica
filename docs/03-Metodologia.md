@@ -246,7 +246,7 @@ As funcinalidades desenvolvidas foram a da página de login e da página de cada
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/126628545/e2248828-b082-4b1e-b903-8626f174ca3d)
 
-**Link:** https://www.youtube.com/playlist?list=PLKoAQTS8rBFpxMcfSoiGF5Vy2oZECRIQw
+**Link do Tutorial:** https://www.youtube.com/playlist?list=PLKoAQTS8rBFpxMcfSoiGF5Vy2oZECRIQw
 
 **Início do Desenvolvimento 28/04**:
 
