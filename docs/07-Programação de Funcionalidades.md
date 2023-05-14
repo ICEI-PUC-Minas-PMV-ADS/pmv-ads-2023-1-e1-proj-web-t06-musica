@@ -2,9 +2,9 @@
 
 As funcionalidades desenvolvidas foram a Página de Login e a Página de Cadastro.
 
-**Página de Login**
+**Página de Login**:
 
-https://user-images.githubusercontent.com/126628545/238205937-20e512a6-dd60-4a6a-a7cb-de70c5b3366e.png
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/126628545/20e512a6-dd60-4a6a-a7cb-de70c5b3366e)g
 
 
 
@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/126628545/238205937-20e512a6-dd60-4a6a
 
 **Página de Cadastro**
 
-https://user-images.githubusercontent.com/126628545/238205988-9507fcd1-c06b-4d79-9394-d007cc662295.png
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/126628545/9507fcd1-c06b-4d79-9394-d007cc662295)95.png
 
 
 **Código JavaScript**:
