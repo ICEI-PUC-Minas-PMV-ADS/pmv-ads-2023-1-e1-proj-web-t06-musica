@@ -211,14 +211,22 @@ https://www.figma.com/file/zESLBkNM5DMQ1fd753x8Aa/trabalho?node-id=0-1
 
 -	**Planejamento**:
 
-Essa etapa o desenvolvimento das páginas estão sendo realizadas pelo João e o Gabriel.
+Nesta etapa está planejada a elaboração do Desenvolvimento da solução - Parte 1.
 
-A página de cadastro do site já foi iniciada juntamente com a lista de Bugs no dia 01/05.
+Seguindo também a composição dos referentes tópicos: Template padrão do Site e Programação de Funcionalidades.
+Essa etapa o desenvolvimento das páginas estão sendo realizadas pelo João e o Gabriel.
 
 -	**Execução**:
 
 No dia 20/04 decidimos criar uma identididade visual e nomear o nosso projeto. O nome escolhido foi: "Music Match".  
 O Luiz utilizou o Chat GPT para realizarmos essas duas ações.
+
+A página de cadastro do site já foi iniciada juntamente com a lista de Bugs no dia 01/05.
+
+O Luiz e o Dutra ofereceram suporte na construção em HTML e CSS no desenvolvimento do projeto. Já o Diogo colaborou com o desenvolvimento e na elaboração do Layout das páginas, ajudando na construção da parte de JavaScript.
+
+O Gabriel, João e Isaac concluíram o desenvolvimento dessa parte do nosso projeto. 
+As funcinalidades desenvolvidas foram a da página de login e da página de cadastro.
 
 -	**Evidências**:
 
