@@ -12,10 +12,12 @@ As funcionalidades desenvolvidas foram as Página de Login e a Página de Cadast
 Login de usuário no sistema.
 
 
-Requisitos atendidos:
+**Requisitos atendidos:**
+
 - RNF-001
 
-Artefatos da funcionalidade:
+**Artefatos da funcionalidade:**
+
 - signin.html
 - signin.css
 - signin.js
@@ -35,10 +37,12 @@ Artefatos da funcionalidade:
 Confirmação de cadastro do usuário no sistema.
 
 
-Requisitos atendidos:
+**Requisitos atendidos:**
+
 - RNF-001
 
-Artefatos da funcionalidade:
+**Artefatos da funcionalidade:**
+
 - signup.html
 - signup.css
 - signup.js
