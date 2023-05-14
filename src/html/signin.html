@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="../css/signin.css" />
+    <title>Singin</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <div id ="box">
+          <a href = "#"><h2 id = "tituloprahome"> MusicMatch </h2></a>
+          <a id = "iconetopodapagina" href="#"> <img src="../images/logo.svg" alt="Logo do site"></a>
+          <ul id="box2">
+            <li><a href="#">Inicio</a></li>
+            <li><a href="#">Contato</a></li>
+            <li><a href="#">Suporte</a></li>
+            <li><a href="#">Perfil</a></li>
+          </ul>
+        </div>
+      </header>
+
+    <div class="container">
+      <div class="card">
+        <h1>Entrar</h1>
+
+        <div id="msgError"></div>
+
+        <div class="label-float">
+          <input type="text" id="usuario" paceholder="" required />
+          <label id="userLabel" for="usuario">Usuario</label>
+        </div>
+
+        <div class="label-float">
+          <input type="password" id="senha" paceholder="" required />
+          <label id="senhaLabel" for="senha">Senha</label>
+          <i class="fa fa-eye" aria-hidden="true"></i>
+        </div>
+
+        <div class="justify-center">
+          <button onclick="entrar()">Entrar</button>
+        </div>
+
+        <div class="justify-center">
+          <hr />
+        </div>
+
+        <p>
+          Não possui uma conta?
+          <a href="./signup.html">
+            Cadastre-se
+          </a>
+        </p>
+      </div>
+    </div>
+
+    <script src="../js/signin.js"></script>
+  </body>
+</html>
+
