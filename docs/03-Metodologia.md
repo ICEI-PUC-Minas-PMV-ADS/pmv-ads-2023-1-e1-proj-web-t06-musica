@@ -270,7 +270,7 @@ As funcinalidades desenvolvidas foram a da página de login e da página de cada
 
 **Atualização do Board do GitHub (Kanban) com as atividades concluídas de cada membro no dia 14/05**:
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/126628545/a6d8bad3-cf4a-47fb-b0e6-4525f3340c02)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/126628545/bb374a6c-a070-4a2e-a66d-fee913e0d42d)
 
 **Board Atualizado com os Issues e Milestones concluídos da Etapa 03 no dia 14/05**:
 
