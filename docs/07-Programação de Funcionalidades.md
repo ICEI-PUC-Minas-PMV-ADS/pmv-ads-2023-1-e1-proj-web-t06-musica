@@ -15,7 +15,7 @@ Login de usuário no sistema.
 Requisitos atendidos:
 - RNF-001
 
-*Artefatos da funcionalidade:*
+Artefatos da funcionalidade:
 - signin.html
 - signin.css
 - signin.js
