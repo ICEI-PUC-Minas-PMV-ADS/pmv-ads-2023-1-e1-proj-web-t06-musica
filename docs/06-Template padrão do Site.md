@@ -10,6 +10,10 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/126628545/9507fcd1-c06b-4d79-9394-d007cc662295)
 
+**Página de Usuário**:
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/122392469/2c1bb315-6459-421f-936a-b387b89a730a)
+
+
 
 
 
