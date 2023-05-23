@@ -51,4 +51,24 @@ Preencher os campos do formulário e clicar no botão cadastrar.
 - bg-signin.png
 - logo.svg
 
+# Página de Usuário
+
+FOTO PÁGINA COM TEMPLATE PADRONIZADO
+
+**Funcionalidade**:
+
+**Intruções de uso**:
+
+**Requisitos atendidos:**
+
+**Artefatos da funcionalidade:**
+
+
+
+
+
+
+
+
+
 
