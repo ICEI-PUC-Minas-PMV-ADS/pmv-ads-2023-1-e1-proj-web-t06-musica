@@ -284,6 +284,11 @@ As funcionalidades desenvolvidas foram a da página de login e da página de cad
 
 -	**Evidências**:
 
+**Atualização do Board do GitHub (Kanban) com as atividades concluídas de cada membro no dia 23/05**:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/126628545/a954dca7-d260-416d-8c14-896fa28948da)
+
+
 **Etapa 05**
 
 -	**Planejamento**:
