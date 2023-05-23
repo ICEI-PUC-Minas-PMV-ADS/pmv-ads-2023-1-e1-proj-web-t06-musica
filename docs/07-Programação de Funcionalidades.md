@@ -13,7 +13,7 @@ Login de usuário no sistema.
 
 **Intruções de uso**:
 
-Preencher os campos do formulário e clicar no botão cadastrar.
+Preencher os campos de "Usuário" e "Senha", depois clicar na opção "Entrar".
 
 **Requisitos atendidos:**
 
@@ -37,6 +37,7 @@ Confirmação de cadastro do usuário no sistema.
 
 **Intruções de uso**:
 
+Preencher os campos do formulário e clicar no botão cadastrar.
 
 **Requisitos atendidos:**
 
