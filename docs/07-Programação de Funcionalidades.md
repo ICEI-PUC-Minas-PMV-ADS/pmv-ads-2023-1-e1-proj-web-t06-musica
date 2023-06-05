@@ -11,7 +11,7 @@ As funcionalidades desenvolvidas foram as Página de Login, a Página de Cadastr
 
 Login de usuário no sistema.
 
-**Intruções de uso**:
+**Instruções de uso**:
 
 Preencher os campos de "Usuário" e "Senha", depois clicar na opção "Entrar".
 
@@ -35,7 +35,7 @@ Preencher os campos de "Usuário" e "Senha", depois clicar na opção "Entrar".
 
 Confirmação de cadastro do usuário no sistema.
 
-**Intruções de uso**:
+**Instruções de uso**:
 
 Preencher os campos do formulário e clicar no botão cadastrar.
 
@@ -57,7 +57,7 @@ FOTO PÁGINA COM TEMPLATE PADRONIZADO
 
 **Funcionalidade**:
 
-**Intruções de uso**:
+**Instruções de uso**:
 
 **Requisitos atendidos:**
 
