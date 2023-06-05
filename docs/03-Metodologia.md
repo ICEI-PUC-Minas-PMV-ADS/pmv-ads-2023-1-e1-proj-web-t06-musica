@@ -288,9 +288,15 @@ Devido o cronograma das atividades e o alto volume de páginas estabelecidos ant
 
 Dessa forma, estabelecemos em conjunto com o nosso orientador Marcos o desenvolvimento das páginas de cadastro dos músicos e a página de filtros para localização por diferentes critérios.
 
-O desenvolvimento das páginas foram realizados por todos os membros do grupo, cada qual colaborando com a aplicação dos códigos, buscas por referências de páginas já criadas em outros projetos entre outras maneiras de colaboração.
+O desenvolvimento das páginas e as correções nessa etapa foram realizados por todos os membros do grupo, cada qual colaborando com a aplicação dos códigos, buscas por referências de páginas já criadas em outros projetos entre outras maneiras de colaboração.
 
 -	**Execução**:
+
+No dia 23/05 mapeamos as correções apontadas por nosso orientador em relação ao projeto e iniciamos as alterações necessárias como por exemplo: o  formato de título para destacar cada sessão: “página de login”, “página de cadastro”, alteração da chamada no CSS no HTML, alteração do HTML na página do SRC entre outras.
+
+Já no dia 28/05 mais correções foram efetuadas como a correção do direcionamento do cadastro da página “em construção” para a página “perfilvisita”, a correção no caminho do Arquivo CSS inserido no Documento HTML da página “signup” e outras mais funcionalidades.
+
+No dia 29/05 alteramos o direcionamento para a página index e a mesma foi inserida na página de HTML. Ficou em aberto a alteração do layout padrão do "Header" e do "Footer", pois as páginas possuem algumas diferenças sendo necessária uma padronização.
 
 -	**Evidências**:
 
