@@ -280,6 +280,16 @@ As funcionalidades desenvolvidas foram a da página de login e da página de cad
 
 -	**Planejamento**:
 
+Nesta etapa está planejada a elaboração do Desenvolvimento da solução - Parte 2. 
+
+Seguindo também a composição dos referentes tópicos: Programação das demais funcionalidades; Plano de Testes de Software e Registro de Testes de Software.
+
+Devido o cronograma das atividades e o alto volume de páginas estabelecidos anteriormente em nosso projeto, optamos em reduzir o desenvolvimento das páginas para não comprometermos a qualidade e o prazo de entrega do trabalho.
+
+Dessa forma, estabelecemos em conjunto com o nosso orientador Marcos o desenvolvimento das páginas de cadastro dos músicos e a página de filtros para localização por diferentes critérios.
+
+O desenvolvimento das páginas foram realizados por todos os membros do grupo, cada qual colaborando com a aplicação dos códigos, buscas por referências de páginas já criadas em outros projetos entre outras maneiras de colaboração.
+
 -	**Execução**:
 
 -	**Evidências**:
