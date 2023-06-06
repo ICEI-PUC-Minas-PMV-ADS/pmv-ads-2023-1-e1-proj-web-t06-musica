@@ -1,4 +1,4 @@
-console.log('v1.4');
+console.log('v1.5');
 
 var btAbrirModal = $("#btAbrirModal");
 var modal = $("#modal");
@@ -26,10 +26,9 @@ let artistas = JSON.parse( localStorage.getItem('artistas') ) || [];
 // Cria o método para a busca, ao clicar no botão
 document.querySelector('#btnPesquisar').onclick = function(e) {
     // Recupera o valor do campo (e cancela se estiver vazio)
-    let campoPesquisa = document.querySelector('#inputPesquisa');
-    if(campoPesquisa.value='')
+    if(inputPesquisa.value=='')
         return;
-    console.log('Buscando por: '+ campoPesquisa.value);
+    console.log('Buscando por: '+ inputPesquisa.value);
     
     // Identifica o campo e cria um conteúdo vazio inicial
     listaArtistas.innerHTML = '<ul>';
@@ -37,7 +36,7 @@ document.querySelector('#btnPesquisar').onclick = function(e) {
     // Seleciona os artistas
     let artistasFiltrados = artistas.filter(
         function(artista) {
-           return artista.estilo.toLowerCase() == campoPesquisa.value.toLowerCase() 
+           return artista.estilo.toLowerCase() == inputPesquisa.value.toLowerCase() 
         }
     );
     
