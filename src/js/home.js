@@ -1,4 +1,4 @@
-console.log('v1.3');
+console.log('v1.4');
 
 var btAbrirModal = $("#btAbrirModal");
 var modal = $("#modal");
@@ -29,9 +29,9 @@ document.querySelector('#btnPesquisar').onclick = function(e) {
     let campoPesquisa = document.querySelector('#inputPesquisa');
     if(campoPesquisa.value='')
         return;
+    console.log('Buscando por: '+ campoPesquisa.value;
     
     // Identifica o campo e cria um conteúdo vazio inicial
-    let listaArtistas = document.querySelector('#listaArtistas');
     listaArtistas.innerHTML = '<ul>';
     
     // Seleciona os artistas
