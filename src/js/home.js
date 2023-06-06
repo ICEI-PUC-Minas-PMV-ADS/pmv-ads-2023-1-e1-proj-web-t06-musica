@@ -1,4 +1,4 @@
-console.log('v1.2');
+console.log('v1.3');
 
 var btAbrirModal = $("#btAbrirModal");
 var modal = $("#modal");
@@ -37,7 +37,7 @@ document.querySelector('#btnPesquisar').onclick = function(e) {
     // Seleciona os artistas
     let artistasFiltrados = artistas.filter(
         function(artista) {
-           artista.estilo.toLowerCase() == campoPesquisa.value.toLowerCase() 
+           return artista.estilo.toLowerCase() == campoPesquisa.value.toLowerCase() 
         }
     );
     
