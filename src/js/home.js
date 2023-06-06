@@ -1,4 +1,4 @@
-console.log('v1.1');
+console.log('v1.2');
 
 var btAbrirModal = $("#btAbrirModal");
 var modal = $("#modal");
@@ -34,9 +34,16 @@ document.querySelector('#btnPesquisar').onclick = function(e) {
     let listaArtistas = document.querySelector('#listaArtistas');
     listaArtistas.innerHTML = '<ul>';
     
+    // Seleciona os artistas
+    let artistasFiltrados = artistas.filter(
+        function(artista) {
+           artista.estilo.toLowerCase() == campoPesquisa.value.toLowerCase() 
+        }
+    );
+    
     // Inclui os artistas pesquisados
-    for(let i in artistas) {
-        let art = artistas[i];
+    for(let i in artistasFiltrados) {
+        let art = artistasFiltrados[i];
         listaArtistas.innerHTML += `
              <li>
                  <strong>${art.nome}</strong><br />
