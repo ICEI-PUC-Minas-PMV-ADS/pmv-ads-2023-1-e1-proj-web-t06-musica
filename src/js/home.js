@@ -1,3 +1,5 @@
+console.log('v1.1');
+
 var btAbrirModal = $("#btAbrirModal");
 var modal = $("#modal");
 var modalClose = $("#modal .modal-close");
