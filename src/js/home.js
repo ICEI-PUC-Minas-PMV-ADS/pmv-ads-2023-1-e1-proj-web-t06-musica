@@ -30,7 +30,7 @@ document.querySelector('#btnPesquisar').onclick = function(e) {
     
     // Identifica o campo e cria um conteúdo vazio inicial
     let listaArtistas = document.querySelector('#listaArtistas');
-    let listaArtistas.innerHTML = '<ul>';
+    listaArtistas.innerHTML = '<ul>';
     
     // Inclui os artistas pesquisados
     for(let i in artistas) {
