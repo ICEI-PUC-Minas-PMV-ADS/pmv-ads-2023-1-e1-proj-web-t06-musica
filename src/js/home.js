@@ -29,7 +29,7 @@ document.querySelector('#btnPesquisar').onclick = function(e) {
     let campoPesquisa = document.querySelector('#inputPesquisa');
     if(campoPesquisa.value='')
         return;
-    console.log('Buscando por: '+ campoPesquisa.value;
+    console.log('Buscando por: '+ campoPesquisa.value);
     
     // Identifica o campo e cria um conteúdo vazio inicial
     listaArtistas.innerHTML = '<ul>';
