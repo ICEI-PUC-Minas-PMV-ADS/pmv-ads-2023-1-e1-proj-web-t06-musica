@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aladin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Actor&family=Aladin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Actor&family=Aladin&family=Darker+Grotesque:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Actor&family=Aladin&family=Darker+Grotesque:wght@300&family=Glory&display=swap');
+
+*{
+    margin: 0;
+}
+
+body {
+    margin:0;
+    height: 100vh;
+    width: 100vw;
+    background-image: url("../images/bg-signin.jpg"); width: 100%;
+}
+
+header {
+    background: black; height: 125px;
+
+}
+
+main {
+    width: 100%;
+    align-items: center;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin: 15px;
+    clear:both;  
+    display: flex;
+    justify-content: center;
+   
+} 
+.footercont {
+    text-align: center;
+}
+
+@media (max-width: 600px){
+    main, footer {width: 100%;}
+}
+
+#Pesquisabox{
+    position: absolute;
+    top:17%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    height: 20px;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pesquisa{
+    background: none;
+    border: 0;
+    outline: 0;
+    font-size: 18px;
+    width: 570px;
+    padding: 10px;
+    
+    
+}
+
+#textodestaque{
+    display: flex;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    height: 20px;
+    align-items: center;
+    font-size: 24px;
+    font-family: "Aladin";
+}
+
+
+
+#filtro{
+    border: none;
+    background-color: #FFFFFF;
+}
+
+
+
+
+.hide {
+    display: none;
+}
+
+.modal-bg {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    background: gainsboro;
+    opacity: 0.7;
+}
+
+.modal-content {
+    position: fixed;
+    margin: 0 auto;
+    width: 200px;
+    height: 100px;
+    top: 50px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    background: white;
+    box-shadow: 0px 0px 10px black;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.modal-close {
+    font-size: 2rem;
+    line-height: 1;
+    position: absolute;
+    top: 0px;
+    right: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    color: #AAAAAA;
+    font-family: 'Helvetica Neue', Helvetica, Helvetica, Arial, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#logoNome {
+    position: fixed;
+    height:100%;
+    left: 4%;
+    padding: 2%;
+
+    
+    font-family: 'Aladin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 59px;
+    color: #FFFFFF;
+}
+
+#logoImg {
+    position: fixed;
+    height: 100%;
+    left: 2%;
+    box-sizing: border-box;
+    border-radius: 4%;
+    display:flex;
+    box-sizing: border-box;
+    border-radius: 4%;
+    display:flex;
+    width: 60px;
+    height: 82px;
+    left: 15px;
+    top: 20px;
+   
+}
+
+
+
+
+
+#box2 {
+  
+    display: block;
+    float: right;
+    width: 100%;
+    height: 125px; 
+    background: black;
+    box-shadow: 3px 3px 1px 0px #00000060
+
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  
+  }
+  li{
+    float:right;
+    font-size: 25px;
+    text-align: 50%;
+    padding-top: 32px;
+    
+  }
+  li a {
+    width: 50%;
+    left: 27px;
+    display:block;
+    color: #B400A0;
+    text-align:right;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    text-decoration: #272262;
+  }
