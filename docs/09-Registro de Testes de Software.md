@@ -3,7 +3,7 @@
 A seguir o histórico completo do que foi realizado pela equipe e todas as evidências práticas dos testes de Software.
 
 
-**EX: Acesso na página principal como a figura abaixo:**
+-  **EX: Acesso na página principal como a figura abaixo:**
 
 ----PRINT DA PÁGINA----
 
