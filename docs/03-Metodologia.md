@@ -315,6 +315,10 @@ No encontro, foi possível a construção de um filtro de busca para o site do p
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/126628545/6f672cbf-7554-4e2e-b46e-87ab2a09f903)
 
+**Board Atualizado com os Issues e Milestones concluídos da Etapa 04 no dia 06/06:**
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/126628545/0ed1553c-7af5-4bed-8dba-188dda9d0145)
+
 **Etapa 05**
 
 -	**Planejamento**:
