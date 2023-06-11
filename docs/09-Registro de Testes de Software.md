@@ -8,11 +8,11 @@ A seguir o histórico completo do que foi realizado pela equipe e todas as evid�
 ----PRINT DA PÁGINA----
 
 
-**EX: Cliquei no ícone do login:**
+-  **EX: Cliquei no ícone do login:**
 
 ----PRINT DA PÁGINA----
 
-**EX: Fiz login com e-mail e senha e fui direcionado para a página principal do site :**
+-  **EX: Fiz login com e-mail e senha e fui direcionado para a página principal do site :**
 
 ----PRINT DA PÁGINA----
 
