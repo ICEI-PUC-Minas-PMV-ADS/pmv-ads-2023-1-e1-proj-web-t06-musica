@@ -8,7 +8,7 @@
 
 Logo abaixo estão as descrições dos testes funcionais realizados:
 
-**Caso de Teste:** 
+# Caso de Teste:
 
 - CT 01:
 
@@ -37,7 +37,7 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________
 
-**Caso de Teste:** 
+# Caso de Teste:
 
 - CT 02:
 
