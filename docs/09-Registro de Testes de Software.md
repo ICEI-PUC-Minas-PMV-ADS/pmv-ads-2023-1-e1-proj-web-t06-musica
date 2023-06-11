@@ -16,7 +16,7 @@ A seguir o histórico completo do que foi realizado pela equipe e todas as evid�
 
 ----PRINT DA PÁGINA----
 
-# Conclusão dos Testes de Software:
+# Avaliação dos Testes de Software:
 
 O teste foi bem-sucedido e o registro concluído de forma consistente.
 
@@ -24,18 +24,3 @@ Com o intuito de ilustrar que os dados do trabalho foram armazenados corretament
 
 EX: ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/126628545/544d0b2e-9dc0-4591-aacd-6336635389bb)
 
-
-
-
-
-
-
-
-
-
-## Avaliação
-
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
-
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
