@@ -298,6 +298,9 @@ Já no dia 28/05 mais correções foram efetuadas como a correção do direciona
 
 No dia 29/05 alteramos o direcionamento para a página index e a mesma foi inserida na página de HTML. Ficou em aberto a alteração do layout padrão do "Header" e do "Footer", pois as páginas possuem algumas diferenças sendo necessária uma padronização.
 
+Dia 06/06 ocorreu um encontro com o nosso orientador, estávamos com muita dificuldade para a elaboração de um filtro de busca em nosso site.
+No encontro, foi possível a construção de um filtro de busca para o site do projeto. O Dutra participou da reunião expondo as principais dúvidas do trabalho.
+
 -	**Evidências**:
 
 **Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 04 do trabalho no dia 23/05**:
