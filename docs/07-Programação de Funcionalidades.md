@@ -61,7 +61,7 @@ Etapa seguinte após o usuário realizar o login.
 
 **Instruções de uso**:
 
-Essa página é apenas visual após o usuário realizar o login.
+Essa página é apenas visual após o usuário realizar o login no sistema.
 
 **Requisitos atendidos:**
 
