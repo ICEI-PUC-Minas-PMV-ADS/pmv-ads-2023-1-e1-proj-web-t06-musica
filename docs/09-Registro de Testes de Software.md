@@ -5,12 +5,12 @@ A seguir o histórico completo do que foi realizado pela equipe e todas as evid�
 
 -  **EX: Acesso na página principal como a figura abaixo:**
 
-----PRINT DA PÁGINA----
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/127213695/c3e4d9a5-5253-4f7c-bf78-3930f078e6eb)
 
 
 -  **EX: Cliquei no ícone do login:**
 
-----PRINT DA PÁGINA----
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/127213695/a17db86e-b517-4620-ad2d-9c30ca51b3cc)
 
 -  **EX: Fiz login com e-mail e senha e fui direcionado para a página principal do site :**
 
