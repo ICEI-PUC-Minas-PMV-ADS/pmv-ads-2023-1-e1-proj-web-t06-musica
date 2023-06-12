@@ -16,13 +16,13 @@ A seguir o histórico completo do que foi realizado pela equipe e todas as evid�
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/127213695/e225e3c6-e3e8-49a7-8eb8-782a88d4d5b7)
 
+- **Ao clicar no filtro é possível o usuário selecionar vários estilos musicais anexados na plataforma:**
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/127213695/8d16e931-c753-4dde-be34-7bddad8d2b6c)
 
+**Ao clicar no filtro é possível o usuário selecionar várias regiões geográficas anexadas na plataforma:**
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/127213695/219411dd-76ab-4710-9304-4fe67faec6c8)
-
-
 
 # Avaliação dos Testes de Software:
 
