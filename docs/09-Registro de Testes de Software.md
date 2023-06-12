@@ -8,7 +8,7 @@ A seguir o histórico completo do que foi realizado pela equipe e todas as evid�
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/127213695/c3e4d9a5-5253-4f7c-bf78-3930f078e6eb)
 
 
--  **Ao clicar no ícone cadastrar, o usuário será adicionado na lista conforma abaixo:
+-  **Ao clicar no ícone cadastrar, o usuário será adicionado na lista conforme abaixo:**
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/127213695/a17db86e-b517-4620-ad2d-9c30ca51b3cc)
 
