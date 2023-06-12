@@ -53,15 +53,27 @@ Preencher os campos do formulário e clicar no botão cadastrar.
 
 # Página de Usuário
 
-FOTO PÁGINA COM TEMPLATE PADRONIZADO
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/126628545/385b9710-f47f-4b8c-b063-4abb2e99a419)
 
 **Funcionalidade**:
 
+Etapa seguinte após o usuário realizar o login.
+
 **Instruções de uso**:
+
+Essa página é apenas visual após o usuário realizar o login.
 
 **Requisitos atendidos:**
 
+- RNF-001
+
 **Artefatos da funcionalidade:**
+
+- signin.html
+- signin.css
+- signin.js
+- bg-signin.png
+- logo.svg
 
 
 
