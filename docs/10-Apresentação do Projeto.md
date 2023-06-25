@@ -1,12 +1,20 @@
 # Apresentação
 
+**Slide 01:**
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/126628545/e1495445-2813-4116-a762-c862aa976a60)
+
+**Slide 02**
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/126628545/50946d1d-117a-430c-a7bd-6567253c9a19)
+
 **Título do Projeto** Music Match.
 
 # Identidade Visual.
 
 **Marca do Projeto:**
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/126628545/13312696-5602-4711-9935-a674b3db72f1)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/126628545/04a1b15d-42ac-40ec-9536-39dc9a24df6e)
 
 # Cores e Design
 
