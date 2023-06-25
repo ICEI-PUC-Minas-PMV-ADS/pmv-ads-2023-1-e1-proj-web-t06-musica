@@ -8,7 +8,7 @@
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/126628545/13312696-5602-4711-9935-a674b3db72f1)
 
-**Cores e Design**
+# Cores e Design
 
 As cores e o Design da apresentação seguiram as seguintes composições relativas ao tema do trabalho: Preto, Rosa e Branco.
 
