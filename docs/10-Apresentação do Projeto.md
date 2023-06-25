@@ -2,7 +2,7 @@
 
 **Título do Projeto** Music Match.
 
-## Identidade Visual (Marca, Design)
+# Identidade Visual
 
 **Marca do Projeto:**
 
