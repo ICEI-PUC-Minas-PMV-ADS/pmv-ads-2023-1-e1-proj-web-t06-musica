@@ -20,7 +20,7 @@
 
 As cores e o Design da apresentação seguiram as seguintes composições relativas ao tema do trabalho: Preto, Rosa e Branco.
 
-Além disso, foram utilizadas imagens relacionadas ao nicho músical e tecnológico com o objetivo de fortalecer o tema e a base argumentativa visual do projeto.
+Além disso, foram utilizadas imagens relacionadas ao nicho musical e tecnológico com o objetivo de fortalecer o tema e a base argumentativa teórica do projeto.
 
 **Exemplo Imagem 01:**
 
