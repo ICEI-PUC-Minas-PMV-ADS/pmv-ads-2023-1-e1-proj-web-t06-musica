@@ -1,6 +1,6 @@
 # Apresentação
 
-**Título do Projeto** Music Match.
+**Título do Projeto:** Music Match.
 
 **Slide Apresentação 01:**
 
