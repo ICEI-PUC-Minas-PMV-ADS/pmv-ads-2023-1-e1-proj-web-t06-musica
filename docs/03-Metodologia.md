@@ -323,9 +323,27 @@ No encontro, foi possível a construção de um filtro de busca para o site do p
 
 -	**Planejamento**:
 
+Nesta etapa está planejada a elaboração da Implantação e apresentação da solução.
+
+Seguindo também a composição dos referentes tópicos: Implantação da Solução, Apresentação do Projeto e Vídeo de demonstração da solução.
+
 -	**Execução**:
 
+A execução dessa etapa do projeto foi efetuado pelo Luiz Felipe e Diogo Amancio.
+  
 -	**Evidências**:
+
+**Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 05 do trabalho no dia 20/06**:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/126628545/1f595628-c4ed-4e16-92cd-27dbcdb97386)
+
+**Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 05 do trabalho no dia 21/06**:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/126628545/4ec8c70a-e18c-4826-b5f8-b33f29b862ac)
+
+**Board Atualizado com os Issues e Milestones concluídos da Etapa 05 no dia 25/06:**
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/126628545/9a6a26ba-c455-49c9-9aa0-f59bfd98fe27)
 
 ### Ferramentas 
 
