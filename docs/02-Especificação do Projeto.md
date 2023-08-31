@@ -118,5 +118,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |03| O projeto deve ser desenvolvido apenas pelos membros do grupo.|
 |04| O código do projeto deve ser publicado no Github.|
 
+# Diagrama de Casos de Uso
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/assets/126628545/9abc28de-749d-467d-9394-735499aa290d)
+
+
 
 
