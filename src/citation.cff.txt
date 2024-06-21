@@ -1,0 +1,28 @@
+message: Please cite this software using these metadata.
+title: O projeto consiste na criação de uma lista cadastral de artistas (bandas autorais ou de covers) do cenário musical da cidade de Belo Horizonte e na sua região metropolitana
+authors:
+  - family-names: Dutra De Aguiar
+    given-names: Daniel
+  - family-names: Amâncio Da Silva
+    given-names: Diogo
+  - family-names: Souza
+    given-names: Gabriel
+  - family-names: Gabriel
+    given-names: Henrique
+  - family-names: Heder
+    given-names: Isaac
+  - family-names: Leonardo
+    given-names: João
+  - family-names: Felipe
+    given-names: Luiz
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Andre Silveira Kutova
+    given-names: Marcos
+keywords:
+  - Artistas
+  - Bandas autorais ou de covers
+  - lista cadastral de artistas de Belo Horizonte e região metropolitana
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica
+version: 1.0.0
+date-released: 2022-06-25
